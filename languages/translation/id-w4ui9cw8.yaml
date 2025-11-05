@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: w4ui9cw8
+translations:
+  - language:
+      language: en
+    text: Pages
+  - language:
+      language: es
+    text: paginas
+  - language:
+      language: fr
+    text: Pages
+isFixed: false

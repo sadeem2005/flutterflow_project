@@ -1,0 +1,32 @@
+key: Icon_v5zj7q3c
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_BACKGROUND
+      mostRecentInputValue:
+        themeColor: PRIMARY_BACKGROUND
+    iconDataValue:
+      inputValue:
+        codePoint: 57706
+        family: MaterialIcons
+        matchTextDirection: false
+        name: close
+  alignment:
+    xValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    yValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

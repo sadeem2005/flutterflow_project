@@ -1,0 +1,19 @@
+key: Text_pdbnkrvi
+type: Text
+props:
+  text:
+    themeStyle: DISPLAY_SMALL
+    translationIdentifier:
+      key: z6t3f3ld
+    selectable: false
+    textValue:
+      inputValue: Los Angeles
+      mostRecentInputValue: Los Angeles
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: ud34pzj3
+translations:
+  - language:
+      language: en
+    text: Enter youe mail or phone number
+  - language:
+      language: es
+    text: Ingrese su correo o número de teléfono
+  - language:
+      language: fr
+    text: Entrez votre mail ou votre numéro de téléphone
+isFixed: false

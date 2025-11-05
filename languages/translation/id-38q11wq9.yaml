@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 38q11wq9
+translations:
+  - language:
+      language: en
+    text: Are you sure you want to logout?
+  - language:
+      language: es
+    text: ¿Está seguro de que desea cerrar sesión?
+  - language:
+      language: fr
+    text: Êtes-vous sûr de vouloir vous déconnecter?
+isFixed: false

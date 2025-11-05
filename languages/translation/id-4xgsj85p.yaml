@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 4xgsj85p
+translations:
+  - language:
+      language: en
+    text: Favorite
+  - language:
+      language: es
+    text: Favorito
+  - language:
+      language: fr
+    text: Préféré
+isFixed: false

@@ -1,0 +1,22 @@
+key: RichText_l5btf2sb
+type: RichText
+props:
+  padding:
+    type: FF_PADDING_ALL
+    rightValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    allValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  richText:
+    textStyle:
+      themeStyle: BODY_MEDIUM
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

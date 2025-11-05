@@ -1,0 +1,16 @@
+key: RichTextSpan_fgydi95f
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      themeStyle: TITLE_LARGE
+      translationIdentifier:
+        key: 5w256x3j
+      textValue:
+        inputValue: "21.31"
+        mostRecentInputValue: "21.31"
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

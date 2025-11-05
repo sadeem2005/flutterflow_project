@@ -1,0 +1,19 @@
+key: Text_bs7fnfj4
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: 8r2ftoyt
+    selectable: false
+    textValue:
+      inputValue: Start learning with create your account
+      mostRecentInputValue: Start learning with create your account
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,11 @@
+key: Row_hjz48ng9
+type: Row
+props:
+  row:
+    listSpacing: {}
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

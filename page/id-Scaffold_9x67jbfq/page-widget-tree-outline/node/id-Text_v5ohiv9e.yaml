@@ -1,0 +1,22 @@
+key: Text_v5ohiv9e
+type: Text
+props:
+  text:
+    themeStyle: TITLE_SMALL
+    translationIdentifier:
+      key: l8pyfy3g
+    selectable: false
+    textValue:
+      inputValue: Shipping cost
+      mostRecentInputValue: Shipping cost
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+      mostRecentInputValue:
+        themeColor: SECONDARY_TEXT
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

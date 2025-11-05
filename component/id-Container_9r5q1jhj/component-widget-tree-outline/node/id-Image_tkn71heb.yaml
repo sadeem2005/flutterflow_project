@@ -1,0 +1,35 @@
+key: Image_tkn71heb
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_COVER
+    dimensions: {}
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      topLeftValue:
+        inputValue: 20
+        mostRecentInputValue: 20
+      topRightValue:
+        inputValue: 20
+        mostRecentInputValue: 20
+      bottomLeftValue:
+        inputValue: 20
+        mostRecentInputValue: 20
+      bottomRightValue:
+        inputValue: 20
+        mostRecentInputValue: 20
+      allValue:
+        inputValue: 20
+        mostRecentInputValue: 20
+    cached: true
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/food-cort-c50jtz/assets/mqa4tit6diua/Img_(2).png
+      mostRecentInputValue: projects/food-cort-c50jtz/assets/mqa4tit6diua/Img_(2).png
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

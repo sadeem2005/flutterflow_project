@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: rd1249ma
+translations:
+  - language:
+      language: en
+    text: Get Discount
+  - language:
+      language: es
+    text: Reclame el descuento
+  - language:
+      language: fr
+    text: Réclamez la réduction
+isFixed: false

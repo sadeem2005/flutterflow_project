@@ -1,0 +1,15 @@
+key: Column_kg8i9x3l
+type: Column
+props:
+  column:
+    primary: true
+    listSpacing:
+      startSpacingValue:
+        inputValue: 35
+        mostRecentInputValue: 35
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

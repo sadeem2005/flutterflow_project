@@ -1,0 +1,19 @@
+key: Text_y5s1qjk7
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: 3arxnrib
+    selectable: false
+    textValue:
+      inputValue: Time
+      mostRecentInputValue: Time
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

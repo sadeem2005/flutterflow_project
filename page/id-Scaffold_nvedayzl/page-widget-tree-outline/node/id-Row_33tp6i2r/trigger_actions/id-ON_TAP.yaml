@@ -1,0 +1,6 @@
+rootAction:
+  key: oswese43
+  action:
+    key: edt1alvz
+trigger:
+  triggerType: ON_TAP

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: q2579seh
+translations:
+  - language:
+      language: en
+    text: Super Discount!
+  - language:
+      language: es
+    text: ¡Súper descuento!
+  - language:
+      language: fr
+    text: "Super remise\_!"
+isFixed: false

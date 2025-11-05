@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 5dnqugbt
+translations:
+  - language:
+      language: en
+    text: My Order
+  - language:
+      language: es
+    text: Mi pedido
+  - language:
+      language: fr
+    text: Ma commande
+isFixed: false

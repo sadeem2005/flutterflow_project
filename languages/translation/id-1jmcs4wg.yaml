@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 1jmcs4wg
+translations:
+  - language:
+      language: en
+    text: Completed
+  - language:
+      language: es
+    text: Terminado
+  - language:
+      language: fr
+    text: Complété
+isFixed: false

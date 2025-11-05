@@ -1,0 +1,12 @@
+key: Row_sgbkfc5n
+type: Row
+props:
+  row:
+    crossAxisAlignment: cross_axis_end
+    listSpacing: {}
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

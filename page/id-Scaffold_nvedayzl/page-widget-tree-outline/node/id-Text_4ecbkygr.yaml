@@ -1,0 +1,22 @@
+key: Text_4ecbkygr
+type: Text
+props:
+  text:
+    themeStyle: HEADLINE_SMALL
+    translationIdentifier:
+      key: t6fas3x0
+    selectable: false
+    textValue:
+      inputValue: 40 %
+      mostRecentInputValue: 40 %
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+      mostRecentInputValue:
+        themeColor: PRIMARY
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

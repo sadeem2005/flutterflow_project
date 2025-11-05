@@ -1,0 +1,18 @@
+key: Column_gpp8d2o1
+type: Column
+props:
+  column:
+    primary: true
+    listSpacing:
+      startSpacingValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+  expanded:
+    expandedType: UNEXPANDED
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

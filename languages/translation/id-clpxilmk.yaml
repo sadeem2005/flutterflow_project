@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: clpxilmk
+translations:
+  - language:
+      language: en
+    text: Mastercard
+  - language:
+      language: es
+    text: Tarjeta MasterCard
+  - language:
+      language: fr
+    text: MasterCard
+isFixed: false

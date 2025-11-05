@@ -1,0 +1,17 @@
+key: Text_q76szgac
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: inr065ip
+    selectable: false
+    textValue:
+      inputValue: Payment
+      mostRecentInputValue: Payment
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

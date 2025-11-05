@@ -1,0 +1,17 @@
+key: Text_765y9abn
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: o7mngs8h
+    selectable: false
+    textValue:
+      inputValue: History
+      mostRecentInputValue: History
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

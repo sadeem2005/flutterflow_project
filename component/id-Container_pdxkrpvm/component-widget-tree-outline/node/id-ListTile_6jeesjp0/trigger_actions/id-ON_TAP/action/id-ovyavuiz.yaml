@@ -1,0 +1,20 @@
+bottomSheet:
+  passedParameters:
+    parameterPasses: {}
+    widgetClassNodeKeyRef:
+      key: Container_m7mqv9pr
+  dimensions:
+    height:
+      pixelsValue:
+        inputValue: Infinity
+        mostRecentInputValue: Infinity
+  isDismiss: false
+  backgroundColor:
+    inputValue:
+      color:
+        value: "0"
+  barrierColor: {}
+  useSafeArea: true
+  componentClassNodeKeyRef:
+    key: Container_m7mqv9pr
+key: ovyavuiz

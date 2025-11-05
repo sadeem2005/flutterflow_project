@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 5q82whxw
+translations:
+  - language:
+      language: en
+    text: The taste of the cake is worldwide
+  - language:
+      language: es
+    text: El sabor del pastel es mundial.
+  - language:
+      language: fr
+    text: Le goût du gâteau est mondial
+isFixed: false

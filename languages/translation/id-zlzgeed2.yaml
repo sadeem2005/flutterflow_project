@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: zlzgeed2
+translations:
+  - language:
+      language: en
+    text: 29 Desc 2022
+  - language:
+      language: es
+    text: 29 dic 2022
+  - language:
+      language: fr
+    text: 29 décembre 2022
+isFixed: false

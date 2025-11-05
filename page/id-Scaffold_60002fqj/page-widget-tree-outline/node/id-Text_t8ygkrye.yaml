@@ -1,0 +1,17 @@
+key: Text_t8ygkrye
+type: Text
+props:
+  text:
+    themeStyle: BODY_SMALL
+    translationIdentifier:
+      key: 2ncjg2kj
+    selectable: false
+    textValue:
+      inputValue: $35.05
+      mostRecentInputValue: $35.05
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,81 @@
+key: Button_3t1p66na
+type: Button
+props:
+  button:
+    text:
+      themeStyle: LABEL_MEDIUM
+      translationIdentifier:
+        key: 2fb4jlh6
+      textValue:
+        inputValue: Claim The Discount
+        mostRecentInputValue: Claim The Discount
+      colorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+        mostRecentInputValue:
+          themeColor: SECONDARY_BACKGROUND
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      topLeftValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+      topRightValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+      bottomLeftValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+      bottomRightValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+      allValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+    innerPadding:
+      type: FF_PADDING_ONLY
+      leftValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+      topValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+      rightValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+      bottomValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+    dimensions: {}
+    elevationValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    fillColorValue:
+      inputValue:
+        value: "66319347"
+      mostRecentInputValue:
+        value: "66319347"
+    borderColorValue:
+      inputValue:
+        themeColor: PRIMARY_BACKGROUND
+      mostRecentInputValue:
+        themeColor: PRIMARY_BACKGROUND
+    borderWidthValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+  responsiveVisibility: {}
+  themeOverrides:
+    - tagPath:
+        - 9
+        - 1
+        - 26
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+themeWidgetInfo:
+  identifier:
+    name: ButtonNoColor
+    key: zezq9y
+  widgetHash: 454104242
+valueKey: {}

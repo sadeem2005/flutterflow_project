@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: s2m6hsyu
+translations:
+  - language:
+      language: en
+    text: Detail Two
+  - language:
+      language: es
+    text: Detalle dos
+  - language:
+      language: fr
+    text: Détail deux
+isFixed: false

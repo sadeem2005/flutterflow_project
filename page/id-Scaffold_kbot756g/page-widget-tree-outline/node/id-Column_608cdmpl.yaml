@@ -1,0 +1,23 @@
+key: Column_608cdmpl
+type: Column
+props:
+  column:
+    crossAxisAlignment: cross_axis_stretch
+    scrollable: true
+    primary: true
+    listSpacing:
+      spacingValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+      endSpacingValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+  expanded:
+    expandedType: EXPANDED
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: oj3cf9cd
+translations:
+  - language:
+      language: en
+    text: Modals
+  - language:
+      language: es
+    text: modales
+  - language:
+      language: fr
+    text: Modaux
+isFixed: false

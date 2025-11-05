@@ -1,0 +1,18 @@
+localStateUpdate:
+  updates:
+    - fieldIdentifier:
+        name: expanded
+        key: hjcxo
+      setValue:
+        variable:
+          source: WIDGET_CLASS_PARAMETER
+          baseVariable:
+            widgetClass:
+              paramIdentifier:
+                name: expanded
+                key: 2h8a2i
+          nodeKeyRef:
+            key: Container_pdxkrpvm
+  updateType: WIDGET
+  stateVariableType: WIDGET_CLASS_STATE
+key: ozaq2kq9

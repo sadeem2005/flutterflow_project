@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 6on3f8zv
+translations:
+  - language:
+      language: en
+    text: Enter voucher code
+  - language:
+      language: es
+    text: Ingrese código de descuento
+  - language:
+      language: fr
+    text: Entrer le code du bon
+isFixed: false

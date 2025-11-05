@@ -1,0 +1,196 @@
+key: ChoiceChips_bw7zaxal
+type: ChoiceChips
+props:
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+  expanded:
+    expandedType: UNEXPANDED
+  choiceChips:
+    options:
+      - iconData:
+          codePoint: 62305
+          family: MaterialIcons
+          matchTextDirection: false
+          name: set_meal_outlined
+        label:
+          translationIdentifier:
+            key: xka1s61r
+          textValue:
+            inputValue: Meals
+            mostRecentInputValue: Meals
+      - iconData:
+          codePoint: 59735
+          family: MaterialIcons
+          matchTextDirection: false
+          name: fastfood_sharp
+        label:
+          translationIdentifier:
+            key: m6sm9u15
+          textValue:
+            inputValue: Dinners
+            mostRecentInputValue: Dinners
+      - iconData:
+          codePoint: 61468
+          family: MaterialIcons
+          matchTextDirection: false
+          name: emoji_food_beverage_outlined
+        label:
+          translationIdentifier:
+            key: 1g1zdnvb
+          textValue:
+            inputValue: Drinks
+            mostRecentInputValue: Drinks
+      - label:
+          translationIdentifier:
+            key: nodo0dhn
+          textValue:
+            inputValue: Fast Foods
+            mostRecentInputValue: Fast Foods
+      - iconData:
+          codePoint: 59939
+          family: Tabler-Icons
+          matchTextDirection: false
+          name: meat
+          isCustom: true
+        label:
+          translationIdentifier:
+            key: fbwlmopa
+          textValue:
+            inputValue: Meat
+            mostRecentInputValue: Meat
+    selectedChipStyle:
+      textStyle:
+        themeStyle: BODY_MEDIUM
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY_BACKGROUND
+          mostRecentInputValue:
+            themeColor: PRIMARY_BACKGROUND
+      labelPadding:
+        type: FF_PADDING_ONLY
+        leftValue:
+          inputValue: 4
+          mostRecentInputValue: 4
+        topValue:
+          inputValue: 4
+          mostRecentInputValue: 4
+        rightValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+        bottomValue:
+          inputValue: 4
+          mostRecentInputValue: 4
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 33
+          mostRecentInputValue: 33
+        topRightValue:
+          inputValue: 33
+          mostRecentInputValue: 33
+        bottomLeftValue:
+          inputValue: 33
+          mostRecentInputValue: 33
+        bottomRightValue:
+          inputValue: 33
+          mostRecentInputValue: 33
+        allValue:
+          inputValue: 33
+          mostRecentInputValue: 33
+      backgroundColorValue:
+        inputValue:
+          themeColor: PRIMARY
+        mostRecentInputValue:
+          themeColor: PRIMARY
+      iconColorValue:
+        inputValue:
+          themeColor: PRIMARY_BACKGROUND
+        mostRecentInputValue:
+          themeColor: PRIMARY_BACKGROUND
+      iconSizeValue:
+        inputValue: 18
+        mostRecentInputValue: 18
+      elevationValue:
+        inputValue: 0
+        mostRecentInputValue: 0
+    unselectedChipStyle:
+      textStyle:
+        themeStyle: BODY_MEDIUM
+        colorValue:
+          inputValue:
+            themeColor: SECONDARY_TEXT
+          mostRecentInputValue:
+            themeColor: SECONDARY_TEXT
+      labelPadding:
+        type: FF_PADDING_ONLY
+        leftValue:
+          inputValue: 4
+          mostRecentInputValue: 4
+        topValue:
+          inputValue: 4
+          mostRecentInputValue: 4
+        rightValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+        bottomValue:
+          inputValue: 4
+          mostRecentInputValue: 4
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 33
+          mostRecentInputValue: 33
+        topRightValue:
+          inputValue: 33
+          mostRecentInputValue: 33
+        bottomLeftValue:
+          inputValue: 33
+          mostRecentInputValue: 33
+        bottomRightValue:
+          inputValue: 33
+          mostRecentInputValue: 33
+        allValue:
+          inputValue: 33
+          mostRecentInputValue: 33
+      backgroundColorValue:
+        inputValue:
+          themeColor: ALTERNATE
+        mostRecentInputValue:
+          themeColor: ALTERNATE
+      iconColorValue:
+        inputValue:
+          themeColor: SECONDARY_TEXT
+        mostRecentInputValue:
+          themeColor: SECONDARY_TEXT
+      iconSizeValue:
+        inputValue: 18
+        mostRecentInputValue: 18
+      elevationValue:
+        inputValue: 0
+        mostRecentInputValue: 0
+    initialOption:
+      translationIdentifier:
+        key: vc9mj8g7
+      textValue:
+        inputValue: Meals
+        mostRecentInputValue: Meals
+    childAlignment: wrap_start
+    chipSpacingValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    rowSpacingValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    wrappedValue:
+      inputValue: false
+      mostRecentInputValue: false
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

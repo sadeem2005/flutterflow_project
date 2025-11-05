@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: hnv04kes
+translations:
+  - language:
+      language: en
+    text: Apply Filter
+  - language:
+      language: es
+    text: Aplicar filtro
+  - language:
+      language: fr
+    text: Appliquer le filtre
+isFixed: false

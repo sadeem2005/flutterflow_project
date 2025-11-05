@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: hi2yymxk
+translations:
+  - language:
+      language: en
+    text: Chnage Now
+  - language:
+      language: es
+    text: Cambiar ahora
+  - language:
+      language: fr
+    text: Changement maintenant
+isFixed: false

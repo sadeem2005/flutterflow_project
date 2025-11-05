@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: fr9vo6vw
+translations:
+  - language:
+      language: en
+    text: Sign Up with Facebook
+  - language:
+      language: es
+    text: Registrate con Facebook
+  - language:
+      language: fr
+    text: Inscrivez-vous avec Facebook
+isFixed: false

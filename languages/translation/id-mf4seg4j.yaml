@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: mf4seg4j
+translations:
+  - language:
+      language: en
+    text: "Changes to the Service and\/or Terms:"
+  - language:
+      language: es
+    text: "Cambios al Servicio y\/o Términos:"
+  - language:
+      language: fr
+    text: "Modifications du Service et\/ou des Conditions\_:"
+isFixed: false

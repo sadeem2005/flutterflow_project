@@ -1,0 +1,17 @@
+key: Text_3o3ba2h2
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: 0cxkq1k7
+    selectable: false
+    textValue:
+      inputValue: Face ID
+      mostRecentInputValue: Face ID
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,12 @@
+key: Container_l67f1noa
+type: Container
+props:
+  container:
+    boxDecoration:
+      colorValue:
+        inputValue:
+          value: "0"
+        mostRecentInputValue:
+          value: "0"
+name: lineSeparatorWithText
+isDummyRoot: true

@@ -1,0 +1,57 @@
+key: ToggleIcon_55grk1z8
+type: ToggleIcon
+props:
+  toggleIcon:
+    valueValue:
+      variable:
+        source: LOCAL_STATE
+        baseVariable:
+          localState:
+            fieldIdentifier:
+              name: expanded
+              key: hjcxo
+            stateVariableType: WIDGET_CLASS_STATE
+        nodeKeyRef:
+          key: Container_pdxkrpvm
+        uiBuilderValue:
+          serializedValue: "false"
+      mostRecentInputValue: false
+    iconOnValue:
+      inputValue:
+        sizeValue:
+          inputValue: 22
+          mostRecentInputValue: 22
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY_TEXT
+          mostRecentInputValue:
+            themeColor: PRIMARY_TEXT
+        iconDataValue:
+          inputValue:
+            codePoint: 57706
+            family: MaterialIcons
+            matchTextDirection: false
+            name: close
+    iconOffValue:
+      inputValue:
+        sizeValue:
+          inputValue: 22
+          mostRecentInputValue: 22
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY
+          mostRecentInputValue:
+            themeColor: PRIMARY
+        iconDataValue:
+          inputValue:
+            codePoint: 58751
+            family: MaterialIcons
+            matchTextDirection: false
+            name: settings
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

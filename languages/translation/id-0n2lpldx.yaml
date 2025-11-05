@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 0n2lpldx
+translations:
+  - language:
+      language: en
+    text: Reviews
+  - language:
+      language: es
+    text: Reseñas
+  - language:
+      language: fr
+    text: Commentaires
+isFixed: false

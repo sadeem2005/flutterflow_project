@@ -1,0 +1,34 @@
+key: Column_q320ausv
+type: Column
+props:
+  column:
+    mainAxisAlignment: main_axis_space_between
+    crossAxisAlignment: cross_axis_stretch
+    primary: true
+    listSpacing:
+      spacingValue:
+        inputValue: 10
+        mostRecentInputValue: 10
+  padding:
+    type: FF_PADDING_ALL
+    leftValue:
+      inputValue: 17
+      mostRecentInputValue: 17
+    topValue:
+      inputValue: 17
+      mostRecentInputValue: 17
+    rightValue:
+      inputValue: 17
+      mostRecentInputValue: 17
+    bottomValue:
+      inputValue: 17
+      mostRecentInputValue: 17
+    allValue:
+      inputValue: 17
+      mostRecentInputValue: 17
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

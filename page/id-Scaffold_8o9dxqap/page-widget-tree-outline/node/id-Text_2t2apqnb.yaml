@@ -1,0 +1,20 @@
+key: Text_2t2apqnb
+type: Text
+props:
+  text:
+    themeStyle: DISPLAY_SMALL
+    translationIdentifier:
+      key: h8koak8c
+    selectable: false
+    textValue:
+      inputValue: French
+      mostRecentInputValue: French
+  expanded:
+    expandedType: UNEXPANDED
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

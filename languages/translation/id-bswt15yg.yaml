@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: bswt15yg
+translations:
+  - language:
+      language: en
+    text: Hot Deals 🔥
+  - language:
+      language: es
+    text: Ofertas especiales 🔥
+  - language:
+      language: fr
+    text: Offres spéciales 🔥
+isFixed: false

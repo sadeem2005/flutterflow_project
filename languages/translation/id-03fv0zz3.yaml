@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 03fv0zz3
+translations:
+  - language:
+      language: en
+    text: 1 Grm
+  - language:
+      language: es
+    text: 1 gr
+  - language:
+      language: fr
+    text: 1 gramme
+isFixed: false

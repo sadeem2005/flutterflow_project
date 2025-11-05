@@ -1,0 +1,18 @@
+key: Column_ku0vh3z0
+type: Column
+props:
+  column:
+    primary: true
+    listSpacing:
+      spacingValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+      startSpacingValue:
+        inputValue: 33
+        mostRecentInputValue: 33
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

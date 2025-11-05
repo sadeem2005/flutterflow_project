@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 0lvbcm6x
+translations:
+  - language:
+      language: en
+    text: Close 10.45 PM
+  - language:
+      language: es
+    text: Cierre 22:45
+  - language:
+      language: fr
+    text: Fermeture à 22h45
+isFixed: false

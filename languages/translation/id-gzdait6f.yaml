@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: gzdait6f
+translations:
+  - language:
+      language: en
+    text: Total
+  - language:
+      language: es
+    text: Total
+  - language:
+      language: fr
+    text: Total
+isFixed: false

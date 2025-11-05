@@ -1,0 +1,17 @@
+key: Text_0w41ej4z
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: k9p4o7mq
+    selectable: false
+    textValue:
+      inputValue: General
+      mostRecentInputValue: General
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

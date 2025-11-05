@@ -1,0 +1,79 @@
+key: Container_bip845kc
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 38
+          mostRecentInputValue: 38
+      height:
+        pixelsValue:
+          inputValue: 44
+          mostRecentInputValue: 44
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 4
+          mostRecentInputValue: 4
+        topRightValue:
+          inputValue: 4
+          mostRecentInputValue: 4
+        bottomLeftValue:
+          inputValue: 4
+          mostRecentInputValue: 4
+        bottomRightValue:
+          inputValue: 4
+          mostRecentInputValue: 4
+        allValue:
+          inputValue: 4
+          mostRecentInputValue: 4
+      boxShape: FF_BOX_SHAPE_CIRCLE
+      boxShadow:
+        blurRadiusValue:
+          inputValue: 20
+          mostRecentInputValue: 20
+        colorValue:
+          inputValue:
+            value: "603979776"
+          mostRecentInputValue:
+            value: "603979776"
+        dxValue:
+          inputValue: 0
+          mostRecentInputValue: 0
+        dyValue:
+          inputValue: 4
+          mostRecentInputValue: 4
+      image: {}
+      colorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+        mostRecentInputValue:
+          themeColor: SECONDARY_BACKGROUND
+    childAlignment:
+      xValue:
+        inputValue: 0
+        mostRecentInputValue: 0
+      yValue:
+        inputValue: 0
+        mostRecentInputValue: 0
+    maxDimensions: {}
+    minDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  alignment:
+    xValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    yValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

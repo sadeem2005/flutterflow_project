@@ -1,0 +1,24 @@
+key: RichTextSpan_zkaduuku
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      themeStyle: TITLE_MEDIUM
+      translationIdentifier:
+        key: 1t0nwzcg
+      textValue:
+        inputValue: "Buy 3 "
+        mostRecentInputValue: "Buy 3 "
+      fontSizeValue:
+        inputValue: 22
+        mostRecentInputValue: 22
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY_BACKGROUND
+        mostRecentInputValue:
+          themeColor: PRIMARY_BACKGROUND
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 4c4j2qiq
+translations:
+  - language:
+      language: en
+    text: Home
+  - language:
+      language: es
+    text: Hogar
+  - language:
+      language: fr
+    text: Maison
+isFixed: false

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: a3ezcihm
+translations:
+  - language:
+      language: en
+    text: Nearest Location Detection
+  - language:
+      language: es
+    text: Cancelar
+  - language:
+      language: fr
+    text: Annuler
+isFixed: false

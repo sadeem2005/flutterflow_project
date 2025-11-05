@@ -1,0 +1,24 @@
+key: Text_d3b9mktz
+type: Text
+props:
+  text:
+    themeStyle: BODY_LARGE
+    translationIdentifier:
+      key: k3pnpz7c
+    selectable: false
+    textValue:
+      inputValue: Discount voucher!
+      mostRecentInputValue: Discount voucher!
+    maxLinesValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+    fontWeightValue:
+      inputValue: w600
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

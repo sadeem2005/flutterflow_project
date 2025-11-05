@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 0cxkq1k7
+translations:
+  - language:
+      language: en
+    text: Face ID
+  - language:
+      language: es
+    text: identificación facial
+  - language:
+      language: fr
+    text: Identification du visage
+isFixed: false

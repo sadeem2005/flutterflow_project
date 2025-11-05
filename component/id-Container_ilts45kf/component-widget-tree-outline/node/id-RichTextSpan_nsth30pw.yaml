@@ -1,0 +1,21 @@
+key: RichTextSpan_nsth30pw
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      themeStyle: BODY_SMALL
+      translationIdentifier:
+        key: 0i4n5ela
+      textValue:
+        inputValue: "$ "
+        mostRecentInputValue: "$ "
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY
+        mostRecentInputValue:
+          themeColor: PRIMARY
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

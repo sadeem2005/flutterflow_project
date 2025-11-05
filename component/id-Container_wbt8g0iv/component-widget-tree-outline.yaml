@@ -1,0 +1,29 @@
+node:
+  key: Container_wbt8g0iv
+  children:
+    - key: Container_4d3zoufb
+      children:
+        - key: Row_2syt2hs7
+          children:
+            - key: Container_j3voj7d2
+              children:
+                - key: CircleImage_88ly9l97
+            - key: Column_yvopow4g
+              children:
+                - key: Row_z9zzi3i9
+                  children:
+                    - key: Column_dtb1vwna
+                      children:
+                        - key: Row_f4ztxjdk
+                          children:
+                            - key: Text_n4x0tgdj
+                        - key: Row_e3vctp3y
+                          children:
+                            - key: Text_v07ohi4a
+                - key: Row_hgf57vfb
+                  children:
+                    - key: RichText_myv08rmp
+                      children:
+                        - key: RichTextSpan_ludxlluh
+                        - key: RichTextSpan_d36fr12z
+                    - key: CountController_1mrhi23k

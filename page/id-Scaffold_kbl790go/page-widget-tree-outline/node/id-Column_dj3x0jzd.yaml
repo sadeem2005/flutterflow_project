@@ -1,0 +1,17 @@
+key: Column_dj3x0jzd
+type: Column
+props:
+  column:
+    primary: true
+    listSpacing:
+      startSpacingValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

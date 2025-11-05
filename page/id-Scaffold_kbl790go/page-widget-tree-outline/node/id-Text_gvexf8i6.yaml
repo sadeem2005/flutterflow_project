@@ -1,0 +1,22 @@
+key: Text_gvexf8i6
+type: Text
+props:
+  text:
+    themeStyle: BODY_SMALL
+    translationIdentifier:
+      key: j00829xj
+    selectable: false
+    textValue:
+      inputValue: "4.8"
+      mostRecentInputValue: "4.8"
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+      mostRecentInputValue:
+        themeColor: PRIMARY
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

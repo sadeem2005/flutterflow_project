@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: b3u7as3r
+translations:
+  - language:
+      language: en
+    text: Create Account
+  - language:
+      language: es
+    text: Cancelar
+  - language:
+      language: fr
+    text: Annuler
+isFixed: false

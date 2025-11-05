@@ -1,0 +1,6 @@
+rootAction:
+  key: bgx46j61
+  action:
+    key: 9csmq5hd
+trigger:
+  triggerType: ON_TAP

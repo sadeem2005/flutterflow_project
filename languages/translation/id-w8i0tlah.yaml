@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: w8i0tlah
+translations:
+  - language:
+      language: en
+    text: Password
+  - language:
+      language: es
+    text: Contraseña
+  - language:
+      language: fr
+    text: Mot de passe
+isFixed: false

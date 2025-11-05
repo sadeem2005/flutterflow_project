@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: w4d6l0xg
+translations:
+  - language:
+      language: en
+    text: Security
+  - language:
+      language: es
+    text: Seguridad
+  - language:
+      language: fr
+    text: Sécurité
+isFixed: false

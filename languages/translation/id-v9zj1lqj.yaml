@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: v9zj1lqj
+translations:
+  - language:
+      language: en
+    text: Today
+  - language:
+      language: es
+    text: Hoy
+  - language:
+      language: fr
+    text: Aujourd'hui
+isFixed: false

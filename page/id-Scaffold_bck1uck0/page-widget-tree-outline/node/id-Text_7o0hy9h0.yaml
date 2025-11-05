@@ -1,0 +1,29 @@
+key: Text_7o0hy9h0
+type: Text
+props:
+  text:
+    themeStyle: TITLE_LARGE
+    translationIdentifier:
+      key: rijctza1
+    selectable: false
+    textValue:
+      inputValue: Foodie’s courier send with love
+      mostRecentInputValue: Foodie’s courier send with love
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 30
+      mostRecentInputValue: 30
+    rightValue:
+      inputValue: 30
+      mostRecentInputValue: 30
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

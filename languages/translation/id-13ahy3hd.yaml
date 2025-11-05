@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 13ahy3hd
+translations:
+  - language:
+      language: en
+    text: Master Card
+  - language:
+      language: es
+    text: Tarjeta maestra
+  - language:
+      language: fr
+    text: Carte maîtresse
+isFixed: false

@@ -1,0 +1,17 @@
+key: Column_63ybkttr
+type: Column
+props:
+  column:
+    primary: true
+    listSpacing: {}
+  padding:
+    type: FF_PADDING_ONLY
+    bottomValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

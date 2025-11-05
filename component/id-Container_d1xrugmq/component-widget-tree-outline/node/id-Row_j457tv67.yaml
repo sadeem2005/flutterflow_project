@@ -1,0 +1,14 @@
+key: Row_j457tv67
+type: Row
+props:
+  row:
+    listSpacing:
+      spacingValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

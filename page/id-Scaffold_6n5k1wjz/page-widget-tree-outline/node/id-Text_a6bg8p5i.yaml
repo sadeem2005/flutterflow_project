@@ -1,0 +1,28 @@
+key: Text_a6bg8p5i
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: st0s5x2f
+    selectable: false
+    textValue:
+      inputValue: Veggie Soup
+      mostRecentInputValue: Veggie Soup
+    maxLinesValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  padding:
+    type: FF_PADDING_ONLY
+    rightValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

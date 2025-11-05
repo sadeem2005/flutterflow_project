@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: nrjkv2kp
+translations:
+  - language:
+      language: en
+    text: "- Roast Beaf -"
+  - language:
+      language: es
+    text: "- Carne Asada -"
+  - language:
+      language: fr
+    text: "- Rôti de Bœuf -"
+isFixed: false

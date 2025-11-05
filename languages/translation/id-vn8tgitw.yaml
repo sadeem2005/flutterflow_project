@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: vn8tgitw
+translations:
+  - language:
+      language: en
+    text: Rating
+  - language:
+      language: es
+    text: Clasificación
+  - language:
+      language: fr
+    text: Notation
+isFixed: false

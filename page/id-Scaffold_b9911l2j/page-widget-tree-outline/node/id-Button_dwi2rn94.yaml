@@ -1,0 +1,116 @@
+key: Button_dwi2rn94
+type: Button
+props:
+  button:
+    text:
+      themeStyle: LABEL_LARGE
+      translationIdentifier:
+        key: fr9vo6vw
+      textValue:
+        inputValue: Sign Up with Facebook
+        mostRecentInputValue: Sign Up with Facebook
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      topLeftValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+      topRightValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+      bottomLeftValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+      bottomRightValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+      allValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+    innerPadding:
+      type: FF_PADDING_ONLY
+      leftValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+      topValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+      rightValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+      bottomValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+    dimensions:
+      height:
+        pixelsValue:
+          inputValue: 56
+          mostRecentInputValue: 56
+    elevationValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    fillColorValue:
+      inputValue:
+        themeColor: PRIMARY_BACKGROUND
+      mostRecentInputValue:
+        themeColor: PRIMARY_BACKGROUND
+    borderColorValue:
+      inputValue:
+        paletteColorName: Grey2
+      mostRecentInputValue:
+        paletteColorName: Grey2
+    borderWidthValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        colorValue:
+          inputValue:
+            paletteColorName: Facebook box
+          mostRecentInputValue:
+            paletteColorName: Facebook box
+        iconDataValue:
+          inputValue:
+            codePoint: 59648
+            family: Iconx
+            matchTextDirection: false
+            name: facebookOriginal
+            isCustom: true
+  expanded:
+    expandedType: EXPANDED
+  responsiveVisibility: {}
+  themeOverrides:
+    - tagPath:
+        - 15
+    - tagPath:
+        - 9
+        - 1
+        - 26
+    - tagPath:
+        - 9
+        - 36
+        - 1
+        - 7
+    - tagPath:
+        - 9
+        - 36
+        - 1
+        - 6
+    - tagPath:
+        - 9
+        - 36
+        - 1
+        - 5
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+themeWidgetInfo:
+  identifier:
+    name: ButtoSignupGoogle
+    key: qgoi06
+  widgetHash: 46093822
+valueKey: {}

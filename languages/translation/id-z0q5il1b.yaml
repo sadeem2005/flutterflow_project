@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: z0q5il1b
+translations:
+  - language:
+      language: en
+    text: Home Two
+  - language:
+      language: es
+    text: Hogar dos
+  - language:
+      language: fr
+    text: Maison Deux
+isFixed: false

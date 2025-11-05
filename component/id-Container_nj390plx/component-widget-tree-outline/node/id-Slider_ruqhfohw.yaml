@@ -1,0 +1,42 @@
+key: Slider_ruqhfohw
+type: Slider
+props:
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    rightValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  expanded:
+    expandedType: UNEXPANDED
+  slider:
+    showValue: false
+    numDecimalPlaces: 6
+    activeColorValue:
+      inputValue:
+        themeColor: PRIMARY
+      mostRecentInputValue:
+        themeColor: PRIMARY
+    inactiveColorValue:
+      inputValue:
+        themeColor: ALTERNATE
+      mostRecentInputValue:
+        themeColor: ALTERNATE
+    minValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    maxValue:
+      inputValue: 10
+      mostRecentInputValue: 10
+    initialValueValue:
+      inputValue: 5
+      mostRecentInputValue: 5
+  platformType: MATERIAL
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

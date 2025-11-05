@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 2044raxp
+translations:
+  - language:
+      language: en
+    text: Create Account
+  - language:
+      language: es
+    text: Crear una cuenta
+  - language:
+      language: fr
+    text: Créer un compte
+isFixed: false

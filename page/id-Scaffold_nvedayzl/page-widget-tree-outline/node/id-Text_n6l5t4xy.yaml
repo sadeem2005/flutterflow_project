@@ -1,0 +1,17 @@
+key: Text_n6l5t4xy
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: wt59evq6
+    selectable: false
+    textValue:
+      inputValue: Top of the week
+      mostRecentInputValue: Top of the week
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

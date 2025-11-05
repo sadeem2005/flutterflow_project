@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: h2xdozlk
+translations:
+  - language:
+      language: en
+    text: "Congratulation! your account already created.\nPlease login to get amazing experience."
+  - language:
+      language: es
+    text: "¡Felicitaciones! su cuenta ya creada.\nInicie sesión para obtener una experiencia increíble."
+  - language:
+      language: fr
+    text: "Félicitation ! votre compte déjà créé.\nVeuillez vous connecter pour vivre une expérience incroyable."
+isFixed: false

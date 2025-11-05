@@ -1,0 +1,41 @@
+key: Image_rnrs0cy5
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_NETWORK
+    fit: FF_BOX_FIT_COVER
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: Infinity
+          mostRecentInputValue: Infinity
+      height:
+        pixelsValue:
+          inputValue: Infinity
+          mostRecentInputValue: Infinity
+    borderRadius:
+      type: FF_BORDER_RADIUS_ONLY
+      topLeftValue:
+        inputValue: 0
+        mostRecentInputValue: 0
+      topRightValue:
+        inputValue: 0
+        mostRecentInputValue: 0
+      bottomLeftValue:
+        inputValue: 40
+        mostRecentInputValue: 40
+      bottomRightValue:
+        inputValue: 40
+        mostRecentInputValue: 40
+    cached: true
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: https://images.unsplash.com/photo-1630071074184-a879a29c51bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTYyMDF8MHwxfHNlYXJjaHwzfHxyb2FzdCUyMGJlYWZ8ZW58MHx8fHwxNjk3ODc4ODk5fDA&ixlib=rb-4.0.3&q=80&w=1080
+      mostRecentInputValue: https://images.unsplash.com/photo-1630071074184-a879a29c51bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTYyMDF8MHwxfHNlYXJjaHwzfHxyb2FzdCUyMGJlYWZ8ZW58MHx8fHwxNjk3ODc4ODk5fDA&ixlib=rb-4.0.3&q=80&w=1080
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

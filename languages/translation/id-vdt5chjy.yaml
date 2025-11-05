@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: vdt5chjy
+translations:
+  - language:
+      language: en
+    text: Payment Method
+  - language:
+      language: es
+    text: Método de pago
+  - language:
+      language: fr
+    text: Mode de paiement
+isFixed: false

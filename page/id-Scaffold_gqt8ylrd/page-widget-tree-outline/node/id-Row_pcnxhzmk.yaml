@@ -1,0 +1,15 @@
+key: Row_pcnxhzmk
+type: Row
+props:
+  row:
+    mainAxisAlignment: main_axis_center
+    listSpacing:
+      spacingValue:
+        inputValue: 4
+        mostRecentInputValue: 4
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

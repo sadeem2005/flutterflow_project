@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: wt59evq6
+translations:
+  - language:
+      language: en
+    text: Top of the week
+  - language:
+      language: es
+    text: Lo mejor de la semana
+  - language:
+      language: fr
+    text: Haut de la semaine
+isFixed: false

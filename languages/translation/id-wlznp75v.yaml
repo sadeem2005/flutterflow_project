@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: wlznp75v
+translations:
+  - language:
+      language: en
+    text: "16.00"
+  - language:
+      language: es
+    text: "16.00"
+  - language:
+      language: fr
+    text: 16h00
+isFixed: false

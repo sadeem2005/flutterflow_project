@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 5w256x3j
+translations:
+  - language:
+      language: en
+    text: "21.31"
+  - language:
+      language: es
+    text: "21.31"
+  - language:
+      language: fr
+    text: 21h31
+isFixed: false

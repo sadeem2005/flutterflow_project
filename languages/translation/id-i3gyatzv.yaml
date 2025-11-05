@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: i3gyatzv
+translations:
+  - language:
+      language: en
+    text: Change Password
+  - language:
+      language: es
+    text: Cambiar la contraseña
+  - language:
+      language: fr
+    text: Changer le mot de passe
+isFixed: false

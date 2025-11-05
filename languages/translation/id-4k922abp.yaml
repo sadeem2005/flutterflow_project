@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 4k922abp
+translations:
+  - language:
+      language: en
+    text: Logout
+  - language:
+      language: es
+    text: Cerrar sesión
+  - language:
+      language: fr
+    text: Se déconnecter
+isFixed: false

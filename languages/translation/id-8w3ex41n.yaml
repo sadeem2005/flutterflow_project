@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 8w3ex41n
+translations:
+  - language:
+      language: en
+    text: "Happy! Your food will be made immediately and we will send it after it's finished by the courier, please wait a moment."
+  - language:
+      language: es
+    text: "¡Feliz! Su comida se preparará inmediatamente y la enviaremos una vez que el mensajero la haya terminado, espere un momento."
+  - language:
+      language: fr
+    text: "Heureux! Votre nourriture sera préparée immédiatement et nous l'enverrons une fois terminée par le coursier, veuillez patienter un instant."
+isFixed: false

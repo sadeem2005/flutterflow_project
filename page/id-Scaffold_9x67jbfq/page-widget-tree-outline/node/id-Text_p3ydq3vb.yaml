@@ -1,0 +1,22 @@
+key: Text_p3ydq3vb
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: 536bmziz
+    selectable: false
+    textValue:
+      inputValue: House
+      mostRecentInputValue: House
+    maxLinesValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

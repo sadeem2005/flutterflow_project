@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: tkq1nhez
+translations:
+  - language:
+      language: en
+    text: Recommended
+  - language:
+      language: es
+    text: Recomendado
+  - language:
+      language: fr
+    text: Recommandé
+isFixed: false

@@ -1,0 +1,15 @@
+key: Tab_6755tc8m
+type: Tab
+props:
+  tab:
+    text:
+      translationIdentifier:
+        key: w4ui9cw8
+      textValue:
+        inputValue: Pages
+        mostRecentInputValue: Pages
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

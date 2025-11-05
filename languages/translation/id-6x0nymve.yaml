@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 6x0nymve
+translations:
+  - language:
+      language: en
+    text: English
+  - language:
+      language: es
+    text: Inglés
+  - language:
+      language: fr
+    text: Anglais
+isFixed: false

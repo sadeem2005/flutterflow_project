@@ -1,0 +1,17 @@
+key: Text_bd96s1c2
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: y4bahdkd
+    selectable: false
+    textValue:
+      inputValue: Date
+      mostRecentInputValue: Date
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

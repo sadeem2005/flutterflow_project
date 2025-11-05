@@ -1,0 +1,13 @@
+key: Spacer_u4tgw4dy
+type: Spacer
+props:
+  spacer:
+    flexValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

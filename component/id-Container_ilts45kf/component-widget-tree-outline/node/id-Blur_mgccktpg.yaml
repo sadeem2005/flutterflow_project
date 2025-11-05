@@ -1,0 +1,41 @@
+key: Blur_mgccktpg
+type: Blur
+props:
+  blur:
+    backdrop: true
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      topLeftValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+      topRightValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+      bottomLeftValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+      bottomRightValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+      allValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+    isCircle: false
+    sigmaXValue:
+      inputValue: 5
+      mostRecentInputValue: 5
+    sigmaYValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+    blurValue:
+      inputValue: true
+      mostRecentInputValue: true
+    removeClipValue:
+      inputValue: true
+      mostRecentInputValue: true
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

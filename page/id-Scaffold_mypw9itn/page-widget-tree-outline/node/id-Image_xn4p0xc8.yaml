@@ -1,0 +1,39 @@
+key: Image_xn4p0xc8
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_COVER
+    dimensions:
+      height:
+        pixelsValue:
+          inputValue: 180
+          mostRecentInputValue: 180
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      topLeftValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      topRightValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      bottomLeftValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      bottomRightValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      allValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/food-cort-c50jtz/assets/wljvsqjjrqx4/Ellipse_386.png
+      mostRecentInputValue: projects/food-cort-c50jtz/assets/wljvsqjjrqx4/Ellipse_386.png
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

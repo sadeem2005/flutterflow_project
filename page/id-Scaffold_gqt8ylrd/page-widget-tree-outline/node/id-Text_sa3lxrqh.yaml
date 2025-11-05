@@ -1,0 +1,17 @@
+key: Text_sa3lxrqh
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: q5uurl4d
+    selectable: false
+    textValue:
+      inputValue: Good Morning
+      mostRecentInputValue: Good Morning
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

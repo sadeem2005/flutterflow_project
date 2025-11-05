@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: nteubdc4
+translations:
+  - language:
+      language: en
+    text: Choose your location
+  - language:
+      language: es
+    text: Elija su ubicación
+  - language:
+      language: fr
+    text: Choisissez votre emplacement
+isFixed: false

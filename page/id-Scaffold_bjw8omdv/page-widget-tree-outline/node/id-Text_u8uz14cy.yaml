@@ -1,0 +1,17 @@
+key: Text_u8uz14cy
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: wi0sirhi
+    selectable: false
+    textValue:
+      inputValue: Select location
+      mostRecentInputValue: Select location
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

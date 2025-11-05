@@ -1,0 +1,17 @@
+key: Text_g98wzrjw
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: 03fv0zz3
+    selectable: false
+    textValue:
+      inputValue: 1 Grm
+      mostRecentInputValue: 1 Grm
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

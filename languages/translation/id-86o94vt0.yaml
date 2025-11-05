@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 86o94vt0
+translations:
+  - language:
+      language: en
+    text: Builderking
+  - language:
+      language: es
+    text: constructor
+  - language:
+      language: fr
+    text: Construction
+isFixed: false

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: laq1e1na
+translations:
+  - language:
+      language: en
+    text: Email or Phone Number
+  - language:
+      language: es
+    text: Correo electrónico o número de teléfono
+  - language:
+      language: fr
+    text: E-mail ou numéro de téléphone
+isFixed: false

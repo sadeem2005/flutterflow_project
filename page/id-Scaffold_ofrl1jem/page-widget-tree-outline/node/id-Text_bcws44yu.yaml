@@ -1,0 +1,19 @@
+key: Text_bcws44yu
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: t0v4dcf1
+    selectable: false
+    textValue:
+      inputValue: Calories
+      mostRecentInputValue: Calories
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

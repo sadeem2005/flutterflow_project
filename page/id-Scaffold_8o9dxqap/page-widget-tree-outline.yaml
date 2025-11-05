@@ -1,0 +1,59 @@
+node:
+  key: Scaffold_8o9dxqap
+  body:
+    key: Stack_a8uyv6gh
+    children:
+      - key: Container_9qqa6t1e
+        children:
+          - key: Column_onc6t35c
+            children:
+              - key: Container_svrxf48g
+                children:
+                  - key: Row_9lhon160
+                    children:
+                      - key: IconButton_d9sts0eu
+                      - key: Text_13cu7b6u
+                      - key: IconButton_7r8eccsr
+              - key: Column_wp7lko30
+                children:
+                  - key: Column_82l9ev4h
+                    children:
+                      - key: Row_enarxgef
+                        children:
+                          - key: TextField_r6iznuc3
+                      - key: Column_8q3rf3sh
+                        children:
+                          - key: Container_5qgwisyp
+                            children:
+                              - key: Row_qevfbknz
+                                children:
+                                  - key: Row_wo4om2e1
+                                    children:
+                                      - key: CircleImage_42czth22
+                                      - key: Text_hhgd19vm
+                                  - key: Stack_lgmme90k
+                                    children:
+                                      - key: Icon_rgozd7dj
+                          - key: Container_dvtj5xap
+                            children:
+                              - key: Row_ncn6x5jl
+                                children:
+                                  - key: Row_fofy6ecg
+                                    children:
+                                      - key: CircleImage_s6q4zne9
+                                      - key: Text_lcnmppqw
+                                  - key: Stack_7fthzrf1
+                                    children:
+                                      - key: Icon_o6u3d1bq
+                          - key: Container_4aglc334
+                            children:
+                              - key: Row_fxmc803o
+                                children:
+                                  - key: Row_2nyn5kni
+                                    children:
+                                      - key: CircleImage_a2886wmr
+                                      - key: Text_2t2apqnb
+                                  - key: Stack_6f9t59a9
+                                    children:
+                                      - key: Icon_bowkiebt
+      - key: Container_ehxeq67x

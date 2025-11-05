@@ -1,0 +1,19 @@
+key: Text_jay8b5kz
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: 96yt5u83
+    selectable: false
+    textValue:
+      inputValue: Password
+      mostRecentInputValue: Password
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

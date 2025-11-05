@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: cryv162n
+translations:
+  - language:
+      language: en
+    text: Change Language
+  - language:
+      language: es
+    text: Cambiar idioma
+  - language:
+      language: fr
+    text: Changer de langue
+isFixed: false

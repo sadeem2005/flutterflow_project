@@ -1,0 +1,20 @@
+key: Text_ftc19yvn
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: tj5ofugi
+    selectable: false
+    textValue:
+      inputValue: Have an acccount
+      mostRecentInputValue: Have an acccount
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

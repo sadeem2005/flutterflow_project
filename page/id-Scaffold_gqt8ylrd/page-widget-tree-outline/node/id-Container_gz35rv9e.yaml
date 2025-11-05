@@ -1,0 +1,16 @@
+key: Container_gz35rv9e
+type: Container
+props:
+  alignment: {}
+  expanded: {}
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues:
+  widgetClassNodeKeyRef:
+    key: Container_ilts45kf
+valueKey: {}
+componentClassKeyRef:
+  key: Container_ilts45kf

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: rkilnmjw
+translations:
+  - language:
+      language: en
+    text: Create New Password
+  - language:
+      language: es
+    text: Crear nueva contraseña
+  - language:
+      language: fr
+    text: Créer un nouveau mot de passe
+isFixed: false

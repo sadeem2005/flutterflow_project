@@ -1,0 +1,24 @@
+key: Text_l3vhiplu
+type: Text
+props:
+  text:
+    themeStyle: HEADLINE_SMALL
+    translationIdentifier:
+      key: c0zrx0bz
+    selectable: false
+    textValue:
+      inputValue: "Hei, FoodCorner!"
+      mostRecentInputValue: "Hei, FoodCorner!"
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_BACKGROUND
+      mostRecentInputValue:
+        themeColor: PRIMARY_BACKGROUND
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

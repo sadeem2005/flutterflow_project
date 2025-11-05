@@ -1,0 +1,24 @@
+key: Text_k1klg4ic
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: tflw4s1f
+    selectable: false
+    textValue:
+      inputValue: Viral stacking cake with honey
+      mostRecentInputValue: Viral stacking cake with honey
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_BACKGROUND
+      mostRecentInputValue:
+        themeColor: PRIMARY_BACKGROUND
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,62 @@
+node:
+  key: Scaffold_kbl790go
+  body:
+    key: Stack_pgggjiae
+    children:
+      - key: Container_trsr3uuz
+        children:
+          - key: Column_wlbjgqj2
+            children:
+              - key: Container_wgtdicus
+                children:
+                  - key: Row_ssnvxbz1
+                    children:
+                      - key: IconButton_7fz9g4m5
+                      - key: Text_wzgnraes
+                      - key: Container_hcl3t48t
+              - key: Column_80r0oi5b
+                children:
+                  - key: Column_dj3x0jzd
+                    children:
+                      - key: Container_4xm7a039
+                        children:
+                          - key: Image_39fxy2d9
+                  - key: Column_ranwppjl
+                    children:
+                      - key: Row_cfy3xsp5
+                        children:
+                          - key: Text_v9p6bvv2
+                      - key: Row_jmbfdw4u
+                        children:
+                          - key: Text_s4xzyrm0
+                  - key: Row_yerlt75b
+                    children:
+                      - key: Button_w4za31ta
+                  - key: Container_6owd30h3
+                  - key: Column_b6gihjsq
+                    children:
+                      - key: Row_6be39d6u
+                        children:
+                          - key: TextField_vv6dm8r3
+                      - key: Row_p7p54k9c
+                        children:
+                          - key: Container_ng8zg6by
+                            children:
+                              - key: Icon_0jmweovp
+                          - key: Column_zxg9wjpt
+                            children:
+                              - key: Row_k8ydsd4x
+                                children:
+                                  - key: Text_wb61ug9n
+                              - key: Row_4dghff1x
+                                children:
+                                  - key: Row_rdu6ru16
+                                    children:
+                                      - key: Icon_82tok8md
+                                      - key: Text_gvexf8i6
+                                  - key: Container_w9p50kru
+                                  - key: Text_ewlipnsk
+                          - key: Checkbox_n4939864
+                      - key: Container_9pd4y8i1
+                      - key: Container_6tdrub8a
+      - key: Container_n15b5czk

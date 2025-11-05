@@ -1,0 +1,35 @@
+name: navigator
+params:
+  2h8a2i:
+    identifier:
+      name: expanded
+      key: 2h8a2i
+    defaultValue:
+      serializedValue: "false"
+    dataType:
+      scalarType: Boolean
+      nonNullable: false
+node:
+  key: Container_pdxkrpvm
+classModel:
+  stateFields:
+    - parameter:
+        identifier:
+          name: expanded
+          key: hjcxo
+        defaultValue: {}
+        dataType:
+          scalarType: Boolean
+          nonNullable: true
+      serializedDefaultValue:
+        - "false"
+    - parameter:
+        identifier:
+          name: hide
+          key: mqaup
+        defaultValue: {}
+        dataType:
+          scalarType: Boolean
+          nonNullable: true
+      serializedDefaultValue:
+        - "false"

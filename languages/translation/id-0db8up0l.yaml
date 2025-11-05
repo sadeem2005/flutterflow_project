@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 0db8up0l
+translations:
+  - language:
+      language: en
+    text: Price
+  - language:
+      language: es
+    text: Precio
+  - language:
+      language: fr
+    text: Prix
+isFixed: false

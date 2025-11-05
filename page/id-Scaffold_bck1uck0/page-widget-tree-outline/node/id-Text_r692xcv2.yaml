@@ -1,0 +1,29 @@
+key: Text_r692xcv2
+type: Text
+props:
+  text:
+    themeStyle: TITLE_LARGE
+    translationIdentifier:
+      key: f9al2jiq
+    selectable: false
+    textValue:
+      inputValue: The experience of buying food quickly
+      mostRecentInputValue: The experience of buying food quickly
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 30
+      mostRecentInputValue: 30
+    rightValue:
+      inputValue: 30
+      mostRecentInputValue: 30
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

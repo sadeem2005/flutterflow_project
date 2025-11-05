@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: m70he3lc
+translations:
+  - language:
+      language: en
+    text: My Order
+  - language:
+      language: es
+    text: Mi pedido
+  - language:
+      language: fr
+    text: Ma commande
+isFixed: false

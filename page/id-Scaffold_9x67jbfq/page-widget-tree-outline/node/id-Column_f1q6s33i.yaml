@@ -1,0 +1,17 @@
+key: Column_f1q6s33i
+type: Column
+props:
+  column:
+    scrollable: false
+    primary: true
+    listSpacing:
+      spacingValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+name: VoucherCodeColumn
+parameterValues: {}

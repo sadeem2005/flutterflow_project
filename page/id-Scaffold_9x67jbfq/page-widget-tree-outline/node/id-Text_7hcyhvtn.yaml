@@ -1,0 +1,17 @@
+key: Text_7hcyhvtn
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: 5bayq5h5
+    selectable: false
+    textValue:
+      inputValue: Voucher Code
+      mostRecentInputValue: Voucher Code
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

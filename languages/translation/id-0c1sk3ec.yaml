@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 0c1sk3ec
+translations:
+  - language:
+      language: en
+    text: Forgot Password?
+  - language:
+      language: es
+    text: ¿Has olvidado tu contraseña?
+  - language:
+      language: fr
+    text: Mot de passe oublié?
+isFixed: false

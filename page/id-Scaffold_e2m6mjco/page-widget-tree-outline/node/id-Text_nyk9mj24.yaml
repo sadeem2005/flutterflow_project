@@ -1,0 +1,17 @@
+key: Text_nyk9mj24
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: ltse1dpj
+    selectable: false
+    textValue:
+      inputValue: Tracking
+      mostRecentInputValue: Tracking
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

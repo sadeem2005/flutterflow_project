@@ -1,0 +1,19 @@
+key: Text_7iy9o7zo
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: 8tqeg719
+    selectable: false
+    textValue:
+      inputValue: Card Number
+      mostRecentInputValue: Card Number
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

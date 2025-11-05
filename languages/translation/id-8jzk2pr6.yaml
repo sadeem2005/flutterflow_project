@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 8jzk2pr6
+translations:
+  - language:
+      language: en
+    text: click auto-find or enter your current location to find restaurants around you
+  - language:
+      language: es
+    text: haga clic en buscar automáticamente o ingrese su ubicación actual para encontrar restaurantes a su alrededor
+  - language:
+      language: fr
+    text: cliquez sur la recherche automatique ou entrez votre position actuelle pour trouver des restaurants autour de vous
+isFixed: false

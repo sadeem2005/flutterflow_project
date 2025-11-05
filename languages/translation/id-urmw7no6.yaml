@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: urmw7no6
+translations:
+  - language:
+      language: en
+    text: Address
+  - language:
+      language: es
+    text: DIRECCIÓN
+  - language:
+      language: fr
+    text: Adresse
+isFixed: false

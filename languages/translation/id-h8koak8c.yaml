@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: h8koak8c
+translations:
+  - language:
+      language: en
+    text: French
+  - language:
+      language: es
+    text: Francés
+  - language:
+      language: fr
+    text: Français
+isFixed: false

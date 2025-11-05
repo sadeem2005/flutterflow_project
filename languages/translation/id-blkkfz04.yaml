@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: blkkfz04
+translations:
+  - language:
+      language: en
+    text: "- Asian Baf Bread -"
+  - language:
+      language: es
+    text: "- Pan Baf asiático -"
+  - language:
+      language: fr
+    text: "- Pain Baf Asiatique -"
+isFixed: false

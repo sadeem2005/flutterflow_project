@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: q5uurl4d
+translations:
+  - language:
+      language: en
+    text: Good Morning
+  - language:
+      language: es
+    text: Buen día
+  - language:
+      language: fr
+    text: Bonjour
+isFixed: false

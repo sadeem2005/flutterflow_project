@@ -1,0 +1,20 @@
+key: Text_1v6hmvii
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: ou77jxtd
+    selectable: false
+    textValue:
+      inputValue: demo@email.com
+      mostRecentInputValue: demo@email.com
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

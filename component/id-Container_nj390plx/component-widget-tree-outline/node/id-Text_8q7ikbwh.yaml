@@ -1,0 +1,19 @@
+key: Text_8q7ikbwh
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: ra08b12o
+    selectable: false
+    textValue:
+      inputValue: Categories
+      mostRecentInputValue: Categories
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

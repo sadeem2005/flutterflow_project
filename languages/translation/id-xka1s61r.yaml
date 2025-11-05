@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: xka1s61r
+translations:
+  - language:
+      language: en
+    text: Meals
+  - language:
+      language: es
+    text: Comidas
+  - language:
+      language: fr
+    text: Repas
+isFixed: false

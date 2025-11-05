@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: bzzsk2tt
+translations:
+  - language:
+      language: en
+    text: Home
+  - language:
+      language: es
+    text: Hogar
+  - language:
+      language: fr
+    text: Maison
+isFixed: false

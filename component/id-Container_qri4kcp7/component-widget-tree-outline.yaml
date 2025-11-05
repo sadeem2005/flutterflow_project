@@ -1,0 +1,22 @@
+node:
+  key: Container_qri4kcp7
+  children:
+    - key: Container_dwawp49u
+      children:
+        - key: Row_4tukrjl5
+          children:
+            - key: Container_qsc9xhn1
+              children:
+                - key: Image_sh3vtilx
+            - key: Column_epu4on2p
+              children:
+                - key: Row_2py032vq
+                  children:
+                    - key: Text_gb7bf1f3
+                - key: Row_pm4bs1gi
+                  children:
+                    - key: RichText_v2ai4yfa
+                      children:
+                        - key: RichTextSpan_zlmcf6vf
+                        - key: RichTextSpan_qu8b3v2z
+                    - key: CountController_6qizqygt

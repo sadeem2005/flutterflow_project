@@ -1,0 +1,19 @@
+key: Text_qxmpmosd
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: 4qzgey7i
+    selectable: false
+    textValue:
+      inputValue: Add Extra Ingredients
+      mostRecentInputValue: Add Extra Ingredients
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

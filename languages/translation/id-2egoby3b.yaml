@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 2egoby3b
+translations:
+  - language:
+      language: en
+    text: Find and Get Your Best Food
+  - language:
+      language: es
+    text: Encuentre y obtenga su mejor comida
+  - language:
+      language: fr
+    text: Trouvez et obtenez votre meilleure nourriture
+isFixed: false

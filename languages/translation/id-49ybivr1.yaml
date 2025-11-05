@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 49ybivr1
+translations:
+  - language:
+      language: en
+    text: My Favorite
+  - language:
+      language: es
+    text: Mi favorito
+  - language:
+      language: fr
+    text: Mon préféré
+isFixed: false

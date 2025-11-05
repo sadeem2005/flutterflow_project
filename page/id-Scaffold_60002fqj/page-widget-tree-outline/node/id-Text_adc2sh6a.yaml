@@ -1,0 +1,17 @@
+key: Text_adc2sh6a
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: c9v2aqiz
+    selectable: false
+    textValue:
+      inputValue: 29 Desc 2022
+      mostRecentInputValue: 29 Desc 2022
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

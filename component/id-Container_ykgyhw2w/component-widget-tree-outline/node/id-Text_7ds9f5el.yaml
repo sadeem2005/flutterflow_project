@@ -1,0 +1,17 @@
+key: Text_7ds9f5el
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: 4wms16ni
+    selectable: false
+    textValue:
+      inputValue: Beef
+      mostRecentInputValue: Beef
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

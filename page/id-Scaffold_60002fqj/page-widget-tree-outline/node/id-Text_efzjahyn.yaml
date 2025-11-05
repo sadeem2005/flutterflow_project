@@ -1,0 +1,19 @@
+key: Text_efzjahyn
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: ic8o8fcw
+    selectable: false
+    textValue:
+      inputValue: Delinas Resto
+      mostRecentInputValue: Delinas Resto
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

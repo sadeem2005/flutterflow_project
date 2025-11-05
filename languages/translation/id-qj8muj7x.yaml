@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: qj8muj7x
+translations:
+  - language:
+      language: en
+    text: Tracking
+  - language:
+      language: es
+    text: Seguimiento
+  - language:
+      language: fr
+    text: Suivi
+isFixed: false

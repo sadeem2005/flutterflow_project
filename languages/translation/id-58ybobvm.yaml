@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 58ybobvm
+translations:
+  - language:
+      language: en
+    text: Signin
+  - language:
+      language: es
+    text: Iniciar sesión
+  - language:
+      language: fr
+    text: Se connecter
+isFixed: false

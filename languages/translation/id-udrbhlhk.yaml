@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: udrbhlhk
+translations:
+  - language:
+      language: en
+    text: Checkout Now
+  - language:
+      language: es
+    text: Chequear ahora
+  - language:
+      language: fr
+    text: Passer à la caisse
+isFixed: false

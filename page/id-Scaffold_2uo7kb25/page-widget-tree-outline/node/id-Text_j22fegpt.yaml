@@ -1,0 +1,22 @@
+key: Text_j22fegpt
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: wjruofus
+    selectable: false
+    textValue:
+      inputValue: Grilled meat with kepunari sauce
+      mostRecentInputValue: Grilled meat with kepunari sauce
+    maxLinesValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

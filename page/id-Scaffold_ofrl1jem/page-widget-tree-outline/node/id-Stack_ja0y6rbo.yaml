@@ -1,0 +1,22 @@
+key: Stack_ja0y6rbo
+type: Stack
+props:
+  expanded:
+    expandedType: EXPANDED
+  stack:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: Infinity
+          mostRecentInputValue: Infinity
+      height:
+        pixelsValue:
+          inputValue: 200
+          mostRecentInputValue: 200
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

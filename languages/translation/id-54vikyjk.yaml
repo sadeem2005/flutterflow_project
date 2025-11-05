@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 54vikyjk
+translations:
+  - language:
+      language: en
+    text: Search language
+  - language:
+      language: es
+    text: Idioma de búsqueda
+  - language:
+      language: fr
+    text: Langue de recherche
+isFixed: false

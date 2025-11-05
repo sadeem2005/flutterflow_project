@@ -1,0 +1,19 @@
+key: Column_6j6fr7je
+type: Column
+props:
+  column:
+    scrollable: true
+    primary: true
+    listSpacing:
+      spacingValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+      startSpacingValue:
+        inputValue: 20
+        mostRecentInputValue: 20
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

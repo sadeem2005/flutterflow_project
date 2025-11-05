@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 33gpjjpl
+translations:
+  - language:
+      language: en
+    text: Help & Support
+  - language:
+      language: es
+    text: Servicio de asistencia
+  - language:
+      language: fr
+    text: Support d'aide
+isFixed: false

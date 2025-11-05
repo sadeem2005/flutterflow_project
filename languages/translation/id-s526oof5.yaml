@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: s526oof5
+translations:
+  - language:
+      language: en
+    text: Get Discount
+  - language:
+      language: es
+    text: Obtener descuento
+  - language:
+      language: fr
+    text: Obtenez une remise
+isFixed: false

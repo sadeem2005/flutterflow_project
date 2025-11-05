@@ -1,0 +1,16 @@
+key: RichTextSpan_hyzwm3wz
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      themeStyle: TITLE_SMALL
+      translationIdentifier:
+        key: vgpdy1v9
+      textValue:
+        inputValue: "40% discount for purchases over "
+        mostRecentInputValue: "40% discount for purchases over "
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

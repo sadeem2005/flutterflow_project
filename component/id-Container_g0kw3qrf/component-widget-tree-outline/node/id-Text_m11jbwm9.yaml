@@ -1,0 +1,17 @@
+key: Text_m11jbwm9
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: ul6qwuuh
+    selectable: false
+    textValue:
+      inputValue: Date
+      mostRecentInputValue: Date
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

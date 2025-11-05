@@ -1,0 +1,15 @@
+key: Tab_5vyucu76
+type: Tab
+props:
+  tab:
+    text:
+      translationIdentifier:
+        key: oj3cf9cd
+      textValue:
+        inputValue: Modals
+        mostRecentInputValue: Modals
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

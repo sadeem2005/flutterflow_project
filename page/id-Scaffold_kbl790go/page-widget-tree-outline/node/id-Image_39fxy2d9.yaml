@@ -1,0 +1,50 @@
+key: Image_39fxy2d9
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_CONTAIN
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 80
+          mostRecentInputValue: 80
+      height:
+        pixelsValue:
+          inputValue: 80
+          mostRecentInputValue: 80
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      topLeftValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      topRightValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      bottomLeftValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      bottomRightValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      allValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+    cached: true
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/food-cort-c50jtz/assets/ukmbaup16ivl/restaurant_1.png
+      mostRecentInputValue: projects/food-cort-c50jtz/assets/ukmbaup16ivl/restaurant_1.png
+  alignment:
+    xValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    yValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

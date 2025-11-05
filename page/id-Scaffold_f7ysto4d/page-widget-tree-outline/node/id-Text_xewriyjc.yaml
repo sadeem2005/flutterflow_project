@@ -1,0 +1,24 @@
+key: Text_xewriyjc
+type: Text
+props:
+  text:
+    themeStyle: BODY_LARGE
+    translationIdentifier:
+      key: etwd1z7n
+    selectable: false
+    textValue:
+      inputValue: New update! Ver 1.87
+      mostRecentInputValue: New update! Ver 1.87
+    maxLinesValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+    fontWeightValue:
+      inputValue: w600
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

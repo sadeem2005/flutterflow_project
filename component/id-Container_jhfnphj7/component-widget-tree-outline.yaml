@@ -1,0 +1,29 @@
+node:
+  key: Container_jhfnphj7
+  children:
+    - key: Column_9dphynlf
+      children:
+        - key: Spacer_u4tgw4dy
+        - key: Container_xwnnir4l
+          children:
+            - key: Column_a4kimxe1
+              children:
+                - key: Column_f79u197s
+                  children:
+                    - key: Row_a2hvrfym
+                      children:
+                        - key: Text_ylrb1rc5
+                    - key: Row_srps78wo
+                      children:
+                        - key: Text_f97dl2e2
+                - key: Column_2ndtjszp
+                  children:
+                    - key: Row_wy7l65i8
+                      children:
+                        - key: Text_hitfvw6b
+                    - key: Row_70wk8v3o
+                      children:
+                        - key: TextField_u9n8gbp3
+                - key: Row_88naqleg
+                  children:
+                    - key: Button_ae71lvm9

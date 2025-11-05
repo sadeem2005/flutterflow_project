@@ -1,0 +1,39 @@
+key: Container_qxqa8hc5
+type: Container
+props:
+  container:
+    dimensions: {}
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ONLY
+        topLeftValue:
+          inputValue: 40
+          mostRecentInputValue: 40
+        topRightValue:
+          inputValue: 40
+          mostRecentInputValue: 40
+        bottomRightValue:
+          inputValue: 0
+          mostRecentInputValue: 0
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+      colorValue:
+        inputValue:
+          paletteColorName: Grey3
+        mostRecentInputValue:
+          paletteColorName: Grey3
+    maxDimensions: {}
+    minDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  expanded:
+    expandedType: UNEXPANDED
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

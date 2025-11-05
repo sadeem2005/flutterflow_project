@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 3sa48wmg
+translations:
+  - language:
+      language: en
+    text: Home
+  - language:
+      language: es
+    text: Hogar
+  - language:
+      language: fr
+    text: Maison
+isFixed: false

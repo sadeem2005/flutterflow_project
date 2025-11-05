@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 9ftxk5xj
+translations:
+  - language:
+      language: en
+    text: Don't have an acccount
+  - language:
+      language: es
+    text: No tengo una cuenta
+  - language:
+      language: fr
+    text: Je n'ai pas de compte
+isFixed: false

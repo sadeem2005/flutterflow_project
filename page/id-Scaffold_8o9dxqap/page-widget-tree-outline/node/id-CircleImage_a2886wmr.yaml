@@ -1,0 +1,26 @@
+key: CircleImage_a2886wmr
+type: CircleImage
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_COVER
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+      height:
+        pixelsValue:
+          inputValue: 120
+          mostRecentInputValue: 120
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/food-cort-c50jtz/assets/fjxdu2gyjc36/french.png
+      mostRecentInputValue: projects/food-cort-c50jtz/assets/fjxdu2gyjc36/french.png
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

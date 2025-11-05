@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: eicbxmen
+translations:
+  - language:
+      language: en
+    text: Pizza
+  - language:
+      language: es
+    text: Pizza
+  - language:
+      language: fr
+    text: Pizza
+isFixed: false

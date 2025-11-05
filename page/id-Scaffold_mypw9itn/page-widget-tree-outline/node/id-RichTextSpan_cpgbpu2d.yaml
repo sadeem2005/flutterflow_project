@@ -1,0 +1,16 @@
+key: RichTextSpan_cpgbpu2d
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      themeStyle: LABEL_MEDIUM
+      translationIdentifier:
+        key: b6kmz9rt
+      textValue:
+        inputValue: "Vegetable noodles is a healthy Chinese inspired dish where cooked noodles are stir fried with lots of vegetables. Further the dish is seasoned with a splash of sauces, vinegar and black "
+        mostRecentInputValue: "Vegetable noodles is a healthy Chinese inspired dish where cooked noodles are stir fried with lots of vegetables. Further the dish is seasoned with a splash of sauces, vinegar and black "
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,28 @@
+key: Row_ai7j6pfy
+type: Row
+props:
+  row:
+    listSpacing: {}
+  padding:
+    type: FF_PADDING_ALL
+    leftValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+    topValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+    rightValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+    bottomValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+    allValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

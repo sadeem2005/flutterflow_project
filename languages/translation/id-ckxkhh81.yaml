@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: ckxkhh81
+translations:
+  - language:
+      language: en
+    text: Read More
+  - language:
+      language: es
+    text: Leer más
+  - language:
+      language: fr
+    text: En savoir plus
+isFixed: false

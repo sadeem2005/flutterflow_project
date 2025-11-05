@@ -1,0 +1,14 @@
+key: Column_yvopow4g
+type: Column
+props:
+  column:
+    primary: true
+    listSpacing: {}
+  expanded:
+    expandedType: EXPANDED
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

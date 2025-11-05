@@ -1,0 +1,18 @@
+key: Row_7fmud920
+type: Row
+props:
+  row:
+    scrollable: true
+    listSpacing:
+      spacingValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+      startSpacingValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

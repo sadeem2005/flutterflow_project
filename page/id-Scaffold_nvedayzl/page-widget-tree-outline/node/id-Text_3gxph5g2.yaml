@@ -1,0 +1,23 @@
+key: Text_3gxph5g2
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: kvzxi4r0
+    selectable: false
+    textValue:
+      inputValue: Premium vegetable salad
+      mostRecentInputValue: Premium vegetable salad
+    maxLinesValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

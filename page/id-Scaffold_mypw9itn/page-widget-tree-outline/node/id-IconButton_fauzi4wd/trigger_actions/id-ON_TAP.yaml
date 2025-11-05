@@ -1,0 +1,6 @@
+rootAction:
+  key: ctrn6yeb
+  action:
+    key: i41e10tb
+trigger:
+  triggerType: ON_TAP

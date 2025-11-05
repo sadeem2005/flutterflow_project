@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: pmpuc2wi
+translations:
+  - language:
+      language: en
+    text: "Vegetable noodles is a healthy Chinese inspired dish where cooked noodles are stir fried with lots of vegetables. Further the dish is seasoned with a splash of sauces, vinegar and black "
+  - language:
+      language: es
+    text: "Los fideos con verduras son un plato saludable de inspiración china en el que los fideos cocidos se saltean con muchas verduras. Además se condimenta el plato con un chorrito de salsas, vinagre y negro."
+  - language:
+      language: fr
+    text: "Les nouilles aux légumes sont un plat sain d'inspiration chinoise où les nouilles cuites sont sautées avec beaucoup de légumes. De plus, le plat est assaisonné d'un peu de sauces, de vinaigre et de noir."
+isFixed: false

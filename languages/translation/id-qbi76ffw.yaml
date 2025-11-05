@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: qbi76ffw
+translations:
+  - language:
+      language: en
+    text: "Buy 2 and "
+  - language:
+      language: es
+    text: Compra 2 y
+  - language:
+      language: fr
+    text: Achetez-en 2 et
+isFixed: false

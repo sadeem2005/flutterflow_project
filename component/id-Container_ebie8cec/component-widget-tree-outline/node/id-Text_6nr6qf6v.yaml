@@ -1,0 +1,32 @@
+key: Text_6nr6qf6v
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: h2xdozlk
+    selectable: false
+    textValue:
+      inputValue: "Congratulation! your account already created.\nPlease login to get amazing experience."
+      mostRecentInputValue: "Congratulation! your account already created.\nPlease login to get amazing experience."
+    maxLinesValue:
+      inputValue: 3
+      mostRecentInputValue: 3
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+    rightValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

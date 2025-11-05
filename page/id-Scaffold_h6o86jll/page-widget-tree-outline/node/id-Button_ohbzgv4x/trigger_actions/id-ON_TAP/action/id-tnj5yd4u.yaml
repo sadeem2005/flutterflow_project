@@ -1,0 +1,22 @@
+snackBar:
+  textMessage:
+    inputValue:
+      serializedValue: Updated!
+  textStyle:
+    themeStyle: LABEL_MEDIUM
+    variableColor:
+      inputValue:
+        color:
+          themeColor: PRIMARY_BACKGROUND
+  durationMillis: 4000
+  subAction:
+    action:
+      navigate:
+        allowBack: true
+      key: jp46aa6d
+  shouldHidePreviousSnackbar: false
+  backgroundColor:
+    inputValue:
+      color:
+        themeColor: PRIMARY
+key: tnj5yd4u

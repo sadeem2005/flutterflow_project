@@ -1,0 +1,19 @@
+key: Text_qyndddjh
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: 82jnfyxo
+    selectable: false
+    textValue:
+      inputValue: Setting
+      mostRecentInputValue: Setting
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

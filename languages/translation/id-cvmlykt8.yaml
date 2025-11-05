@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: cvmlykt8
+translations:
+  - language:
+      language: en
+    text: On Progress
+  - language:
+      language: es
+    text: En progreso
+  - language:
+      language: fr
+    text: En progrès
+isFixed: false

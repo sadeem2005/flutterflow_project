@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: jlqha2r3
+translations:
+  - language:
+      language: en
+    text: Signup
+  - language:
+      language: es
+    text: Inscribirse
+  - language:
+      language: fr
+    text: S'inscrire
+isFixed: false

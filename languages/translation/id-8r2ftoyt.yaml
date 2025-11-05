@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 8r2ftoyt
+translations:
+  - language:
+      language: en
+    text: Start learning with create your account
+  - language:
+      language: es
+    text: Comience a aprender con crear su cuenta
+  - language:
+      language: fr
+    text: Commencez à apprendre en créant votre compte
+isFixed: false

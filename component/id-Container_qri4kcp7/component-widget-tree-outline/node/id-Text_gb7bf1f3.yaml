@@ -1,0 +1,22 @@
+key: Text_gb7bf1f3
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: acxq8c0g
+    selectable: false
+    textValue:
+      inputValue: Fresh prawns fried with extra onions
+      mostRecentInputValue: Fresh prawns fried with extra onions
+    maxLinesValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

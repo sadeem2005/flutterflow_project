@@ -1,0 +1,6 @@
+rootAction:
+  key: zjinviau
+  action:
+    key: 0t1v3ncr
+trigger:
+  triggerType: ON_TAP

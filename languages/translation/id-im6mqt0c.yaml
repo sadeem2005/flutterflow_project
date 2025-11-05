@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: im6mqt0c
+translations:
+  - language:
+      language: en
+    text: "$ "
+  - language:
+      language: es
+    text: ps
+  - language:
+      language: fr
+    text: $
+isFixed: false

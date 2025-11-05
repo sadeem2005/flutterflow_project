@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: qyz8jn8k
+translations:
+  - language:
+      language: en
+    text: Create your username
+  - language:
+      language: es
+    text: Crea tu nombre de usuario
+  - language:
+      language: fr
+    text: Créez votre nom d'utilisateur
+isFixed: false

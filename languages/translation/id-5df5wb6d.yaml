@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 5df5wb6d
+translations:
+  - language:
+      language: en
+    text: Edit Profile
+  - language:
+      language: es
+    text: Editar perfil
+  - language:
+      language: fr
+    text: Editer le profil
+isFixed: false

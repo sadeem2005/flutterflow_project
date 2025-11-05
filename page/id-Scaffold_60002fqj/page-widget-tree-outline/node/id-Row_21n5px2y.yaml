@@ -1,0 +1,16 @@
+key: Row_21n5px2y
+type: Row
+props:
+  row:
+    mainAxisAlignment: main_axis_space_between
+    listSpacing:
+      spacingValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

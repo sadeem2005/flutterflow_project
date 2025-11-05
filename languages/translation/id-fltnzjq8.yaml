@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: fltnzjq8
+translations:
+  - language:
+      language: en
+    text: ", valid for today only"
+  - language:
+      language: es
+    text: ", válido solo por hoy"
+  - language:
+      language: fr
+    text: ", valable aujourd'hui seulement"
+isFixed: false

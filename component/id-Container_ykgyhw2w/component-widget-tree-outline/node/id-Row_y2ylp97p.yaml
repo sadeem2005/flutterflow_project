@@ -1,0 +1,14 @@
+key: Row_y2ylp97p
+type: Row
+props:
+  row:
+    listSpacing:
+      spacingValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

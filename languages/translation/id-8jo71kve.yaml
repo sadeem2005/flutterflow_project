@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 8jo71kve
+translations:
+  - language:
+      language: en
+    text: "San Diego, CA"
+  - language:
+      language: es
+    text: "San Diego, California, EE.UU."
+  - language:
+      language: fr
+    text: "San Diego, Californie"
+isFixed: false

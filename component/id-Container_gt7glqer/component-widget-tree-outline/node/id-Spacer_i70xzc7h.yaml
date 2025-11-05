@@ -1,0 +1,13 @@
+key: Spacer_i70xzc7h
+type: Spacer
+props:
+  spacer:
+    flexValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

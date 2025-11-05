@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: wjruofus
+translations:
+  - language:
+      language: en
+    text: Grilled meat with kepunari sauce
+  - language:
+      language: es
+    text: Carne a la parrilla con salsa kepunari
+  - language:
+      language: fr
+    text: Viande grillée à la sauce kepunari
+isFixed: false

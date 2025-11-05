@@ -1,0 +1,31 @@
+key: Icon_0queg7pe
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 30
+      mostRecentInputValue: 30
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_BACKGROUND
+      mostRecentInputValue:
+        themeColor: PRIMARY_BACKGROUND
+    iconDataValue:
+      inputValue:
+        codePoint: 57689
+        family: MaterialIcons
+        matchTextDirection: false
+        name: check_circle
+  alignment:
+    xValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    yValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

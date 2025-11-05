@@ -1,0 +1,12 @@
+key: Container_gt7glqer
+type: Container
+props:
+  container:
+    boxDecoration:
+      colorValue:
+        inputValue:
+          value: "0"
+        mostRecentInputValue:
+          value: "0"
+name: confirm_modal
+isDummyRoot: true

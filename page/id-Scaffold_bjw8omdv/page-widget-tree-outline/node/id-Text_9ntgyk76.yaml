@@ -1,0 +1,22 @@
+key: Text_9ntgyk76
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: 13ahy3hd
+    selectable: false
+    textValue:
+      inputValue: Master Card
+      mostRecentInputValue: Master Card
+    maxLinesValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,44 @@
+node:
+  key: Container_keb8n16a
+  children:
+    - key: Column_qceyl5av
+      children:
+        - key: Spacer_fq86xg7t
+        - key: Container_ytiv8bjw
+          children:
+            - key: Column_w7408t59
+              children:
+                - key: Column_tg1zrr57
+                  children:
+                    - key: Row_nhv7kcv1
+                      children:
+                        - key: IconButton_dw9a4ck9
+                    - key: Row_0fqqknmq
+                      children:
+                        - key: Text_jqgukxpn
+                    - key: Row_5pmpa08o
+                      children:
+                        - key: Text_p6qfm31e
+                - key: Form_20x39gjy
+                  children:
+                    - key: Column_gutanrmr
+                      children:
+                        - key: Column_witubcvf
+                          children:
+                            - key: Row_4af20esn
+                              children:
+                                - key: Text_jay8b5kz
+                            - key: Row_p7fgre0w
+                              children:
+                                - key: TextField_fang2d63
+                        - key: Column_y6ek9k9o
+                          children:
+                            - key: Row_87t1yozq
+                              children:
+                                - key: Text_49qpqajp
+                            - key: Row_7w6onbjw
+                              children:
+                                - key: TextField_79epblfj
+                - key: Row_cponhwfu
+                  children:
+                    - key: Button_5i2kq03g

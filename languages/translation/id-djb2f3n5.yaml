@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: djb2f3n5
+translations:
+  - language:
+      language: en
+    text: Noodles
+  - language:
+      language: es
+    text: Fideos
+  - language:
+      language: fr
+    text: Nouilles
+isFixed: false

@@ -1,0 +1,19 @@
+key: Text_bcrmf9xc
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: djb2f3n5
+    selectable: false
+    textValue:
+      inputValue: Noodles
+      mostRecentInputValue: Noodles
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

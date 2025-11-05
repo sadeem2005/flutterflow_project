@@ -1,0 +1,52 @@
+node:
+  key: Container_m7mqv9pr
+  children:
+    - key: Column_ngnn633h
+      children:
+        - key: Spacer_6cxrhlxf
+        - key: Container_qxqa8hc5
+          children:
+            - key: Column_pxnpm965
+              children:
+                - key: Row_1w1buys9
+                  children:
+                    - key: IconButton_rmknut6v
+                - key: Column_yu57t31n
+                  children:
+                    - key: Row_aamntjiy
+                      children:
+                        - key: Text_51pfusal
+                - key: Column_mmqd38lk
+                  children:
+                    - key: Container_c8y5b75f
+                      children:
+                        - key: Row_dmkwdjg6
+                          children:
+                            - key: Container_ud8wgix0
+                              children:
+                                - key: Icon_ykht6wx9
+                            - key: Column_nu7qxwzn
+                              children:
+                                - key: Row_nlgaug65
+                                  children:
+                                    - key: Text_lkndugxv
+                                - key: Row_7dhmyg6d
+                                  children:
+                                    - key: Text_5wu8c1ob
+                            - key: Checkbox_uen2a2nl
+                    - key: Container_6lnike19
+                    - key: Container_ag99pmho
+                      children:
+                        - key: Row_ezf2n12m
+                          children:
+                            - key: Container_of32i4wd
+                              children:
+                                - key: Icon_qr6a4flu
+                            - key: Column_dzul48lj
+                              children:
+                                - key: Row_0bjn1cgo
+                                  children:
+                                    - key: Text_dcw005ru
+                - key: Row_l0rnvc15
+                  children:
+                    - key: Button_xrwh2hhd

@@ -1,0 +1,97 @@
+key: Stack_l3hlz5fa
+type: Stack
+props:
+  alignment:
+    xValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    yValue:
+      inputValue: -1
+      mostRecentInputValue: -1
+  stack:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 50
+          mostRecentInputValue: 50
+      height:
+        pixelsValue:
+          inputValue: 50
+          mostRecentInputValue: 50
+    childAlignment:
+      xValue:
+        inputValue: 0
+        mostRecentInputValue: 0
+      yValue:
+        inputValue: 0
+        mostRecentInputValue: 0
+  visibility:
+    visibleValue:
+      variable:
+        source: LOCAL_STATE
+        baseVariable:
+          localState:
+            fieldIdentifier:
+              name: hide
+              key: mqaup
+            stateVariableType: WIDGET_CLASS_STATE
+        operations:
+          - negate: {}
+        nodeKeyRef:
+          key: Container_pdxkrpvm
+        uiBuilderValue:
+          serializedValue: "true"
+      mostRecentInputValue: true
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+animations:
+  - trigger: ON_PAGE_LOAD
+    hideBeforeAnimating: true
+    effects:
+      - curve: EASE_IN_OUT
+        fade:
+          begin:
+            inputValue:
+              serializedValue: "0"
+          end:
+            inputValue:
+              serializedValue: "1"
+        delay:
+          inputValue:
+            serializedValue: "200"
+        duration:
+          inputValue:
+            serializedValue: "900"
+      - curve: ELASTIC_OUT
+        scale:
+          beginDx:
+            inputValue:
+              serializedValue: "0"
+          endDx:
+            inputValue:
+              serializedValue: "1"
+          beginDy:
+            inputValue:
+              serializedValue: "0"
+          endDy:
+            inputValue:
+              serializedValue: "1"
+        delay:
+          inputValue:
+            serializedValue: "200"
+        duration:
+          inputValue:
+            serializedValue: "900"
+    useSameInterval: true
+    applyInitialState: true
+    delay:
+      inputValue:
+        serializedValue: "200"
+    duration:
+      inputValue:
+        serializedValue: "900"
+valueKey: {}

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 2to6yrso
+translations:
+  - language:
+      language: en
+    text: New message from Chris
+  - language:
+      language: es
+    text: Nuevo mensaje de Chris
+  - language:
+      language: fr
+    text: Nouveau message de Chris
+isFixed: false

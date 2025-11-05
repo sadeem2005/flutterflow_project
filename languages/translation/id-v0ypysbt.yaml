@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: v0ypysbt
+translations:
+  - language:
+      language: en
+    text: 20min ago
+  - language:
+      language: es
+    text: Hace 20 minutos
+  - language:
+      language: fr
+    text: il y a 20 minutes
+isFixed: false

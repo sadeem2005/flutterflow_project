@@ -1,0 +1,15 @@
+name: FavoriteItem
+node:
+  key: Container_b315abn4
+classModel:
+  stateFields:
+    - parameter:
+        identifier:
+          name: liked
+          key: j9jsw
+        defaultValue: {}
+        dataType:
+          scalarType: Boolean
+          nonNullable: true
+      serializedDefaultValue:
+        - "false"

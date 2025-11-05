@@ -1,0 +1,22 @@
+key: Row_lj4kdgac
+type: Row
+props:
+  row:
+    listSpacing:
+      spacingValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    rightValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

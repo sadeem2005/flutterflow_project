@@ -1,0 +1,6 @@
+rootAction:
+  key: n1gfz3ld
+  action:
+    key: 6w4plhgo
+trigger:
+  triggerType: ON_TAP

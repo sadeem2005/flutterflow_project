@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: ejo6z1g1
+translations:
+  - language:
+      language: en
+    text: 1 Slice
+  - language:
+      language: es
+    text: 1 rebanada
+  - language:
+      language: fr
+    text: 1 tranche
+isFixed: false

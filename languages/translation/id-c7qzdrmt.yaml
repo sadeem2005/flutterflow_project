@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: c7qzdrmt
+translations:
+  - language:
+      language: en
+    text: Setting
+  - language:
+      language: es
+    text: Configuración
+  - language:
+      language: fr
+    text: Paramètre
+isFixed: false

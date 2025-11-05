@@ -1,0 +1,21 @@
+key: Text_xwsnk96e
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: 38q11wq9
+    selectable: false
+    textValue:
+      inputValue: Are you sure you want to logout?
+      mostRecentInputValue: Are you sure you want to logout?
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

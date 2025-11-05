@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 36zgxj4d
+translations:
+  - language:
+      language: en
+    text: Username
+  - language:
+      language: es
+    text: Nombre de usuario
+  - language:
+      language: fr
+    text: Nom d'utilisateur
+isFixed: false

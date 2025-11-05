@@ -1,0 +1,17 @@
+key: Text_in7ehr0e
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: v2q7ytxk
+    selectable: false
+    textValue:
+      inputValue: Price
+      mostRecentInputValue: Price
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

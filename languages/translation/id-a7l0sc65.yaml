@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: a7l0sc65
+translations:
+  - language:
+      language: en
+    text: New update! Ver 1.87
+  - language:
+      language: es
+    text: ¡Nueva actualización! Versión 1.87
+  - language:
+      language: fr
+    text: Nouvelle mise à jour! Version 1.87
+isFixed: false

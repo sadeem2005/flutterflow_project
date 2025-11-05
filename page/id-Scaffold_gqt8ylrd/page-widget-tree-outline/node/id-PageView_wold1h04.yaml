@@ -1,0 +1,80 @@
+key: PageView_wold1h04
+type: PageView
+props:
+  alignment:
+    xValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    yValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  expanded:
+    expandedType: UNEXPANDED
+  pageView:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: Infinity
+          mostRecentInputValue: Infinity
+      height:
+        pixelsValue:
+          inputValue: Infinity
+          mostRecentInputValue: Infinity
+    scrollDirection: FF_AXIS_HORIZONTAL
+    margin:
+      type: FF_PADDING_ALL
+      allValue:
+        inputValue: 0
+        mostRecentInputValue: 0
+    indicatorOptions:
+      hasIndicator: true
+      alignment:
+        xValue:
+          inputValue: 0
+          mostRecentInputValue: 0
+        yValue:
+          inputValue: 1
+          mostRecentInputValue: 1
+      indicatorPadding:
+        type: FF_PADDING_ONLY
+        leftValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        bottomValue:
+          inputValue: 10
+          mostRecentInputValue: 10
+      expansionFactor: 0
+      outline: false
+      spacingValue:
+        inputValue: 4
+        mostRecentInputValue: 4
+      borderRadiusValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      dotWidthValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+      dotHeightValue:
+        inputValue: 4
+        mostRecentInputValue: 4
+      inactiveColorValue:
+        inputValue:
+          themeColor: PRIMARY_BACKGROUND
+        mostRecentInputValue:
+          themeColor: PRIMARY_BACKGROUND
+      activeColorValue:
+        inputValue:
+          themeColor: PRIMARY
+        mostRecentInputValue:
+          themeColor: PRIMARY
+    allowScrolling: true
+    initialPageIndexValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

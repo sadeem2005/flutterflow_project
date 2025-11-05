@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: itfkuv3g
+translations:
+  - language:
+      language: en
+    text: MM/YY
+  - language:
+      language: es
+    text: MM/AA
+  - language:
+      language: fr
+    text: MM/AA
+isFixed: false

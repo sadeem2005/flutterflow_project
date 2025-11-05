@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: wi0sirhi
+translations:
+  - language:
+      language: en
+    text: Select location
+  - language:
+      language: es
+    text: Seleccionar ubicación
+  - language:
+      language: fr
+    text: Sélectionnez l'emplacement
+isFixed: false

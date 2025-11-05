@@ -1,0 +1,12 @@
+key: Container_keb8n16a
+type: Container
+props:
+  container:
+    boxDecoration:
+      colorValue:
+        inputValue:
+          value: "0"
+        mostRecentInputValue:
+          value: "0"
+name: newPassword_modal
+isDummyRoot: true

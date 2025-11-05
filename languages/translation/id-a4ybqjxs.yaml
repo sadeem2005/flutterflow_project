@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: a4ybqjxs
+translations:
+  - language:
+      language: en
+    text: See All
+  - language:
+      language: es
+    text: Ver todo
+  - language:
+      language: fr
+    text: Voir tout
+isFixed: false

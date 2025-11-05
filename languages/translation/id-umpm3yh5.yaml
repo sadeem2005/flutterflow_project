@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: umpm3yh5
+translations:
+  - language:
+      language: en
+    text: Sign Up with Google
+  - language:
+      language: es
+    text: Verificar
+  - language:
+      language: fr
+    text: Vérifier
+isFixed: false

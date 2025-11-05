@@ -1,0 +1,19 @@
+key: Text_nzii4ff2
+type: Text
+props:
+  text:
+    themeStyle: TITLE_LARGE
+    translationIdentifier:
+      key: absgjmyr
+    selectable: false
+    textValue:
+      inputValue: Login Account
+      mostRecentInputValue: Login Account
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

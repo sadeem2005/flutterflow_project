@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: ra08b12o
+translations:
+  - language:
+      language: en
+    text: Categories
+  - language:
+      language: es
+    text: Categorías
+  - language:
+      language: fr
+    text: Catégories
+isFixed: false

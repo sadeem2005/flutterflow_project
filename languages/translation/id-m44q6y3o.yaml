@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: m44q6y3o
+translations:
+  - language:
+      language: en
+    text: New Password
+  - language:
+      language: es
+    text: Nueva contraseña
+  - language:
+      language: fr
+    text: nouveau mot de passe
+isFixed: false

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: ma7hjc40
+translations:
+  - language:
+      language: en
+    text: Complete Order
+  - language:
+      language: es
+    text: Orden completa
+  - language:
+      language: fr
+    text: Complétez la commande
+isFixed: false

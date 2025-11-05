@@ -1,0 +1,12 @@
+key: Drawer_zlsot4pg
+type: Drawer
+props:
+  drawer:
+    elevationValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

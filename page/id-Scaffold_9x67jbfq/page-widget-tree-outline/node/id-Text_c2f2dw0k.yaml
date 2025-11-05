@@ -1,0 +1,17 @@
+key: Text_c2f2dw0k
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: itb5cibu
+    selectable: false
+    textValue:
+      inputValue: Address
+      mostRecentInputValue: Address
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

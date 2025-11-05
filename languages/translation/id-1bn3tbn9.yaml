@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 1bn3tbn9
+translations:
+  - language:
+      language: en
+    text: FoodCort  Menu
+  - language:
+      language: es
+    text: Menú de FoodCort
+  - language:
+      language: fr
+    text: Menu FoodCort
+isFixed: false

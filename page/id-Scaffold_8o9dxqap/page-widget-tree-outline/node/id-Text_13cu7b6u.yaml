@@ -1,0 +1,19 @@
+key: Text_13cu7b6u
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: pw9fhsfe
+    selectable: false
+    textValue:
+      inputValue: Language
+      mostRecentInputValue: Language
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

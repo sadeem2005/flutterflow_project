@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 3wtzgjwj
+translations:
+  - language:
+      language: en
+    text: Order Total
+  - language:
+      language: es
+    text: Total del pedido
+  - language:
+      language: fr
+    text: Total de la commande
+isFixed: false

@@ -1,0 +1,27 @@
+key: Expandable_p167anca
+type: Expandable
+props:
+  expanded:
+    expandedType: UNEXPANDED
+  expandable:
+    headerAlignment: CENTER
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: Infinity
+          mostRecentInputValue: Infinity
+      height: {}
+    hasIcon: true
+    initiallyExpandedValue:
+      inputValue: false
+      mostRecentInputValue: false
+    tapHeaderToToggleValue:
+      inputValue: true
+      mostRecentInputValue: true
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

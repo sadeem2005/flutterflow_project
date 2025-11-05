@@ -1,0 +1,17 @@
+key: Text_b7t9rthq
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: bswt15yg
+    selectable: false
+    textValue:
+      inputValue: Hot Deals 🔥
+      mostRecentInputValue: Hot Deals 🔥
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

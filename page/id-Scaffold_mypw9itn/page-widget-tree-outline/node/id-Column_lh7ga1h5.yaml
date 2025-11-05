@@ -1,0 +1,27 @@
+key: Column_lh7ga1h5
+type: Column
+props:
+  column:
+    mainAxisAlignment: main_axis_start
+    scrollable: true
+    primary: true
+    listSpacing:
+      spacingValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+      startSpacingValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 10
+      mostRecentInputValue: 10
+  expanded:
+    expandedType: EXPANDED
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

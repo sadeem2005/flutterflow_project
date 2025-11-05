@@ -1,0 +1,19 @@
+key: Text_u9sh8yd3
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: ccihlvzh
+    selectable: false
+    textValue:
+      inputValue: "San Diego, CA"
+      mostRecentInputValue: "San Diego, CA"
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

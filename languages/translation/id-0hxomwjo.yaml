@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 0hxomwjo
+translations:
+  - language:
+      language: en
+    text: Search
+  - language:
+      language: es
+    text: Buscar
+  - language:
+      language: fr
+    text: Recherche
+isFixed: false

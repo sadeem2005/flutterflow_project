@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 7axmi8vz
+translations:
+  - language:
+      language: en
+    text: Resend
+  - language:
+      language: es
+    text: Reenviar
+  - language:
+      language: fr
+    text: Renvoyer
+isFixed: false

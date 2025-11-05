@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: cchz1fp1
+translations:
+  - language:
+      language: en
+    text: Write your note here
+  - language:
+      language: es
+    text: Escribe tu nota aquí
+  - language:
+      language: fr
+    text: Écrivez votre note ici
+isFixed: false

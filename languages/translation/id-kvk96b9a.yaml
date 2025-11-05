@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: kvk96b9a
+translations:
+  - language:
+      language: en
+    text: Already Have an Account
+  - language:
+      language: es
+    text: Ya tienes una cuenta
+  - language:
+      language: fr
+    text: Vous avez déjà un compte
+isFixed: false

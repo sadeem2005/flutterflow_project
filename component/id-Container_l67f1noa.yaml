@@ -1,0 +1,11 @@
+name: lineSeparatorWithText
+params:
+  gxrtil:
+    identifier:
+      name: text
+      key: gxrtil
+    dataType:
+      scalarType: String
+      nonNullable: false
+node:
+  key: Container_l67f1noa

@@ -1,0 +1,19 @@
+key: Text_xt1ihohs
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: cy7y6bn2
+    selectable: false
+    textValue:
+      inputValue: Or using other method
+      mostRecentInputValue: Or using other method
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

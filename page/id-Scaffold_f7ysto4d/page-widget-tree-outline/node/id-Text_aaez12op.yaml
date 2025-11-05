@@ -1,0 +1,19 @@
+key: Text_aaez12op
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: 7xeyt3wn
+    selectable: false
+    textValue:
+      inputValue: Notification
+      mostRecentInputValue: Notification
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

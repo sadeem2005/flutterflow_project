@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: tl1qab9r
+translations:
+  - language:
+      language: en
+    text: Onboarding
+  - language:
+      language: es
+    text: Inducción
+  - language:
+      language: fr
+    text: Intégration
+isFixed: false

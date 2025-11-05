@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 8bvf8fns
+translations:
+  - language:
+      language: en
+    text: CCV
+  - language:
+      language: es
+    text: CCV
+  - language:
+      language: fr
+    text: CVC
+isFixed: false

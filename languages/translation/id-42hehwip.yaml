@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 42hehwip
+translations:
+  - language:
+      language: en
+    text: History
+  - language:
+      language: es
+    text: Historia
+  - language:
+      language: fr
+    text: Histoire
+isFixed: false

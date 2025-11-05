@@ -1,0 +1,24 @@
+key: RichTextSpan_l5yxb8iu
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      themeStyle: TITLE_MEDIUM
+      translationIdentifier:
+        key: qbi76ffw
+      textValue:
+        inputValue: "Buy 2 and "
+        mostRecentInputValue: "Buy 2 and "
+      fontSizeValue:
+        inputValue: 22
+        mostRecentInputValue: 22
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY_BACKGROUND
+        mostRecentInputValue:
+          themeColor: PRIMARY_BACKGROUND
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

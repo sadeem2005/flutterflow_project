@@ -1,0 +1,22 @@
+key: CircleImage_ioyc116v
+type: CircleImage
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_FIT_WIDTH
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 100
+          mostRecentInputValue: 100
+    cached: true
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/food-cort-c50jtz/assets/9oalkhn8mr3m/pexels-julie-aagaard-2097090_ccexpress_1.png
+      mostRecentInputValue: projects/food-cort-c50jtz/assets/9oalkhn8mr3m/pexels-julie-aagaard-2097090_ccexpress_1.png
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

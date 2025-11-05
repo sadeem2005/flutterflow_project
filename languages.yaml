@@ -1,0 +1,151 @@
+languages:
+  - language: en
+  - language: es
+  - language: fr
+primaryLanguage:
+  language: en
+displayLanguage:
+  language: en
+presetTexts:
+  authMessages:
+    error:
+      translationIdentifier:
+        key: cpbcsw9m
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    passwordResetEmailSent:
+      translationIdentifier:
+        key: zi2yt9e7
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    emailRequired:
+      translationIdentifier:
+        key: vnau18bv
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    phoneNumberValidation:
+      translationIdentifier:
+        key: lktg3dy4
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    passwordsDoNotMatch:
+      translationIdentifier:
+        key: fjabeg9r
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    enterSmsVerificationCode:
+      translationIdentifier:
+        key: 7yw004o2
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    reauthenticateForUserDelete:
+      translationIdentifier:
+        key: xsjq375t
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    reauthenticateForEmailUpdate:
+      translationIdentifier:
+        key: xiyzhulx
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    emailChangeConfirmation:
+      translationIdentifier:
+        key: m3u1mw7e
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+  uploadDataMessages:
+    invalidFileFormat:
+      translationIdentifier:
+        key: dvzeat75
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    uploadingFile:
+      translationIdentifier:
+        key: 4bdekwbm
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    success:
+      translationIdentifier:
+        key: rvm9rdle
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    error:
+      translationIdentifier:
+        key: 3uxb43tw
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    sendingPhoto:
+      translationIdentifier:
+        key: g8ay9flm
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    chooseSource:
+      translationIdentifier:
+        key: 0raeaqd3
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    gallery:
+      translationIdentifier:
+        key: j3d762mc
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    galleryPhoto:
+      translationIdentifier:
+        key: jzepjy1z
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    galleryVideo:
+      translationIdentifier:
+        key: dlctomaa
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    camera:
+      translationIdentifier:
+        key: fdy7k4vs
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    empty:
+      translationIdentifier:
+        key: o37sr5xj
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+  paymentMessages:
+    processingMessage:
+      translationIdentifier:
+        key: v8s1znh7
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    success:
+      translationIdentifier:
+        key: jg3a7edz
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    error:
+      translationIdentifier:
+        key: pcwstkno
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+persistLanguageSelection: true

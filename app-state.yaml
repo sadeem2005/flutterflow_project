@@ -1,0 +1,8 @@
+fields:
+  - parameter:
+      identifier:
+        name: selected
+        key: 2o2zxv1x
+      dataType:
+        scalarType: Boolean
+    persisted: false

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: k4jsump9
+translations:
+  - language:
+      language: en
+    text: Location Detect
+  - language:
+      language: es
+    text: Detección de ubicación
+  - language:
+      language: fr
+    text: Détection d'emplacement
+isFixed: false

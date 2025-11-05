@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: ytk5ba6l
+translations:
+  - language:
+      language: en
+    text: Enter new password
+  - language:
+      language: es
+    text: Ingrese nueva clave
+  - language:
+      language: fr
+    text: Entrez un nouveau mot de passe
+isFixed: false

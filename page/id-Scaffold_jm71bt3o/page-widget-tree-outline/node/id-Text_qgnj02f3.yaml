@@ -1,0 +1,19 @@
+key: Text_qgnj02f3
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: 70eg1hir
+    selectable: false
+    textValue:
+      inputValue: CVV Code
+      mostRecentInputValue: CVV Code
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

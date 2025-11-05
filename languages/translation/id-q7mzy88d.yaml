@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: q7mzy88d
+translations:
+  - language:
+      language: en
+    text: "Urna amet, suspendisse ullamcorper ac elit diam facilisis cursus vestibulum."
+  - language:
+      language: es
+    text: "Urna amet, suspendisse ullamcorper ac elit diam facilisis cursus vestibulum."
+  - language:
+      language: fr
+    text: "Urna amet, suspendisse ullamcorper ac elit diam facilisis cursus vestibulum."
+isFixed: false

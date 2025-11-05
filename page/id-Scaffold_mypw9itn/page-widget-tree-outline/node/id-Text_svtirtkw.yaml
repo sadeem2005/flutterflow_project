@@ -1,0 +1,19 @@
+key: Text_svtirtkw
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: qp2vwesi
+    selectable: false
+    textValue:
+      inputValue: Description
+      mostRecentInputValue: Description
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

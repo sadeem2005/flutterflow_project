@@ -1,0 +1,18 @@
+key: Text_9sxr6g5x
+type: Text
+props:
+  text:
+    themeStyle: TITLE_SMALL
+    translationIdentifier:
+      key: nrjkv2kp
+    selectable: false
+    textValue:
+      inputValue: "- Roast Beaf -"
+      mostRecentInputValue: "- Roast Beaf -"
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

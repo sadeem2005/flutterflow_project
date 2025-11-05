@@ -1,0 +1,17 @@
+key: Text_1mtd0ikn
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: abhagdlq
+    selectable: false
+    textValue:
+      inputValue: Location
+      mostRecentInputValue: Location
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

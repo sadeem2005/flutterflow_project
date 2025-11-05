@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 8tqeg719
+translations:
+  - language:
+      language: en
+    text: Card Number
+  - language:
+      language: es
+    text: Número de tarjeta
+  - language:
+      language: fr
+    text: Numéro de carte
+isFixed: false

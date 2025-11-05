@@ -1,0 +1,68 @@
+key: Button_62n2xafb
+type: Button
+props:
+  button:
+    text:
+      themeStyle: BODY_SMALL
+      translationIdentifier:
+        key: lbkv9pwc
+      textValue:
+        inputValue: On Progress
+        mostRecentInputValue: On Progress
+      colorValue:
+        inputValue:
+          paletteColorName: CoralGreen2
+        mostRecentInputValue:
+          paletteColorName: CoralGreen2
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      topLeftValue:
+        inputValue: 6
+        mostRecentInputValue: 6
+      topRightValue:
+        inputValue: 6
+        mostRecentInputValue: 6
+      bottomLeftValue:
+        inputValue: 6
+        mostRecentInputValue: 6
+      bottomRightValue:
+        inputValue: 6
+        mostRecentInputValue: 6
+      allValue:
+        inputValue: 6
+        mostRecentInputValue: 6
+    innerPadding:
+      type: FF_PADDING_ONLY
+      leftValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+      rightValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+    dimensions:
+      height:
+        pixelsValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+    elevationValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    fillColorValue:
+      inputValue:
+        themeColor: PRIMARY_BACKGROUND
+      mostRecentInputValue:
+        themeColor: PRIMARY_BACKGROUND
+    borderColorValue:
+      inputValue:
+        paletteColorName: CoralGreen2
+      mostRecentInputValue:
+        paletteColorName: CoralGreen2
+    borderWidthValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

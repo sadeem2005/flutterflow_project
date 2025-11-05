@@ -1,0 +1,19 @@
+key: Text_z63pkrmo
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: dq83u7hh
+    selectable: false
+    textValue:
+      inputValue: Location
+      mostRecentInputValue: Location
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

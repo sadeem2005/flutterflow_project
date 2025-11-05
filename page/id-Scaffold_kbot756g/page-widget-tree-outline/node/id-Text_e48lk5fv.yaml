@@ -1,0 +1,19 @@
+key: Text_e48lk5fv
+type: Text
+props:
+  text:
+    themeStyle: TITLE_LARGE
+    translationIdentifier:
+      key: fqhfxosd
+    selectable: false
+    textValue:
+      inputValue: Create Account
+      mostRecentInputValue: Create Account
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

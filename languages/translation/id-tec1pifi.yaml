@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: tec1pifi
+translations:
+  - language:
+      language: en
+    text: Create your password
+  - language:
+      language: es
+    text: Crea tu contraseña
+  - language:
+      language: fr
+    text: Créez votre mot de passe
+isFixed: false

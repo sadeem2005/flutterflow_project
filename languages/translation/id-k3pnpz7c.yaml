@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: k3pnpz7c
+translations:
+  - language:
+      language: en
+    text: Discount voucher!
+  - language:
+      language: es
+    text: ¡Vale de descuento!
+  - language:
+      language: fr
+    text: Bon de réduction !
+isFixed: false

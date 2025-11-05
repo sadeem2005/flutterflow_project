@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 3vea7j2p
+translations:
+  - language:
+      language: en
+    text: Language
+  - language:
+      language: es
+    text: Idioma
+  - language:
+      language: fr
+    text: Langue
+isFixed: false

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 2afi00zd
+translations:
+  - language:
+      language: en
+    text: Add to cart
+  - language:
+      language: es
+    text: Añadir a la cesta
+  - language:
+      language: fr
+    text: Ajouter au panier
+isFixed: false

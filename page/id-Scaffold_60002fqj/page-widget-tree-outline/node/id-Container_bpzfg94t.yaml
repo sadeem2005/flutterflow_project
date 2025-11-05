@@ -1,0 +1,16 @@
+key: Container_bpzfg94t
+type: Container
+props:
+  alignment: {}
+  expanded: {}
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues:
+  widgetClassNodeKeyRef:
+    key: Container_g0kw3qrf
+valueKey: {}
+componentClassKeyRef:
+  key: Container_g0kw3qrf

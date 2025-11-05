@@ -1,0 +1,25 @@
+key: Icon_rmlpy2ar
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    colorValue:
+      inputValue:
+        paletteColorName: Grey
+      mostRecentInputValue:
+        paletteColorName: Grey
+    iconDataValue:
+      inputValue:
+        codePoint: 62436
+        family: Tabler-Icons
+        matchTextDirection: false
+        name: chevronRight
+        isCustom: true
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

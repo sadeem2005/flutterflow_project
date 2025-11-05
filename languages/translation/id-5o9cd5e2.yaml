@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 5o9cd5e2
+translations:
+  - language:
+      language: en
+    text: Confirm
+  - language:
+      language: es
+    text: Confirmar
+  - language:
+      language: fr
+    text: Confirmer
+isFixed: false

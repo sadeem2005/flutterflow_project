@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: pwzylnu2
+translations:
+  - language:
+      language: en
+    text: Help and Support
+  - language:
+      language: es
+    text: Ayuda y apoyo
+  - language:
+      language: fr
+    text: Aide et soutien
+isFixed: false

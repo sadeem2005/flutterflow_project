@@ -1,0 +1,28 @@
+localStateUpdate:
+  updates:
+    - fieldIdentifier:
+        name: selected
+        key: 2o2zxv1x
+      setValue:
+        variable:
+          source: FUNCTION_CALL
+          defaultValue:
+            serializedValue: "false"
+          functionCall:
+            values:
+              - variable:
+                  source: WIDGET_CLASS_PARAMETER
+                  baseVariable:
+                    widgetClass:
+                      paramIdentifier:
+                        name: select
+                        key: 1ovtzw
+                  nodeKeyRef:
+                    key: Container_w1rabwnz
+              - inputValue:
+                  serializedValue: "false"
+            condition:
+              relation: EQUAL_TO
+  updateType: WIDGET
+  stateVariableType: APP_STATE
+key: tl5goo9v

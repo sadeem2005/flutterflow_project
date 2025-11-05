@@ -1,0 +1,52 @@
+key: Checkbox_uen2a2nl
+type: Checkbox
+props:
+  responsiveVisibility: {}
+  checkbox:
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      topLeftValue:
+        inputValue: 6
+        mostRecentInputValue: 6
+      topRightValue:
+        inputValue: 6
+        mostRecentInputValue: 6
+      bottomLeftValue:
+        inputValue: 6
+        mostRecentInputValue: 6
+      bottomRightValue:
+        inputValue: 6
+        mostRecentInputValue: 6
+      allValue:
+        inputValue: 6
+        mostRecentInputValue: 6
+    density: COMPACT
+    initialValueValue:
+      inputValue: false
+      mostRecentInputValue: false
+    uncheckedColorValue:
+      inputValue:
+        paletteColorName: Grey
+      mostRecentInputValue:
+        paletteColorName: Grey
+    activeColorValue:
+      inputValue:
+        themeColor: PRIMARY
+      mostRecentInputValue:
+        themeColor: PRIMARY
+    checkColorValue:
+      inputValue:
+        themeColor: INFO
+      mostRecentInputValue:
+        themeColor: INFO
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+themeWidgetInfo:
+  identifier:
+    name: CheckBox
+    key: pd0ni0
+  widgetHash: 224431069
+valueKey: {}

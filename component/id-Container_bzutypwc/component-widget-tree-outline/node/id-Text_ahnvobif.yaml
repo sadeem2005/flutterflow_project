@@ -1,0 +1,19 @@
+key: Text_ahnvobif
+type: Text
+props:
+  text:
+    themeStyle: DISPLAY_SMALL
+    translationIdentifier:
+      key: msl8hzk9
+    selectable: false
+    textValue:
+      inputValue: Delaska RIsaka
+      mostRecentInputValue: Delaska RIsaka
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

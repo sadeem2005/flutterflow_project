@@ -1,0 +1,12 @@
+key: Container_ilts45kf
+type: Container
+props:
+  container:
+    boxDecoration:
+      colorValue:
+        inputValue:
+          value: "0"
+        mostRecentInputValue:
+          value: "0"
+name: HotDealsCardItem
+isDummyRoot: true

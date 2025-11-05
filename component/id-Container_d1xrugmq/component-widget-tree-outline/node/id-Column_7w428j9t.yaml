@@ -1,0 +1,18 @@
+key: Column_7w428j9t
+type: Column
+props:
+  column:
+    mainAxisAlignment: main_axis_end
+    crossAxisAlignment: cross_axis_stretch
+    primary: true
+    listSpacing: {}
+    minSizeValue:
+      inputValue: true
+      mostRecentInputValue: true
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

@@ -1,0 +1,6 @@
+rootAction:
+  key: cmi071q1
+  action:
+    key: ku5vv5ug
+trigger:
+  triggerType: ON_TAP

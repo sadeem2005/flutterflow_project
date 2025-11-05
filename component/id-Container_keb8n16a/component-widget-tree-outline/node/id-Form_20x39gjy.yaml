@@ -1,0 +1,10 @@
+key: Form_20x39gjy
+type: Form
+props:
+  responsiveVisibility: {}
+  form: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

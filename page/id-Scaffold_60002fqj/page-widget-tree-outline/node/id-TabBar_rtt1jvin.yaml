@@ -1,0 +1,76 @@
+key: TabBar_rtt1jvin
+type: TabBar
+props:
+  expanded:
+    expandedType: EXPANDED
+  tabBar:
+    labelStyle:
+      themeStyle: DISPLAY_SMALL
+    tabBarStyle: BUTTON
+    buttonMargin:
+      type: FF_PADDING_ONLY
+      leftValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      rightValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+    tabbarMargin:
+      type: FF_PADDING_ALL
+      leftValue:
+        inputValue: 4
+        mostRecentInputValue: 4
+      topValue:
+        inputValue: 4
+        mostRecentInputValue: 4
+      rightValue:
+        inputValue: 4
+        mostRecentInputValue: 4
+      bottomValue:
+        inputValue: 4
+        mostRecentInputValue: 4
+      allValue:
+        inputValue: 4
+        mostRecentInputValue: 4
+    indicatorColorValue:
+      inputValue:
+        themeColor: PRIMARY
+      mostRecentInputValue:
+        themeColor: PRIMARY
+    labelColorValue:
+      inputValue:
+        themeColor: PRIMARY
+      mostRecentInputValue:
+        themeColor: PRIMARY
+    unselectedLabelColorValue:
+      inputValue:
+        paletteColorName: Black3
+      mostRecentInputValue:
+        paletteColorName: Black3
+    backgroundColorValue:
+      inputValue:
+        themeColor: ALTERNATE
+      mostRecentInputValue:
+        themeColor: ALTERNATE
+    unselectedBackgroundColorValue:
+      inputValue:
+        themeColor: PRIMARY_BACKGROUND
+      mostRecentInputValue:
+        themeColor: PRIMARY_BACKGROUND
+    borderWidthValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+    unselectedBorderColorValue:
+      inputValue:
+        themeColor: PRIMARY_BACKGROUND
+      mostRecentInputValue:
+        themeColor: PRIMARY_BACKGROUND
+    borderRadiusValue:
+      inputValue: 8
+      mostRecentInputValue: 8
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,19 @@
+key: Text_08n789e9
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: disilbb6
+    selectable: false
+    textValue:
+      inputValue: 15 min
+      mostRecentInputValue: 15 min
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

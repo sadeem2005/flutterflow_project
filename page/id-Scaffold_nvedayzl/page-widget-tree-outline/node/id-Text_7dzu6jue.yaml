@@ -1,0 +1,17 @@
+key: Text_7dzu6jue
+type: Text
+props:
+  text:
+    themeStyle: BODY_SMALL
+    translationIdentifier:
+      key: mqy70mtv
+    selectable: false
+    textValue:
+      inputValue: 12 Minute
+      mostRecentInputValue: 12 Minute
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,19 @@
+key: Text_dvgzs7kc
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: 8u283qs4
+    selectable: false
+    textValue:
+      inputValue: Location
+      mostRecentInputValue: Location
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 0y5ljcns
+translations:
+  - language:
+      language: en
+    text: "8.20"
+  - language:
+      language: es
+    text: "8.20"
+  - language:
+      language: fr
+    text: 8h20
+isFixed: false

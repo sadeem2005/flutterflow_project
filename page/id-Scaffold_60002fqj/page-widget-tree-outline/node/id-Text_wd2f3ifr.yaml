@@ -1,0 +1,19 @@
+key: Text_wd2f3ifr
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: hmdvxxgk
+    selectable: false
+    textValue:
+      inputValue: Delinas Resto
+      mostRecentInputValue: Delinas Resto
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

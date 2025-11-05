@@ -1,0 +1,17 @@
+key: Text_d46m42dg
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: k9ldv5en
+    selectable: false
+    textValue:
+      inputValue: Onion
+      mostRecentInputValue: Onion
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

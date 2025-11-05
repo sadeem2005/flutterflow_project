@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: k9ldv5en
+translations:
+  - language:
+      language: en
+    text: Onion
+  - language:
+      language: es
+    text: Cebolla
+  - language:
+      language: fr
+    text: Oignon
+isFixed: false

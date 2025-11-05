@@ -1,0 +1,19 @@
+key: Text_u18debze
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: pwzylnu2
+    selectable: false
+    textValue:
+      inputValue: Help and Support
+      mostRecentInputValue: Help and Support
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

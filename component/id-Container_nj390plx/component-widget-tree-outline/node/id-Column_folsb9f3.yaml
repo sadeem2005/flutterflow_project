@@ -1,0 +1,23 @@
+key: Column_folsb9f3
+type: Column
+props:
+  column:
+    primary: true
+    listSpacing:
+      spacingValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 45
+      mostRecentInputValue: 45
+    bottomValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

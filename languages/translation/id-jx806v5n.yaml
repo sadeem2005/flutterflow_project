@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: jx806v5n
+translations:
+  - language:
+      language: en
+    text: Sub total
+  - language:
+      language: es
+    text: Subtotal
+  - language:
+      language: fr
+    text: Sous total
+isFixed: false

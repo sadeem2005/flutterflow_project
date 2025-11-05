@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: c0zrx0bz
+translations:
+  - language:
+      language: en
+    text: "Hei, FoodCorner!"
+  - language:
+      language: es
+    text: "¡Hola, FoodCorner!"
+  - language:
+      language: fr
+    text: "Salut, FoodCorner\_!"
+isFixed: false

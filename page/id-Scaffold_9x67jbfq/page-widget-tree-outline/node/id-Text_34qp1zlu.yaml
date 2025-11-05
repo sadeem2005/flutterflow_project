@@ -1,0 +1,22 @@
+key: Text_34qp1zlu
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: n47csmvi
+    selectable: false
+    textValue:
+      inputValue: "5482 Adobe Falls Rd #15San Diego, California(CA), 92120"
+      mostRecentInputValue: "5482 Adobe Falls Rd #15San Diego, California(CA), 92120"
+    maxLinesValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

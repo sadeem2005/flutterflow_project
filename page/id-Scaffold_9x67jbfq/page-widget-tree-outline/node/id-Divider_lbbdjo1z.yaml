@@ -1,0 +1,25 @@
+key: Divider_lbbdjo1z
+type: Divider
+props:
+  divider:
+    lineStyle: DASHED
+    thicknessValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    colorValue:
+      inputValue:
+        paletteColorName: Grey
+      mostRecentInputValue:
+        paletteColorName: Grey
+    indentValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    endIndentValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

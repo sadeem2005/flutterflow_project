@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: t4tt10im
+translations:
+  - language:
+      language: en
+    text: Go to Home
+  - language:
+      language: es
+    text: Ir a casa
+  - language:
+      language: fr
+    text: Aller à la maison
+isFixed: false

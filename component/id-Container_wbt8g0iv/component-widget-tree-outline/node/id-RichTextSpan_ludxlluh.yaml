@@ -1,0 +1,23 @@
+key: RichTextSpan_ludxlluh
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      themeStyle: BODY_MEDIUM
+      translationIdentifier:
+        key: 6ov4bl4b
+      textValue:
+        inputValue: "$ "
+        mostRecentInputValue: "$ "
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY
+        mostRecentInputValue:
+          themeColor: PRIMARY
+      fontWeightValue:
+        inputValue: w700
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: hspwuxdq
+translations:
+  - language:
+      language: en
+    text: 2hour 60min ago
+  - language:
+      language: es
+    text: Hace 2 horas 60 minutos
+  - language:
+      language: fr
+    text: il y a 2 heures 60 minutes
+isFixed: false

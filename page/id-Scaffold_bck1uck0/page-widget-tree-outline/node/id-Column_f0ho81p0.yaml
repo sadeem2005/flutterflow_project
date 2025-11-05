@@ -1,0 +1,27 @@
+key: Column_f0ho81p0
+type: Column
+props:
+  column:
+    primary: true
+    listSpacing:
+      spacingValue:
+        inputValue: 23
+        mostRecentInputValue: 23
+      endSpacingValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 22
+      mostRecentInputValue: 22
+    rightValue:
+      inputValue: 22
+      mostRecentInputValue: 22
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

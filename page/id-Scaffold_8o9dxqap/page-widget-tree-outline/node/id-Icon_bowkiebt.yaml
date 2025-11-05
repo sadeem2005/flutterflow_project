@@ -1,0 +1,41 @@
+key: Icon_bowkiebt
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+      mostRecentInputValue:
+        themeColor: PRIMARY
+    iconDataValue:
+      inputValue:
+        codePoint: 60724
+        family: Tabler-Icons
+        matchTextDirection: false
+        name: squareCheck
+        isCustom: true
+  visibility:
+    visibleValue:
+      variable:
+        source: FUNCTION_CALL
+        functionCall:
+          values:
+            - variable:
+                source: INTERNATIONALIZATION
+                baseVariable:
+                  internationalization:
+                    variableType: CURRENT_LANGUAGE
+            - inputValue:
+                serializedValue: fr
+          condition:
+            relation: EQUAL_TO
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

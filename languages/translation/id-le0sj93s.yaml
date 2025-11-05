@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: le0sj93s
+translations:
+  - language:
+      language: en
+    text: Most bought 🔥
+  - language:
+      language: es
+    text: Los más comprados 🔥
+  - language:
+      language: fr
+    text: Les plus achetés 🔥
+isFixed: false

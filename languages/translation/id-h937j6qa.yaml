@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: h937j6qa
+translations:
+  - language:
+      language: en
+    text: 12 Minute
+  - language:
+      language: es
+    text: 12 minutos
+  - language:
+      language: fr
+    text: 12 minutes
+isFixed: false

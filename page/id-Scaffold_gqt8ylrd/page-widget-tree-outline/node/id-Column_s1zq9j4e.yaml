@@ -1,0 +1,21 @@
+key: Column_s1zq9j4e
+type: Column
+props:
+  column:
+    mainAxisAlignment: main_axis_start
+    crossAxisAlignment: cross_axis_stretch
+    scrollable: true
+    primary: true
+    listSpacing:
+      endSpacingValue:
+        inputValue: 88
+        mostRecentInputValue: 88
+  expanded:
+    expandedType: EXPANDED
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

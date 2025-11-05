@@ -1,0 +1,20 @@
+key: Text_wzgnraes
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: k4jsump9
+    selectable: false
+    textValue:
+      inputValue: Location Detect
+      mostRecentInputValue: Location Detect
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

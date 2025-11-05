@@ -1,0 +1,17 @@
+key: Text_nea84oml
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: nteubdc4
+    selectable: false
+    textValue:
+      inputValue: Choose your location
+      mostRecentInputValue: Choose your location
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

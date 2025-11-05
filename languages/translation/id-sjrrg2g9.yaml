@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: sjrrg2g9
+translations:
+  - language:
+      language: en
+    text: Checkout
+  - language:
+      language: es
+    text: Verificar
+  - language:
+      language: fr
+    text: Vérifier
+isFixed: false

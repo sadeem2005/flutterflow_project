@@ -1,0 +1,21 @@
+key: Text_1jwzj4et
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: wss38bpn
+    selectable: false
+    textValue:
+      inputValue: Are you sure you want to activate your location?
+      mostRecentInputValue: Are you sure you want to activate your location?
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: mpj8eknt
+translations:
+  - language:
+      language: en
+    text: Cancel
+  - language:
+      language: es
+    text: Cancelar
+  - language:
+      language: fr
+    text: Annuler
+isFixed: false

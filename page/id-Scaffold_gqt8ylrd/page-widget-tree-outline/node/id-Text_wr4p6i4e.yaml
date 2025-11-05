@@ -1,0 +1,18 @@
+key: Text_wr4p6i4e
+type: Text
+props:
+  text:
+    themeStyle: TITLE_SMALL
+    translationIdentifier:
+      key: blkkfz04
+    selectable: false
+    textValue:
+      inputValue: "- Asian Baf Bread -"
+      mostRecentInputValue: "- Asian Baf Bread -"
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

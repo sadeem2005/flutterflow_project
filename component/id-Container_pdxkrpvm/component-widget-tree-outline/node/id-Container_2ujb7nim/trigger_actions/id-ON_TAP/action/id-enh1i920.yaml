@@ -1,0 +1,17 @@
+localStateUpdate:
+  updates:
+    - fieldIdentifier:
+        name: hide
+        key: mqaup
+      setValue:
+        inputValue:
+          serializedValue: "true"
+    - fieldIdentifier:
+        name: expanded
+        key: hjcxo
+      setValue:
+        inputValue:
+          serializedValue: "false"
+  updateType: WIDGET
+  stateVariableType: WIDGET_CLASS_STATE
+key: enh1i920

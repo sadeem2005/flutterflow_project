@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 62bdi6xm
+translations:
+  - language:
+      language: en
+    text: Let's find the food you like
+  - language:
+      language: es
+    text: Busquemos la comida que te gusta.
+  - language:
+      language: fr
+    text: Trouvons la nourriture que vous aimez
+isFixed: false

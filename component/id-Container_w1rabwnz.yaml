@@ -1,0 +1,14 @@
+name: SelectLocationItem
+params:
+  1ovtzw:
+    identifier:
+      name: select
+      key: 1ovtzw
+    defaultValue:
+      serializedValue: "false"
+    dataType:
+      scalarType: Boolean
+      nonNullable: false
+node:
+  key: Container_w1rabwnz
+classModel: {}

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: inr065ip
+translations:
+  - language:
+      language: en
+    text: Payment
+  - language:
+      language: es
+    text: Pago
+  - language:
+      language: fr
+    text: Paiement
+isFixed: false

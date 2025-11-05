@@ -1,0 +1,16 @@
+key: Row_ejxxgmin
+type: Row
+props:
+  row:
+    crossAxisAlignment: cross_axis_center
+    listSpacing:
+      spacingValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

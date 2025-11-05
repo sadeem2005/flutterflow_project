@@ -1,0 +1,19 @@
+key: Text_22j93n27
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: xsh3ud2y
+    selectable: false
+    textValue:
+      inputValue: Security
+      mostRecentInputValue: Security
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,14 @@
+appIconPath: projects/food-cort-c50jtz/assets/sd7kl3yoy59q/logo-icon.jpg
+splashImage:
+  path: projects/food-cort-c50jtz/assets/sd7kl3yoy59q/logo-icon.jpg
+  fit: FF_BOX_FIT_COVER
+  dimensions:
+    width:
+      pixelsValue:
+        inputValue: 200
+        mostRecentInputValue: 200
+    height: {}
+  backgroundColor:
+    value: "4293421338"
+errorImagePath: projects/dashboard-ztguqr/assets/9r58rfhytwms/image-placeholder-icon-5.jpeg
+androidAdaptiveIcon: {}

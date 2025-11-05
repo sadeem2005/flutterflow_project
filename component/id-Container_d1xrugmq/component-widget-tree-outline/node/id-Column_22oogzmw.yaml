@@ -1,0 +1,14 @@
+key: Column_22oogzmw
+type: Column
+props:
+  column:
+    primary: true
+    listSpacing: {}
+  expanded:
+    expandedType: EXPANDED
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

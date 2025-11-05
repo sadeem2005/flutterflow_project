@@ -1,0 +1,23 @@
+key: Column_ranwppjl
+type: Column
+props:
+  column:
+    primary: true
+    listSpacing:
+      spacingValue:
+        inputValue: 10
+        mostRecentInputValue: 10
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 40
+      mostRecentInputValue: 40
+    rightValue:
+      inputValue: 40
+      mostRecentInputValue: 40
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,25 @@
+key: CircleImage_wryjzwcn
+type: CircleImage
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_CONTAIN
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 40
+          mostRecentInputValue: 40
+      height:
+        pixelsValue:
+          inputValue: 120
+          mostRecentInputValue: 120
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/food-cort-c50jtz/assets/y4nzc0m2x2tn/Map.png
+      mostRecentInputValue: projects/food-cort-c50jtz/assets/y4nzc0m2x2tn/Map.png
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

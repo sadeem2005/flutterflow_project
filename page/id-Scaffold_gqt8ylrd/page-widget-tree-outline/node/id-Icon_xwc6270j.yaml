@@ -1,0 +1,25 @@
+key: Icon_xwc6270j
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    colorValue:
+      inputValue:
+        themeColor: TERTIARY
+      mostRecentInputValue:
+        themeColor: TERTIARY
+    iconDataValue:
+      inputValue:
+        codePoint: 60897
+        family: Tabler-Icons
+        matchTextDirection: false
+        name: starFilled
+        isCustom: true
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

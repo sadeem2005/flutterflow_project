@@ -1,0 +1,19 @@
+key: Text_silvlhu4
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: urmw7no6
+    selectable: false
+    textValue:
+      inputValue: Address
+      mostRecentInputValue: Address
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: m8vt32wl
+translations:
+  - language:
+      language: en
+    text: Verification Code
+  - language:
+      language: es
+    text: Código de verificación
+  - language:
+      language: fr
+    text: Le code de vérification
+isFixed: false

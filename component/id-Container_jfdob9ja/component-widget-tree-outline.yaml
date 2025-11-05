@@ -1,0 +1,19 @@
+node:
+  key: Container_jfdob9ja
+  children:
+    - key: Container_jldizm3z
+      children:
+        - key: Row_7yj2j7oy
+          children:
+            - key: Container_7cy1tbtz
+              children:
+                - key: Icon_j5f0y83v
+            - key: Column_6rl4x6qg
+              children:
+                - key: Row_fl57n8fj
+                  children:
+                    - key: Text_gexues4o
+                - key: Row_vexbkoo9
+                  children:
+                    - key: Text_l4fuqp8h
+            - key: Checkbox_9fe22xj0

@@ -1,0 +1,24 @@
+key: Text_im3fimp9
+type: Text
+props:
+  text:
+    themeStyle: BODY_LARGE
+    translationIdentifier:
+      key: j6d49hyr
+    selectable: false
+    textValue:
+      inputValue: Discount voucher! 50%
+      mostRecentInputValue: Discount voucher! 50%
+    maxLinesValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+    fontWeightValue:
+      inputValue: w600
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

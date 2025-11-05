@@ -1,0 +1,23 @@
+key: Column_a4kimxe1
+type: Column
+props:
+  column:
+    primary: true
+    listSpacing:
+      spacingValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 46
+      mostRecentInputValue: 46
+    bottomValue:
+      inputValue: 60
+      mostRecentInputValue: 60
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

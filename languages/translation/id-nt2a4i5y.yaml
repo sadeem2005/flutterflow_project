@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: nt2a4i5y
+translations:
+  - language:
+      language: en
+    text: Sign Up with Google
+  - language:
+      language: es
+    text: Regístrate con Google
+  - language:
+      language: fr
+    text: Inscrivez-vous avec Google
+isFixed: false

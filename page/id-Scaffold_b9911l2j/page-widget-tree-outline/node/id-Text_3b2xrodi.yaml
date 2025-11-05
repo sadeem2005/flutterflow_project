@@ -1,0 +1,20 @@
+key: Text_3b2xrodi
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: 9ftxk5xj
+    selectable: false
+    textValue:
+      inputValue: Don't have an acccount
+      mostRecentInputValue: Don't have an acccount
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

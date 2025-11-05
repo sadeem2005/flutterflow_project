@@ -1,0 +1,27 @@
+key: CircleImage_30j4zxmh
+type: CircleImage
+props:
+  image:
+    type: FF_IMAGE_TYPE_NETWORK
+    fit: FF_BOX_FIT_COVER
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 40
+          mostRecentInputValue: 40
+      height:
+        pixelsValue:
+          inputValue: 120
+          mostRecentInputValue: 120
+    cached: true
+    cacheFadeDuration: 500
+    showErrorImage: false
+    pathValue:
+      inputValue: https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTYyMDF8MHwxfHNlYXJjaHwzfHx1c2VyfGVufDB8fHx8MTY5MzI1MTcyMHww&ixlib=rb-4.0.3&q=80&w=1080
+      mostRecentInputValue: https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTYyMDF8MHwxfHNlYXJjaHwzfHx1c2VyfGVufDB8fHx8MTY5MzI1MTcyMHww&ixlib=rb-4.0.3&q=80&w=1080
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

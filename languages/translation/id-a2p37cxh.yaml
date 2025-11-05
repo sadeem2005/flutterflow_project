@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: a2p37cxh
+translations:
+  - language:
+      language: en
+    text: Fried grill noodles with egg special
+  - language:
+      language: es
+    text: Fideos fritos a la parrilla con huevo especial
+  - language:
+      language: fr
+    text: Nouilles grillées frites avec œuf spécial
+isFixed: false

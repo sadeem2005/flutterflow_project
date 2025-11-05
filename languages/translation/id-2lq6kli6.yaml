@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 2lq6kli6
+translations:
+  - language:
+      language: en
+    text: Notifications
+  - language:
+      language: es
+    text: Notificaciones
+  - language:
+      language: fr
+    text: Notifications
+isFixed: false

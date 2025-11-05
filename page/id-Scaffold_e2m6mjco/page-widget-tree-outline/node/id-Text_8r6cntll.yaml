@@ -1,0 +1,17 @@
+key: Text_8r6cntll
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: ma7hjc40
+    selectable: false
+    textValue:
+      inputValue: Complete Order
+      mostRecentInputValue: Complete Order
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,25 @@
+key: Icon_ezewm4oy
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+    colorValue:
+      inputValue:
+        paletteColorName: Black3
+      mostRecentInputValue:
+        paletteColorName: Black3
+    iconDataValue:
+      inputValue:
+        codePoint: 60389
+        family: Tabler-Icons
+        matchTextDirection: false
+        name: questionMark
+        isCustom: true
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

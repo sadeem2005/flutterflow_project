@@ -1,0 +1,19 @@
+key: Text_z6fqn25d
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: 0n2lpldx
+    selectable: false
+    textValue:
+      inputValue: Reviews
+      mostRecentInputValue: Reviews
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

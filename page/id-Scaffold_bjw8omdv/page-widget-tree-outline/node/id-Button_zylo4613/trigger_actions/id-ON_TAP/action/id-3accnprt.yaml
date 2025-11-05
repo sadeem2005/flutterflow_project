@@ -1,0 +1,26 @@
+snackBar:
+  textMessage:
+    inputValue:
+      serializedValue: Address Added!
+  textStyle:
+    themeStyle: LABEL_MEDIUM
+    variableColor:
+      inputValue:
+        color:
+          themeColor: PRIMARY_BACKGROUND
+  durationMillis: 4000
+  subAction:
+    showSubAction: false
+    label:
+      inputValue: {}
+    action:
+      navigate:
+        allowBack: true
+      key: szca7urv
+    labelColor: {}
+  shouldHidePreviousSnackbar: false
+  backgroundColor:
+    inputValue:
+      color:
+        themeColor: SECONDARY
+key: 3accnprt

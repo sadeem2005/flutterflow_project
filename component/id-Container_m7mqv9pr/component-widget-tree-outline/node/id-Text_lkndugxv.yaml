@@ -1,0 +1,19 @@
+key: Text_lkndugxv
+type: Text
+props:
+  text:
+    themeStyle: DISPLAY_SMALL
+    translationIdentifier:
+      key: zt4sy9vi
+    selectable: false
+    textValue:
+      inputValue: Paypall
+      mostRecentInputValue: Paypall
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

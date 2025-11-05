@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 2fb4jlh6
+translations:
+  - language:
+      language: en
+    text: Claim The Discount
+  - language:
+      language: es
+    text: Reclame el descuento
+  - language:
+      language: fr
+    text: Réclamez la réduction
+isFixed: false

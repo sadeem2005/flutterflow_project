@@ -1,0 +1,12 @@
+key: Container_wbsi8b11
+type: Container
+props:
+  container:
+    boxDecoration:
+      colorValue:
+        inputValue:
+          value: "0"
+        mostRecentInputValue:
+          value: "0"
+name: ButtonOrderStatus
+isDummyRoot: true

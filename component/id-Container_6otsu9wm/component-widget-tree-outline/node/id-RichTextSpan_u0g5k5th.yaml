@@ -1,0 +1,21 @@
+key: RichTextSpan_u0g5k5th
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      themeStyle: LABEL_LARGE
+      translationIdentifier:
+        key: x19lsosk
+      textValue:
+        inputValue: "$30 "
+        mostRecentInputValue: "$30 "
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY
+        mostRecentInputValue:
+          themeColor: PRIMARY
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

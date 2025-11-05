@@ -1,0 +1,21 @@
+key: RichTextSpan_3p4elp7e
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      themeStyle: BODY_MEDIUM
+      translationIdentifier:
+        key: 7axmi8vz
+      textValue:
+        inputValue: Resend
+        mostRecentInputValue: Resend
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY
+        mostRecentInputValue:
+          themeColor: PRIMARY
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

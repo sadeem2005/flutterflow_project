@@ -1,0 +1,21 @@
+key: Text_crqz80sw
+type: Text
+props:
+  text:
+    themeStyle: HEADLINE_SMALL
+    translationIdentifier:
+      key: j3p2m3nr
+    selectable: false
+    textValue:
+      inputValue: Fried grill noodles with egg special
+      mostRecentInputValue: Fried grill noodles with egg special
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

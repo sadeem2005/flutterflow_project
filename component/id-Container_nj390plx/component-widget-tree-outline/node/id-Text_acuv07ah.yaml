@@ -1,0 +1,19 @@
+key: Text_acuv07ah
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: q4amxetw
+    selectable: false
+    textValue:
+      inputValue: Price Ranges
+      mostRecentInputValue: Price Ranges
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

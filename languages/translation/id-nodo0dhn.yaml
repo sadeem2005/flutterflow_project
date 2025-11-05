@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: nodo0dhn
+translations:
+  - language:
+      language: en
+    text: Fast Foods
+  - language:
+      language: es
+    text: Comidas rápidas
+  - language:
+      language: fr
+    text: Restauration rapide
+isFixed: false

@@ -1,0 +1,49 @@
+key: IconButton_uzed02b4
+type: IconButton
+props:
+  iconButton:
+    buttonSize:
+      pixelsValue:
+        inputValue: 40
+        mostRecentInputValue: 40
+    borderRadiusValue:
+      inputValue: 10
+      mostRecentInputValue: 10
+    borderColorValue:
+      inputValue:
+        value: "0"
+      mostRecentInputValue:
+        value: "0"
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 22
+          mostRecentInputValue: 22
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY_TEXT
+          mostRecentInputValue:
+            themeColor: PRIMARY_TEXT
+        iconDataValue:
+          inputValue:
+            codePoint: 58372
+            family: MaterialIcons
+            matchTextDirection: false
+            name: more_vert
+  responsiveVisibility: {}
+  themeOverrides:
+    - tagPath:
+        - 10
+        - 26
+        - 1
+        - 7
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+themeWidgetInfo:
+  identifier:
+    name: IconBtnArrowLeft
+    key: c6ye52
+  widgetHash: 384849288

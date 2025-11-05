@@ -1,0 +1,121 @@
+key: TextField_raotd3xo
+type: TextField
+props:
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  expanded:
+    expandedType: EXPANDED
+  textField:
+    textStyle:
+      themeStyle: LABEL_LARGE
+    inputDecoration:
+      inputBorderType: outline
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        topRightValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        bottomLeftValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        bottomRightValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        allValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+      hintStyle:
+        themeStyle: LABEL_LARGE
+        colorValue:
+          inputValue:
+            themeColor: SECONDARY_TEXT
+          mostRecentInputValue:
+            themeColor: SECONDARY_TEXT
+      labelStyle:
+        themeStyle: LABEL_MEDIUM
+      labelText: {}
+      hintText:
+        translationIdentifier:
+          key: h1dgk5vl
+        textValue:
+          inputValue: Enter voucher code
+          mostRecentInputValue: Enter voucher code
+      borderColorValue:
+        inputValue:
+          themeColor: PRIMARY_TEXT
+        mostRecentInputValue:
+          themeColor: PRIMARY_TEXT
+      filledValue:
+        inputValue: true
+        mostRecentInputValue: true
+      fillColorValue:
+        inputValue:
+          themeColor: PRIMARY_BACKGROUND
+        mostRecentInputValue:
+          themeColor: PRIMARY_BACKGROUND
+      borderWidthValue:
+        inputValue: 1
+        mostRecentInputValue: 1
+      errorBorderColorValue:
+        inputValue:
+          themeColor: ERROR
+        mostRecentInputValue:
+          themeColor: ERROR
+    width:
+      pixelsValue:
+        inputValue: 300
+        mostRecentInputValue: 300
+    maxLinesValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    autofocusValue:
+      inputValue: false
+      mostRecentInputValue: false
+    leadingIconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY_TEXT
+          mostRecentInputValue:
+            themeColor: PRIMARY_TEXT
+        iconDataValue:
+          inputValue:
+            codePoint: 63080
+            family: Tabler-Icons
+            matchTextDirection: false
+            name: discount2
+            isCustom: true
+    trailingIconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        colorValue:
+          inputValue:
+            themeColor: SECONDARY_TEXT
+          mostRecentInputValue:
+            themeColor: SECONDARY_TEXT
+  responsiveVisibility: {}
+  themeOverrides:
+    - tagPath:
+        - 11
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+themeWidgetInfo:
+  identifier:
+    name: EntercodeTf
+    key: ka595f
+  widgetHash: 28201729
+valueKey: {}

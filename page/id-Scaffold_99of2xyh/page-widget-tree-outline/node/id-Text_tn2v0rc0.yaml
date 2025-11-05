@@ -1,0 +1,19 @@
+key: Text_tn2v0rc0
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: mf4seg4j
+    selectable: false
+    textValue:
+      inputValue: "Changes to the Service and\/or Terms:"
+      mostRecentInputValue: "Changes to the Service and\/or Terms:"
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

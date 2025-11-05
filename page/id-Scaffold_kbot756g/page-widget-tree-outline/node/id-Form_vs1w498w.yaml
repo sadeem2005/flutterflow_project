@@ -1,0 +1,11 @@
+key: Form_vs1w498w
+type: Form
+props:
+  responsiveVisibility: {}
+  form: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: ucakz1il
+translations:
+  - language:
+      language: en
+    text: Change Password
+  - language:
+      language: es
+    text: Cancelar
+  - language:
+      language: fr
+    text: Annuler
+isFixed: false

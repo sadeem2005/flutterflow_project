@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: lwrdsvca
+translations:
+  - language:
+      language: en
+    text: Spanish
+  - language:
+      language: es
+    text: Español
+  - language:
+      language: fr
+    text: Espagnol
+isFixed: false

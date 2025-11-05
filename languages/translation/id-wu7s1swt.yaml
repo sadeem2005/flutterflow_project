@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: wu7s1swt
+translations:
+  - language:
+      language: en
+    text: "Los Angeles, United States"
+  - language:
+      language: es
+    text: "Los Ángeles, Estados Unidos"
+  - language:
+      language: fr
+    text: "Los Angeles, États-Unis"
+isFixed: false

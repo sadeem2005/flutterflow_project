@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: vrtr6uvq
+translations:
+  - language:
+      language: en
+    text: Save Changes
+  - language:
+      language: es
+    text: Guardar cambios
+  - language:
+      language: fr
+    text: Sauvegarder les modifications
+isFixed: false

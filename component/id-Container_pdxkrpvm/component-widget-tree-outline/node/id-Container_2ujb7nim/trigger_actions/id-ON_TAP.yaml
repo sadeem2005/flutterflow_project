@@ -1,0 +1,6 @@
+rootAction:
+  key: bunnnnmb
+  action:
+    key: enh1i920
+trigger:
+  triggerType: ON_TAP

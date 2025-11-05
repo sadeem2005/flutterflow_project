@@ -1,0 +1,19 @@
+key: Row_fuwgkehd
+type: Row
+props:
+  row:
+    mainAxisAlignment: main_axis_end
+    listSpacing: {}
+  alignment:
+    xValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    yValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

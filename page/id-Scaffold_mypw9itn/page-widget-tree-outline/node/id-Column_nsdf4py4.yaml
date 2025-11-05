@@ -1,0 +1,22 @@
+key: Column_nsdf4py4
+type: Column
+props:
+  column:
+    mainAxisAlignment: main_axis_start
+    crossAxisAlignment: cross_axis_stretch
+    scrollable: false
+    primary: true
+    listSpacing: {}
+  padding:
+    type: FF_PADDING_ONLY
+    bottomValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  expanded:
+    expandedType: EXPANDED
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

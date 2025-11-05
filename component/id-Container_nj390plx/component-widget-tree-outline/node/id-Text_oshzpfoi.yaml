@@ -1,0 +1,19 @@
+key: Text_oshzpfoi
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: 8eo5q4gq
+    selectable: false
+    textValue:
+      inputValue: Sort by
+      mostRecentInputValue: Sort by
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

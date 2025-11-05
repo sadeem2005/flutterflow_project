@@ -1,0 +1,19 @@
+key: Text_huqxg6ra
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: w8fbq6qd
+    selectable: false
+    textValue:
+      inputValue: Username
+      mostRecentInputValue: Username
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,16 @@
+key: Row_0hmy1wdc
+type: Row
+props:
+  row:
+    scrollable: true
+    listSpacing:
+      endSpacingValue:
+        inputValue: 20
+        mostRecentInputValue: 20
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

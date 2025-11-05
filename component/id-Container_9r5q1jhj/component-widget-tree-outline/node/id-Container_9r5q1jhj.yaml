@@ -1,0 +1,12 @@
+key: Container_9r5q1jhj
+type: Container
+props:
+  container:
+    boxDecoration:
+      colorValue:
+        inputValue:
+          value: "0"
+        mostRecentInputValue:
+          value: "0"
+name: TopOfWeekItem
+isDummyRoot: true

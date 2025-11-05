@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 3kzxsnf1
+translations:
+  - language:
+      language: en
+    text: Shopping Cart
+  - language:
+      language: es
+    text: Carro de la compra
+  - language:
+      language: fr
+    text: Panier
+isFixed: false

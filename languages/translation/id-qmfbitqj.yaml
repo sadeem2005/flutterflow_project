@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: qmfbitqj
+translations:
+  - language:
+      language: en
+    text: Enter Holder Name
+  - language:
+      language: es
+    text: Ingrese el nombre del titular
+  - language:
+      language: fr
+    text: Entrez le nom du titulaire
+isFixed: false

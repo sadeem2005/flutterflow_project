@@ -1,0 +1,117 @@
+key: TextField_xxrxb7wm
+type: TextField
+props:
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  textField:
+    textStyle:
+      themeStyle: BODY_MEDIUM
+    inputDecoration:
+      inputBorderType: outline
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        topRightValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        bottomLeftValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        bottomRightValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        allValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+      hintStyle:
+        themeStyle: LABEL_MEDIUM
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY_TEXT
+          mostRecentInputValue:
+            themeColor: PRIMARY_TEXT
+      labelStyle:
+        themeStyle: LABEL_MEDIUM
+      labelText: {}
+      hintText:
+        translationIdentifier:
+          key: 62bdi6xm
+        textValue:
+          inputValue: Let's find the food you like
+          mostRecentInputValue: Let's find the food you like
+      filledValue:
+        inputValue: true
+        mostRecentInputValue: true
+      fillColorValue:
+        inputValue:
+          themeColor: PRIMARY_BACKGROUND
+        mostRecentInputValue:
+          themeColor: PRIMARY_BACKGROUND
+      borderWidthValue:
+        inputValue: 2
+        mostRecentInputValue: 2
+      errorBorderColorValue:
+        inputValue:
+          themeColor: ERROR
+        mostRecentInputValue:
+          themeColor: ERROR
+    width:
+      pixelsValue:
+        inputValue: 300
+        mostRecentInputValue: 300
+    maxLinesValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    autofocusValue:
+      inputValue: true
+      mostRecentInputValue: true
+    leadingIconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY_TEXT
+          mostRecentInputValue:
+            themeColor: PRIMARY_TEXT
+        iconDataValue:
+          inputValue:
+            codePoint: 60540
+            family: Tabler-Icons
+            matchTextDirection: false
+            name: search
+            isCustom: true
+    trailingIconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY_TEXT
+          mostRecentInputValue:
+            themeColor: PRIMARY_TEXT
+  responsiveVisibility: {}
+  themeOverrides:
+    - tagPath:
+        - 17
+        - 46
+        - 1
+        - 7
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+themeWidgetInfo:
+  identifier:
+    name: SearchIconPlus
+    key: 9z8b81
+  widgetHash: 385233219
+valueKey: {}

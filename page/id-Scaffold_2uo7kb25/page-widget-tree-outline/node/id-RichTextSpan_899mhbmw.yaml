@@ -1,0 +1,16 @@
+key: RichTextSpan_899mhbmw
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      themeStyle: TITLE_LARGE
+      translationIdentifier:
+        key: f8ym6ksg
+      textValue:
+        inputValue: "6.17"
+        mostRecentInputValue: "6.17"
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

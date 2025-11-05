@@ -1,0 +1,245 @@
+key: TextField_fang2d63
+type: TextField
+props:
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  expanded:
+    expandedType: EXPANDED
+  textField:
+    textStyle:
+      themeStyle: BODY_MEDIUM
+    inputDecoration:
+      inputBorderType: outline
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        topRightValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        bottomLeftValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        bottomRightValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        allValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+      contentPadding:
+        type: FF_PADDING_ALL
+        allValue:
+          inputValue: 0
+          mostRecentInputValue: 0
+      hintStyle:
+        themeStyle: LABEL_MEDIUM
+      labelStyle:
+        themeStyle: LABEL_MEDIUM
+      labelText: {}
+      hintText:
+        translationIdentifier:
+          key: 6xsz8kht
+        textValue:
+          inputValue: Create your password
+          mostRecentInputValue: Create your password
+      borderColorValue:
+        inputValue:
+          paletteColorName: Grey3
+        mostRecentInputValue:
+          paletteColorName: Grey3
+      filledValue:
+        inputValue: true
+        mostRecentInputValue: true
+      fillColorValue:
+        inputValue:
+          paletteColorName: LightGrey2
+        mostRecentInputValue:
+          paletteColorName: LightGrey2
+      borderWidthValue:
+        inputValue: 1
+        mostRecentInputValue: 1
+      denseValue:
+        inputValue: false
+        mostRecentInputValue: false
+      errorBorderColorValue:
+        inputValue:
+          themeColor: ERROR
+        mostRecentInputValue:
+          themeColor: ERROR
+      focusBorderColorValue:
+        inputValue:
+          themeColor: PRIMARY
+        mostRecentInputValue:
+          themeColor: PRIMARY
+    passwordField: true
+    showClearButton: false
+    setStateOnChanged: false
+    width:
+      pixelsValue:
+        inputValue: 250
+        mostRecentInputValue: 250
+    autoFillHint: PASSWORD
+    maxLinesValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    debounceTimeValue:
+      inputValue: 2000
+      mostRecentInputValue: 2000
+    autofocusValue:
+      inputValue: false
+      mostRecentInputValue: false
+    leadingIconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        colorValue:
+          variable:
+            source: FUNCTION_CALL
+            defaultValue:
+              color:
+                paletteColorName: Grey
+            functionCall:
+              conditionalValue:
+                ifConditionalValues:
+                  - condition:
+                      source: FUNCTION_CALL
+                      functionCall:
+                        values:
+                          - variable:
+                              source: WIDGET_STATE
+                              baseVariable:
+                                widgetState:
+                                  returnParameter:
+                                    allowedDestinationTypes:
+                                      - Integer
+                                      - Double
+                                      - Boolean
+                                      - ImagePath
+                                      - VideoPath
+                                      - AudioPath
+                                    dataType:
+                                      scalarType: String
+                              nodeKeyRef:
+                                key: TextField_fang2d63
+                          - {}
+                        condition:
+                          relation: DOES_NOT_EXIST_OR_IS_EMPTY
+                    value:
+                      inputValue:
+                        color:
+                          paletteColorName: Grey
+                elseValue:
+                  inputValue:
+                    color:
+                      themeColor: PRIMARY
+                returnParameter:
+                  dataType:
+                    scalarType: Color
+          mostRecentInputValue:
+            paletteColorName: Grey
+        iconDataValue:
+          inputValue:
+            codePoint: 61847
+            family: MaterialIcons
+            matchTextDirection: false
+            name: lock_outlined
+    trailingIconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        colorValue:
+          inputValue:
+            paletteColorName: Grey
+          mostRecentInputValue:
+            paletteColorName: Grey
+  responsiveVisibility: {}
+  themeOverrides:
+    - tagPath:
+        - 15
+    - tagPath:
+        - 17
+        - 17
+    - tagPath:
+        - 17
+        - 2
+        - 27
+    - tagPath:
+        - 17
+        - 41
+    - tagPath:
+        - 17
+        - 2
+        - 9
+    - tagPath:
+        - 17
+        - 2
+        - 25
+    - tagPath:
+        - 17
+        - 2
+        - 18
+    - tagPath:
+        - 17
+        - 29
+    - tagPath:
+        - 17
+        - 12
+    - tagPath:
+        - 17
+        - 39
+    - tagPath:
+        - 17
+        - 4
+    - tagPath:
+        - 17
+        - 7
+    - tagPath:
+        - 17
+        - 46
+    - tagPath:
+        - 17
+        - 2
+        - 16
+        - 26
+    - tagPath:
+        - 17
+        - 45
+        - 1
+        - 7
+    - tagPath:
+        - 17
+        - 45
+        - 1
+        - 5
+    - tagPath:
+        - 17
+        - 46
+        - 1
+        - 5
+    - tagPath:
+        - 17
+        - 46
+        - 1
+        - 6
+    - tagPath:
+        - 17
+        - 45
+        - 1
+        - 6
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+name: UserNameTextField
+parameterValues: {}
+themeWidgetInfo:
+  identifier:
+    name: UserNameTf
+    key: q2mfo0
+  widgetHash: 295274020

@@ -1,0 +1,13 @@
+key: Row_r8xrjlcs
+type: Row
+props:
+  row:
+    listSpacing: {}
+  expanded:
+    expandedType: UNEXPANDED
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

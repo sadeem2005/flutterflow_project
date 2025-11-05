@@ -1,0 +1,19 @@
+key: Text_gexues4o
+type: Text
+props:
+  text:
+    themeStyle: DISPLAY_SMALL
+    translationIdentifier:
+      key: clpxilmk
+    selectable: false
+    textValue:
+      inputValue: Mastercard
+      mostRecentInputValue: Mastercard
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,32 @@
+key: Text_arlh7ny5
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: 8w3ex41n
+    selectable: false
+    textValue:
+      inputValue: "Happy! Your food will be made immediately and we will send it after it's finished by the courier, please wait a moment."
+      mostRecentInputValue: "Happy! Your food will be made immediately and we will send it after it's finished by the courier, please wait a moment."
+    maxLinesValue:
+      inputValue: 3
+      mostRecentInputValue: 3
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+    rightValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

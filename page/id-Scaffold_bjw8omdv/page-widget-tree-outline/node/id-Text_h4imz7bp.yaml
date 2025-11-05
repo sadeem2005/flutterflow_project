@@ -1,0 +1,17 @@
+key: Text_h4imz7bp
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: j66jqcah
+    selectable: false
+    textValue:
+      inputValue: Payment Method
+      mostRecentInputValue: Payment Method
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

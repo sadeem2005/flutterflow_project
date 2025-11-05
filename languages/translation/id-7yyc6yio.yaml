@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 7yyc6yio
+translations:
+  - language:
+      language: en
+    text: Please login with registered account
+  - language:
+      language: es
+    text: Por favor inicie sesión con una cuenta registrada
+  - language:
+      language: fr
+    text: Veuillez vous connecter avec un compte enregistré
+isFixed: false

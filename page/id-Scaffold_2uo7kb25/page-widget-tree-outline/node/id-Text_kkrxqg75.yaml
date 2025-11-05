@@ -1,0 +1,22 @@
+key: Text_kkrxqg75
+type: Text
+props:
+  text:
+    themeStyle: TITLE_SMALL
+    translationIdentifier:
+      key: 3wtzgjwj
+    selectable: false
+    textValue:
+      inputValue: Order Total
+      mostRecentInputValue: Order Total
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+      mostRecentInputValue:
+        themeColor: SECONDARY_TEXT
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

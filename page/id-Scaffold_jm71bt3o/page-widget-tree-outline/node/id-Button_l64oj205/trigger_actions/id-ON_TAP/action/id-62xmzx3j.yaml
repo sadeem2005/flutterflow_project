@@ -1,0 +1,22 @@
+snackBar:
+  textMessage:
+    inputValue:
+      serializedValue: Card Added!
+  textStyle:
+    themeStyle: LABEL_SMALL
+    variableColor:
+      inputValue:
+        color:
+          themeColor: PRIMARY_BACKGROUND
+  durationMillis: 4000
+  subAction:
+    action:
+      navigate:
+        allowBack: true
+      key: 0rmzkeua
+  shouldHidePreviousSnackbar: false
+  backgroundColor:
+    inputValue:
+      color:
+        themeColor: PRIMARY
+key: 62xmzx3j

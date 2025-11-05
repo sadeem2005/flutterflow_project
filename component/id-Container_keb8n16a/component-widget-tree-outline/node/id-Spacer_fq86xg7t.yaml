@@ -1,0 +1,13 @@
+key: Spacer_fq86xg7t
+type: Spacer
+props:
+  spacer:
+    flexValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

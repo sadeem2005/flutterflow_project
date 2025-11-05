@@ -1,0 +1,12 @@
+key: Container_qri4kcp7
+type: Container
+props:
+  container:
+    boxDecoration:
+      colorValue:
+        inputValue:
+          value: "0"
+        mostRecentInputValue:
+          value: "0"
+name: MyCartItem
+isDummyRoot: true

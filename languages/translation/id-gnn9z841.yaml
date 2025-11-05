@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: gnn9z841
+translations:
+  - language:
+      language: en
+    text: Notification Setting
+  - language:
+      language: es
+    text: Notificación de configuración
+  - language:
+      language: fr
+    text: Paramètre de notification
+isFixed: false

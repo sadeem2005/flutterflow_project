@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: r8xqexim
+translations:
+  - language:
+      language: en
+    text: Description
+  - language:
+      language: es
+    text: Descripción
+  - language:
+      language: fr
+    text: Description
+isFixed: false

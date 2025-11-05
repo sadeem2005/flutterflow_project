@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 6fp4t17z
+translations:
+  - language:
+      language: en
+    text: Get 1
+  - language:
+      language: es
+    text: Consigue 1
+  - language:
+      language: fr
+    text: Obtenez-en 1
+isFixed: false

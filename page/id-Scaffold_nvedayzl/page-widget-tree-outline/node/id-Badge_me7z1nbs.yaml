@@ -1,0 +1,62 @@
+key: Badge_me7z1nbs
+type: Badge
+props:
+  responsiveVisibility: {}
+  badge:
+    text:
+      themeStyle: TITLE_SMALL
+      translationIdentifier:
+        key: x43sk6py
+      textValue:
+        inputValue: "5"
+        mostRecentInputValue: "5"
+      fontSizeValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+      colorValue:
+        inputValue:
+          value: "4294967295"
+        mostRecentInputValue:
+          value: "4294967295"
+      textAlignValue:
+        inputValue: ALIGN_CENTER
+    innerPadding:
+      type: FF_PADDING_ALL
+      leftValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      topValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      rightValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      bottomValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      allValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY
+      mostRecentInputValue:
+        themeColor: SECONDARY
+    elevationValue:
+      inputValue: 3
+      mostRecentInputValue: 3
+    animationValue:
+      inputValue: true
+      mostRecentInputValue: true
+    showBadgeValue:
+      inputValue: true
+      mostRecentInputValue: true
+    positionStartValue:
+      inputValue: false
+      mostRecentInputValue: false
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

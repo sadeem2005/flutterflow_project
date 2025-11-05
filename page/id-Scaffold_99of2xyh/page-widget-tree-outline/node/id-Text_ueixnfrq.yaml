@@ -1,0 +1,19 @@
+key: Text_ueixnfrq
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: vkgb4h04
+    selectable: false
+    textValue:
+      inputValue: Legal and Policies
+      mostRecentInputValue: Legal and Policies
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

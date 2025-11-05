@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 365znznm
+translations:
+  - language:
+      language: en
+    text: Get 2
+  - language:
+      language: es
+    text: Consigue 2
+  - language:
+      language: fr
+    text: Obtenez-en 2
+isFixed: false

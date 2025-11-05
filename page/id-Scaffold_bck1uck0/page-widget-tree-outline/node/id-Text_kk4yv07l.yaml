@@ -1,0 +1,27 @@
+key: Text_kk4yv07l
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: q7mzy88d
+    selectable: false
+    textValue:
+      inputValue: "Urna amet, suspendisse ullamcorper ac elit diam facilisis cursus vestibulum."
+      mostRecentInputValue: "Urna amet, suspendisse ullamcorper ac elit diam facilisis cursus vestibulum."
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

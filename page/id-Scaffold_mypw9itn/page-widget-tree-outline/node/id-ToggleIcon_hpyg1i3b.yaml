@@ -1,0 +1,101 @@
+key: ToggleIcon_hpyg1i3b
+type: ToggleIcon
+props:
+  toggleIcon:
+    valueValue:
+      variable:
+        source: LOCAL_STATE
+        baseVariable:
+          localState:
+            fieldIdentifier:
+              name: liked
+              key: yu8k8
+            stateVariableType: WIDGET_CLASS_STATE
+        nodeKeyRef:
+          key: Scaffold_mypw9itn
+        uiBuilderValue:
+          serializedValue: "false"
+      mostRecentInputValue: false
+    iconOnValue:
+      inputValue:
+        sizeValue:
+          inputValue: 22
+          mostRecentInputValue: 22
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY
+          mostRecentInputValue:
+            themeColor: PRIMARY
+        iconDataValue:
+          inputValue:
+            codePoint: 63465
+            family: Tabler-Icons
+            matchTextDirection: false
+            name: heartFilled
+            isCustom: true
+    iconOffValue:
+      inputValue:
+        sizeValue:
+          inputValue: 22
+          mostRecentInputValue: 22
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY_TEXT
+          mostRecentInputValue:
+            themeColor: PRIMARY_TEXT
+        iconDataValue:
+          inputValue:
+            codePoint: 63471
+            family: Tabler-Icons
+            matchTextDirection: false
+            name: heart
+            isCustom: true
+  responsiveVisibility: {}
+  themeOverrides:
+    - tagPath:
+        - 33
+        - 4
+    - tagPath:
+        - 33
+        - 5
+        - 1
+        - 5
+    - tagPath:
+        - 33
+        - 6
+        - 1
+        - 5
+    - tagPath:
+        - 33
+        - 5
+        - 1
+        - 7
+    - tagPath:
+        - 33
+        - 5
+        - 1
+        - 6
+    - tagPath:
+        - 33
+        - 6
+        - 1
+        - 7
+    - tagPath:
+        - 33
+        - 6
+        - 1
+        - 6
+    - tagPath:
+        - 33
+        - 4
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+themeWidgetInfo:
+  identifier:
+    name: toggleItem
+    key: ecmmly
+  widgetHash: 257737254
+valueKey: {}

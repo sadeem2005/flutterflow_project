@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 2s5gpezj
+translations:
+  - language:
+      language: en
+    text: Nearest
+  - language:
+      language: es
+    text: Más cercano
+  - language:
+      language: fr
+    text: La plus proche
+isFixed: false

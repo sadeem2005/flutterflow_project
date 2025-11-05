@@ -1,0 +1,19 @@
+key: Row_sldpmk1c
+type: Row
+props:
+  row:
+    listSpacing: {}
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 30
+      mostRecentInputValue: 30
+    rightValue:
+      inputValue: 30
+      mostRecentInputValue: 30
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

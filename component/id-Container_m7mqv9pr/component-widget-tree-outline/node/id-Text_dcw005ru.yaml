@@ -1,0 +1,19 @@
+key: Text_dcw005ru
+type: Text
+props:
+  text:
+    themeStyle: DISPLAY_SMALL
+    translationIdentifier:
+      key: 4ujur370
+    selectable: false
+    textValue:
+      inputValue: Add Payment Method
+      mostRecentInputValue: Add Payment Method
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

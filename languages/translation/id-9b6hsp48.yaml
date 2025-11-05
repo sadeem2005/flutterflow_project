@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 9b6hsp48
+translations:
+  - language:
+      language: en
+    text: Notifications
+  - language:
+      language: es
+    text: Notificaciones
+  - language:
+      language: fr
+    text: Notifications
+isFixed: false

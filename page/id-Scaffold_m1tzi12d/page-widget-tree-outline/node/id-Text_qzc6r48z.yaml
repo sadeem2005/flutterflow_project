@@ -1,0 +1,17 @@
+key: Text_qzc6r48z
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: vf4xbxza
+    selectable: false
+    textValue:
+      inputValue: Remember Password
+      mostRecentInputValue: Remember Password
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

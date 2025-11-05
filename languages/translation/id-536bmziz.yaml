@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 536bmziz
+translations:
+  - language:
+      language: en
+    text: House
+  - language:
+      language: es
+    text: Casa
+  - language:
+      language: fr
+    text: Maison
+isFixed: false

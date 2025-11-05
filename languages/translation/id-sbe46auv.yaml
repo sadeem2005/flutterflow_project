@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: sbe46auv
+translations:
+  - language:
+      language: en
+    text: Date
+  - language:
+      language: es
+    text: Fecha
+  - language:
+      language: fr
+    text: Date
+isFixed: false

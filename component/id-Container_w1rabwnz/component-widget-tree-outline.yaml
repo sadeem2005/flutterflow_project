@@ -1,0 +1,21 @@
+node:
+  key: Container_w1rabwnz
+  children:
+    - key: Container_p8bh8f2j
+      children:
+        - key: Row_o767y6sv
+          children:
+            - key: Column_bggdzpks
+              children:
+                - key: Row_lw2iinwd
+                  children:
+                    - key: Text_i7hn024l
+                - key: Row_ipn4h2y9
+                  children:
+                    - key: Text_ekr2340d
+            - key: Container_7zv5lg0g
+              children:
+                - key: Stack_3wo2kiat
+                  children:
+                    - key: CircleImage_pk5bah5w
+                    - key: Icon_3ix9ct23

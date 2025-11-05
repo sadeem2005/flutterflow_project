@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: neg3msns
+translations:
+  - language:
+      language: en
+    text: 124 Kcal
+  - language:
+      language: es
+    text: 124 kilocalorías
+  - language:
+      language: fr
+    text: 124 Kcal
+isFixed: false

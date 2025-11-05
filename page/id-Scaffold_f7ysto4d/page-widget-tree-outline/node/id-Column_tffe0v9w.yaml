@@ -1,0 +1,27 @@
+key: Column_tffe0v9w
+type: Column
+props:
+  column:
+    crossAxisAlignment: cross_axis_stretch
+    scrollable: true
+    primary: true
+    listSpacing:
+      spacingValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+      startSpacingValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+  padding:
+    type: FF_PADDING_ONLY
+    bottomValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  expanded:
+    expandedType: EXPANDED
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

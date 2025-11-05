@@ -1,0 +1,29 @@
+key: Column_6ipercl9
+type: Column
+props:
+  column:
+    scrollable: true
+    primary: true
+    listSpacing:
+      spacingValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+      startSpacingValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 10
+      mostRecentInputValue: 10
+    bottomValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  expanded:
+    expandedType: EXPANDED
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

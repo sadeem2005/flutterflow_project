@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 5j0pbo9z
+translations:
+  - language:
+      language: en
+    text: Support title
+  - language:
+      language: es
+    text: Título de soporte
+  - language:
+      language: fr
+    text: Titre de l'assistance
+isFixed: false

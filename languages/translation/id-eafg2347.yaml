@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: eafg2347
+translations:
+  - language:
+      language: en
+    text: FoodCort Discount
+  - language:
+      language: es
+    text: Descuento en FoodCort
+  - language:
+      language: fr
+    text: Remise FoodCort
+isFixed: false

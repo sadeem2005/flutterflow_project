@@ -1,0 +1,20 @@
+key: Text_lcnmppqw
+type: Text
+props:
+  text:
+    themeStyle: DISPLAY_SMALL
+    translationIdentifier:
+      key: lwrdsvca
+    selectable: false
+    textValue:
+      inputValue: Spanish
+      mostRecentInputValue: Spanish
+  expanded:
+    expandedType: UNEXPANDED
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

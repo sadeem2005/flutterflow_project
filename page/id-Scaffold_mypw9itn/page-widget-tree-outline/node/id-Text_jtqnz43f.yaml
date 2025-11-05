@@ -1,0 +1,19 @@
+key: Text_jtqnz43f
+type: Text
+props:
+  text:
+    themeStyle: TITLE_SMALL
+    translationIdentifier:
+      key: nbdnof56
+    selectable: false
+    textValue:
+      inputValue: Menu Detail
+      mostRecentInputValue: Menu Detail
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

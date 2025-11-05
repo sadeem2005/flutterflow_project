@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: rijctza1
+translations:
+  - language:
+      language: en
+    text: Foodie’s courier send with love
+  - language:
+      language: es
+    text: El mensajero de Foodie envía con amor.
+  - language:
+      language: fr
+    text: Courrier gourmand envoyé avec amour
+isFixed: false

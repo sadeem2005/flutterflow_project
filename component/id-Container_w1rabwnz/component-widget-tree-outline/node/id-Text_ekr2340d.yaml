@@ -1,0 +1,19 @@
+key: Text_ekr2340d
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: wu7s1swt
+    selectable: false
+    textValue:
+      inputValue: "Los Angeles, United States"
+      mostRecentInputValue: "Los Angeles, United States"
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,19 @@
+key: Text_u0xpgc1n
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: obpxi59l
+    selectable: false
+    textValue:
+      inputValue: Checkout
+      mostRecentInputValue: Checkout
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

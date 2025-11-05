@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: ufb3z8kz
+translations:
+  - language:
+      language: en
+    text: Edit
+  - language:
+      language: es
+    text: Editar
+  - language:
+      language: fr
+    text: Modifier
+isFixed: false

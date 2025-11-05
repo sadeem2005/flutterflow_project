@@ -1,0 +1,19 @@
+key: Text_zryzilgx
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: czlgmhds
+    selectable: false
+    textValue:
+      inputValue: Edit Profile
+      mostRecentInputValue: Edit Profile
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

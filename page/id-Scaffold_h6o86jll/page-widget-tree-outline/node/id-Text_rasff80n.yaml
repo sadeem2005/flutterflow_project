@@ -1,0 +1,19 @@
+key: Text_rasff80n
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: 8c7103h3
+    selectable: false
+    textValue:
+      inputValue: Account Liked With
+      mostRecentInputValue: Account Liked With
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 7t4z6asl
+translations:
+  - language:
+      language: en
+    text: FoodCort Discount
+  - language:
+      language: es
+    text: Descuento en FoodCort
+  - language:
+      language: fr
+    text: Remise FoodCort
+isFixed: false

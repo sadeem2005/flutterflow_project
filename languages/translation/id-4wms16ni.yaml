@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 4wms16ni
+translations:
+  - language:
+      language: en
+    text: Beef
+  - language:
+      language: es
+    text: Carne de res
+  - language:
+      language: fr
+    text: Bœuf
+isFixed: false

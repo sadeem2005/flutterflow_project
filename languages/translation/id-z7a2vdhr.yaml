@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: z7a2vdhr
+translations:
+  - language:
+      language: en
+    text: Expired
+  - language:
+      language: es
+    text: Venció
+  - language:
+      language: fr
+    text: Expiré
+isFixed: false

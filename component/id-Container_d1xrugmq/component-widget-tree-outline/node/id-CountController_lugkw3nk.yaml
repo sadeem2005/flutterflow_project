@@ -1,0 +1,122 @@
+key: CountController_lugkw3nk
+type: CountController
+props:
+  countController:
+    displayValue: 3
+    countTextStyle:
+      themeStyle: LABEL_LARGE
+      textAlignValue:
+        inputValue: ALIGN_CENTER
+    containerProps:
+      dimensions:
+        width:
+          pixelsValue:
+            inputValue: 120
+            mostRecentInputValue: 120
+        height:
+          pixelsValue:
+            inputValue: 30
+            mostRecentInputValue: 30
+      boxDecoration:
+        borderRadius:
+          type: FF_BORDER_RADIUS_ALL
+          topLeftValue:
+            inputValue: 30
+            mostRecentInputValue: 30
+          topRightValue:
+            inputValue: 30
+            mostRecentInputValue: 30
+          bottomLeftValue:
+            inputValue: 30
+            mostRecentInputValue: 30
+          bottomRightValue:
+            inputValue: 30
+            mostRecentInputValue: 30
+          allValue:
+            inputValue: 30
+            mostRecentInputValue: 30
+        boxShape: FF_BOX_SHAPE_RECTANGLE
+        colorValue:
+          inputValue:
+            paletteColorName: Grey3
+          mostRecentInputValue:
+            paletteColorName: Grey3
+        borderColorValue:
+          inputValue:
+            paletteColorName: Grey3
+          mostRecentInputValue:
+            paletteColorName: Grey3
+        borderWidthValue:
+          inputValue: 2
+          mostRecentInputValue: 2
+    contentPadding:
+      type: FF_PADDING_ONLY
+      leftValue:
+        inputValue: 10
+        mostRecentInputValue: 10
+      rightValue:
+        inputValue: 10
+        mostRecentInputValue: 10
+    initialCountValue:
+      inputValue: 3
+      mostRecentInputValue: 3
+    stepSizeValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    disabledColorValue:
+      inputValue:
+        paletteColorName: LightGrey
+      mostRecentInputValue:
+        paletteColorName: LightGrey
+    decrementIconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 20
+          mostRecentInputValue: 20
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY_TEXT
+          mostRecentInputValue:
+            themeColor: PRIMARY_TEXT
+        iconDataValue:
+          inputValue:
+            codePoint: 60042
+            family: Tabler-Icons
+            matchTextDirection: false
+            name: minus
+            isCustom: true
+    incrementIconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 20
+          mostRecentInputValue: 20
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY_TEXT
+          mostRecentInputValue:
+            themeColor: PRIMARY_TEXT
+        iconDataValue:
+          inputValue:
+            codePoint: 57415
+            family: MaterialIcons
+            matchTextDirection: false
+            name: add
+  responsiveVisibility: {}
+  themeOverrides:
+    - tagPath:
+        - 53
+        - 12
+    - tagPath:
+        - 53
+        - 2
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+themeWidgetInfo:
+  identifier:
+    name: CountController
+    key: qmk0de
+  widgetHash: 193874632
+valueKey: {}

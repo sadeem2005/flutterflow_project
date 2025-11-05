@@ -1,0 +1,22 @@
+key: Text_hpiux0zi
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: k7parin2
+    selectable: false
+    textValue:
+      inputValue: Grilled meat with kepunari sauce
+      mostRecentInputValue: Grilled meat with kepunari sauce
+    maxLinesValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

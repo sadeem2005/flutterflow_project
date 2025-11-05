@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: lehiwmn2
+translations:
+  - language:
+      language: en
+    text: Discount voucher! 50%
+  - language:
+      language: es
+    text: ¡Vale de descuento! 50%
+  - language:
+      language: fr
+    text: Bon de réduction ! 50%
+isFixed: false

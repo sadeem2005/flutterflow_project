@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 18dmglcv
+translations:
+  - language:
+      language: en
+    text: Hendrix
+  - language:
+      language: es
+    text: Hendrix
+  - language:
+      language: fr
+    text: Hendrix
+isFixed: false

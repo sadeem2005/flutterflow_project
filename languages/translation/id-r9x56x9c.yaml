@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: r9x56x9c
+translations:
+  - language:
+      language: en
+    text: Add New payment method
+  - language:
+      language: es
+    text: Agregar nuevo método de pago
+  - language:
+      language: fr
+    text: Ajouter un nouveau mode de paiement
+isFixed: false

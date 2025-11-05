@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: tj5ofugi
+translations:
+  - language:
+      language: en
+    text: Have an acccount
+  - language:
+      language: es
+    text: tener una cuenta
+  - language:
+      language: fr
+    text: Avoir un compte
+isFixed: false

@@ -1,0 +1,17 @@
+key: Text_6tbe3w95
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: ohk8lp29
+    selectable: false
+    textValue:
+      inputValue: Notification
+      mostRecentInputValue: Notification
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

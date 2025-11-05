@@ -1,0 +1,17 @@
+key: ListView_xy7t1hee
+type: ListView
+props:
+  listView:
+    axis: FF_AXIS_VERTICAL
+    primary: true
+    listSpacing: {}
+    shrinkWrapValue:
+      inputValue: false
+      mostRecentInputValue: false
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

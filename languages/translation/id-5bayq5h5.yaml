@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 5bayq5h5
+translations:
+  - language:
+      language: en
+    text: Voucher Code
+  - language:
+      language: es
+    text: Código de cupón
+  - language:
+      language: fr
+    text: Code de réduction
+isFixed: false

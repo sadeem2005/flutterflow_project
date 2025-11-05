@@ -1,0 +1,19 @@
+key: Text_s0xxxqcp
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: sh4xuv53
+    selectable: false
+    textValue:
+      inputValue: 124 Kcal
+      mostRecentInputValue: 124 Kcal
+  expanded:
+    expandedType: UNEXPANDED
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

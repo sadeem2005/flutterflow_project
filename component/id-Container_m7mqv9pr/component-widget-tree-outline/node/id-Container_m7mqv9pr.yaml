@@ -1,0 +1,12 @@
+key: Container_m7mqv9pr
+type: Container
+props:
+  container:
+    boxDecoration:
+      colorValue:
+        inputValue:
+          value: "0"
+        mostRecentInputValue:
+          value: "0"
+name: changePaymentMethod_modal
+isDummyRoot: true

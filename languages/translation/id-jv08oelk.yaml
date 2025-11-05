@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: jv08oelk
+translations:
+  - language:
+      language: en
+    text: 1 Clove
+  - language:
+      language: es
+    text: 1 diente
+  - language:
+      language: fr
+    text: 1 clou de girofle
+isFixed: false

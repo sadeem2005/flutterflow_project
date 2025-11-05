@@ -1,0 +1,21 @@
+key: Text_s4xzyrm0
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: 8jzk2pr6
+    selectable: false
+    textValue:
+      inputValue: click auto-find or enter your current location to find restaurants around you
+      mostRecentInputValue: click auto-find or enter your current location to find restaurants around you
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

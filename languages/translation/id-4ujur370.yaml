@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 4ujur370
+translations:
+  - language:
+      language: en
+    text: Add Payment Method
+  - language:
+      language: es
+    text: Añadir método de pago
+  - language:
+      language: fr
+    text: Ajouter un mode de paiement
+isFixed: false

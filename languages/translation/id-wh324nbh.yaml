@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: wh324nbh
+translations:
+  - language:
+      language: en
+    text: Yesterday
+  - language:
+      language: es
+    text: Ayer
+  - language:
+      language: fr
+    text: Hier
+isFixed: false

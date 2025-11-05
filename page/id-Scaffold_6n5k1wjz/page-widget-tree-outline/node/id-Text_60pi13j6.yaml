@@ -1,0 +1,17 @@
+key: Text_60pi13j6
+type: Text
+props:
+  text:
+    themeStyle: BODY_SMALL
+    translationIdentifier:
+      key: jr6tfjbn
+    selectable: false
+    textValue:
+      inputValue: 12 Minute
+      mostRecentInputValue: 12 Minute
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

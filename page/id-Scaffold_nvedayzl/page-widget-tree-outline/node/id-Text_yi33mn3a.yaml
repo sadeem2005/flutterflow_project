@@ -1,0 +1,17 @@
+key: Text_yi33mn3a
+type: Text
+props:
+  text:
+    themeStyle: BODY_SMALL
+    translationIdentifier:
+      key: gu59z9cg
+    selectable: false
+    textValue:
+      inputValue: 12 Minute
+      mostRecentInputValue: 12 Minute
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

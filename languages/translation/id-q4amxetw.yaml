@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: q4amxetw
+translations:
+  - language:
+      language: en
+    text: Price Ranges
+  - language:
+      language: es
+    text: Rangos de precios
+  - language:
+      language: fr
+    text: Gammes de prix
+isFixed: false

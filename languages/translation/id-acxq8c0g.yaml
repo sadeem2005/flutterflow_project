@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: acxq8c0g
+translations:
+  - language:
+      language: en
+    text: Fresh prawns fried with extra onions
+  - language:
+      language: es
+    text: Gambas frescas fritas con extra de cebolla
+  - language:
+      language: fr
+    text: Crevettes fraîches frites avec des oignons supplémentaires
+isFixed: false

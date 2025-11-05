@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 1imgxewf
+translations:
+  - language:
+      language: en
+    text: Details
+  - language:
+      language: es
+    text: Detalles
+  - language:
+      language: fr
+    text: Détails
+isFixed: false

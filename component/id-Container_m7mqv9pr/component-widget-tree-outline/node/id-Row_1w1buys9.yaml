@@ -1,0 +1,18 @@
+key: Row_1w1buys9
+type: Row
+props:
+  row:
+    mainAxisAlignment: main_axis_end
+    listSpacing: {}
+  padding:
+    type: FF_PADDING_ONLY
+    rightValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

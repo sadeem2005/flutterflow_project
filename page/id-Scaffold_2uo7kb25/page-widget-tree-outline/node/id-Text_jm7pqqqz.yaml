@@ -1,0 +1,22 @@
+key: Text_jm7pqqqz
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: epb53p4l
+    selectable: false
+    textValue:
+      inputValue: Premium vegetable salad
+      mostRecentInputValue: Premium vegetable salad
+    maxLinesValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

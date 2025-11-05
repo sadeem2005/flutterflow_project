@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: lnxzjexp
+translations:
+  - language:
+      language: en
+    text: Verification
+  - language:
+      language: es
+    text: Verificación
+  - language:
+      language: fr
+    text: Vérification
+isFixed: false

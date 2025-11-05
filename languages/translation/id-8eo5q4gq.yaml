@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 8eo5q4gq
+translations:
+  - language:
+      language: en
+    text: Sort by
+  - language:
+      language: es
+    text: Ordenar por
+  - language:
+      language: fr
+    text: Trier par
+isFixed: false

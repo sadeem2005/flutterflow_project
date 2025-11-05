@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 4qzgey7i
+translations:
+  - language:
+      language: en
+    text: Add Extra Ingredients
+  - language:
+      language: es
+    text: Agregue ingredientes adicionales
+  - language:
+      language: fr
+    text: Ajouter des ingrédients supplémentaires
+isFixed: false

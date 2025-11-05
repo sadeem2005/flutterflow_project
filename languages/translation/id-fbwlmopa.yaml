@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: fbwlmopa
+translations:
+  - language:
+      language: en
+    text: Meat
+  - language:
+      language: es
+    text: Carne
+  - language:
+      language: fr
+    text: Viande
+isFixed: false

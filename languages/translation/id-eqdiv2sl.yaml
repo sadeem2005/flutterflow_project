@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: eqdiv2sl
+translations:
+  - language:
+      language: en
+    text: Or using other method
+  - language:
+      language: es
+    text: O usando otro método
+  - language:
+      language: fr
+    text: Ou en utilisant une autre méthode
+isFixed: false

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: st0s5x2f
+translations:
+  - language:
+      language: en
+    text: Veggie Soup
+  - language:
+      language: es
+    text: Sopa de vegetales
+  - language:
+      language: fr
+    text: Soupe de légumes
+isFixed: false

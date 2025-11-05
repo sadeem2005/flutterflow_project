@@ -1,0 +1,23 @@
+key: Container_j5snr0t1
+type: Container
+props:
+  alignment: {}
+  expanded: {}
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues:
+  parameterPasses:
+    1ovtzw:
+      paramIdentifier:
+        name: select
+        key: 1ovtzw
+      inputValue:
+        serializedValue: "false"
+  widgetClassNodeKeyRef:
+    key: Container_w1rabwnz
+valueKey: {}
+componentClassKeyRef:
+  key: Container_w1rabwnz

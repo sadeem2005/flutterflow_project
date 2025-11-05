@@ -1,0 +1,10 @@
+key: Form_fv4cg4eb
+type: Form
+props:
+  responsiveVisibility: {}
+  form: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

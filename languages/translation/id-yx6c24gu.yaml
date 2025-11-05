@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: yx6c24gu
+translations:
+  - language:
+      language: en
+    text: Upply the payment method
+  - language:
+      language: es
+    text: Subir el método de pago
+  - language:
+      language: fr
+    text: Ajouter le mode de paiement
+isFixed: false

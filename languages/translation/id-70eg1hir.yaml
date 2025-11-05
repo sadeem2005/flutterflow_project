@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 70eg1hir
+translations:
+  - language:
+      language: en
+    text: CVV Code
+  - language:
+      language: es
+    text: codigo CVV
+  - language:
+      language: fr
+    text: Code CVV
+isFixed: false

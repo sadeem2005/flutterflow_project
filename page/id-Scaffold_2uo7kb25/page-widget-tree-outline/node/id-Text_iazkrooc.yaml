@@ -1,0 +1,19 @@
+key: Text_iazkrooc
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: 207mlkda
+    selectable: false
+    textValue:
+      inputValue: My Cart
+      mostRecentInputValue: My Cart
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

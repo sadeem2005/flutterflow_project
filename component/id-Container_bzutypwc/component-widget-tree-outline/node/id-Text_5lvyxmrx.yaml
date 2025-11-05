@@ -1,0 +1,22 @@
+key: Text_5lvyxmrx
+type: Text
+props:
+  text:
+    themeStyle: BODY_SMALL
+    translationIdentifier:
+      key: 5kn33zd0
+    selectable: false
+    textValue:
+      inputValue: "4.8"
+      mostRecentInputValue: "4.8"
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+      mostRecentInputValue:
+        themeColor: PRIMARY
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

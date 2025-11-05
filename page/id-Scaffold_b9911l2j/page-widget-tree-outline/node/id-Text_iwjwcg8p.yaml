@@ -1,0 +1,19 @@
+key: Text_iwjwcg8p
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: 7yyc6yio
+    selectable: false
+    textValue:
+      inputValue: Please login with registered account
+      mostRecentInputValue: Please login with registered account
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

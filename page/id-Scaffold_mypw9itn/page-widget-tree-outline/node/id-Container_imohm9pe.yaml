@@ -1,0 +1,28 @@
+key: Container_imohm9pe
+type: Container
+props:
+  alignment:
+    xValue:
+      inputValue: 0.869
+      mostRecentInputValue: 0.869
+    yValue:
+      inputValue: -0.769
+      mostRecentInputValue: -0.769
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues:
+  parameterPasses:
+    2h8a2i:
+      paramIdentifier:
+        name: expanded
+        key: 2h8a2i
+      inputValue:
+        serializedValue: "false"
+  widgetClassNodeKeyRef:
+    key: Container_pdxkrpvm
+valueKey: {}
+componentClassKeyRef:
+  key: Container_pdxkrpvm

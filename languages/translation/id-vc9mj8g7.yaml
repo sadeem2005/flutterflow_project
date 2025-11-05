@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: vc9mj8g7
+translations:
+  - language:
+      language: en
+    text: Meals
+  - language:
+      language: es
+    text: Comidas
+  - language:
+      language: fr
+    text: Repas
+isFixed: false

@@ -1,0 +1,22 @@
+key: Text_mgctisi5
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: ntrn2nxd
+    selectable: false
+    textValue:
+      inputValue: "**** **** 1234"
+      mostRecentInputValue: "**** **** 1234"
+    maxLinesValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

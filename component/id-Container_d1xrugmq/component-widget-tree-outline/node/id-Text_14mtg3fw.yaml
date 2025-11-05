@@ -1,0 +1,17 @@
+key: Text_14mtg3fw
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: jv08oelk
+    selectable: false
+    textValue:
+      inputValue: 1 Clove
+      mostRecentInputValue: 1 Clove
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,19 @@
+key: Text_lvi1245i
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: 1fls4zbe
+    selectable: false
+    textValue:
+      inputValue: Add New Card
+      mostRecentInputValue: Add New Card
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

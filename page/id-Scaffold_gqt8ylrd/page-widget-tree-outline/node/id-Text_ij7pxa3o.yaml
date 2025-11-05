@@ -1,0 +1,23 @@
+key: Text_ij7pxa3o
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: p3mpfwg4
+    selectable: false
+    textValue:
+      inputValue: Logout
+      mostRecentInputValue: Logout
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+      mostRecentInputValue:
+        themeColor: PRIMARY
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

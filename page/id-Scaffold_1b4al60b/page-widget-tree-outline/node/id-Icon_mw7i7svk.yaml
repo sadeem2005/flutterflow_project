@@ -1,0 +1,34 @@
+key: Icon_mw7i7svk
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 30
+      mostRecentInputValue: 30
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_BACKGROUND
+      mostRecentInputValue:
+        themeColor: PRIMARY_BACKGROUND
+    iconDataValue:
+      inputValue:
+        codePoint: 62134
+        family: FontAwesomeSolid
+        package: font_awesome_flutter
+        matchTextDirection: false
+        packageIcon:
+          fontAwesome: solidEnvelopeOpen
+        name: solidEnvelopeOpen
+  alignment:
+    xValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    yValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

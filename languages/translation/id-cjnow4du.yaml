@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: cjnow4du
+translations:
+  - language:
+      language: en
+    text: Open Location
+  - language:
+      language: es
+    text: Cancelar
+  - language:
+      language: fr
+    text: Annuler
+isFixed: false

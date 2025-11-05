@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 8dzaf869
+translations:
+  - language:
+      language: en
+    text: Confirm Password
+  - language:
+      language: es
+    text: confirmar Contraseña
+  - language:
+      language: fr
+    text: Confirmez le mot de passe
+isFixed: false

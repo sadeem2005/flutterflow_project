@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: rtio6ax8
+translations:
+  - language:
+      language: en
+    text: Create Account
+  - language:
+      language: es
+    text: Crear una cuenta
+  - language:
+      language: fr
+    text: Créer un compte
+isFixed: false

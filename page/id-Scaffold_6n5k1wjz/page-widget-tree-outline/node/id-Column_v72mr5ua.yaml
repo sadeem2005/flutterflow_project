@@ -1,0 +1,22 @@
+key: Column_v72mr5ua
+type: Column
+props:
+  column:
+    scrollable: true
+    primary: true
+    listSpacing:
+      spacingValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+      endSpacingValue:
+        inputValue: 100
+        mostRecentInputValue: 100
+  expanded:
+    expandedType: EXPANDED
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

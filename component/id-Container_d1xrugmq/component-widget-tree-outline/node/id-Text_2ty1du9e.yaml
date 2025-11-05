@@ -1,0 +1,19 @@
+key: Text_2ty1du9e
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: fas1uqhn
+    selectable: false
+    textValue:
+      inputValue: Note
+      mostRecentInputValue: Note
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

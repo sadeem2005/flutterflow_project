@@ -1,0 +1,41 @@
+key: Blur_hhg9vrm5
+type: Blur
+props:
+  blur:
+    backdrop: true
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      topLeftValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      topRightValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      bottomLeftValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      bottomRightValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      allValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+    isCircle: false
+    sigmaXValue:
+      inputValue: 5
+      mostRecentInputValue: 5
+    sigmaYValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+    blurValue:
+      inputValue: true
+      mostRecentInputValue: true
+    removeClipValue:
+      inputValue: false
+      mostRecentInputValue: false
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

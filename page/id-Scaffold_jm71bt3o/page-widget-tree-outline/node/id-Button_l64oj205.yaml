@@ -1,0 +1,81 @@
+key: Button_l64oj205
+type: Button
+props:
+  button:
+    text:
+      themeStyle: TITLE_SMALL
+      translationIdentifier:
+        key: v3wjfpim
+      textValue:
+        inputValue: Add Card
+        mostRecentInputValue: Add Card
+      colorValue:
+        inputValue:
+          value: "4294967295"
+        mostRecentInputValue:
+          value: "4294967295"
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      topLeftValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+      topRightValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+      bottomLeftValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+      bottomRightValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+      allValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+    innerPadding:
+      type: FF_PADDING_ONLY
+      leftValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+      topValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+      rightValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+      bottomValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+    dimensions:
+      height:
+        pixelsValue:
+          inputValue: 56
+          mostRecentInputValue: 56
+    elevationValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    fillColorValue:
+      inputValue:
+        themeColor: PRIMARY
+      mostRecentInputValue:
+        themeColor: PRIMARY
+  expanded:
+    expandedType: EXPANDED
+  responsiveVisibility: {}
+  themeOverrides:
+    - tagPath:
+        - 15
+    - tagPath:
+        - 9
+        - 1
+        - 26
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+themeWidgetInfo:
+  identifier:
+    name: SolidButton
+    key: 6koigy
+  widgetHash: 838928096
+valueKey: {}

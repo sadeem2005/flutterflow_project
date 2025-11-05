@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: v3wjfpim
+translations:
+  - language:
+      language: en
+    text: Add Card
+  - language:
+      language: es
+    text: Agregar tarjeta
+  - language:
+      language: fr
+    text: Ajouter une carte
+isFixed: false

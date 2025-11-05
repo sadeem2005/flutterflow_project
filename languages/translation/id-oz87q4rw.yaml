@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: oz87q4rw
+translations:
+  - language:
+      language: en
+    text: Voucher
+  - language:
+      language: es
+    text: Vale
+  - language:
+      language: fr
+    text: Bon
+isFixed: false

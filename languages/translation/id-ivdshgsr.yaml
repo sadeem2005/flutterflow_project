@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: ivdshgsr
+translations:
+  - language:
+      language: en
+    text: Legal and Policies
+  - language:
+      language: es
+    text: Legales y Políticas
+  - language:
+      language: fr
+    text: Mentions légales et politiques
+isFixed: false

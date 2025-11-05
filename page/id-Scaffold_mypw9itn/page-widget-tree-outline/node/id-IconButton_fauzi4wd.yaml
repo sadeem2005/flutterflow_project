@@ -1,0 +1,52 @@
+key: IconButton_fauzi4wd
+type: IconButton
+props:
+  iconButton:
+    buttonSize:
+      pixelsValue:
+        inputValue: 40
+        mostRecentInputValue: 40
+    fillColorValue:
+      inputValue:
+        themeColor: PRIMARY_BACKGROUND
+      mostRecentInputValue:
+        themeColor: PRIMARY_BACKGROUND
+    borderRadiusValue:
+      inputValue: 30
+      mostRecentInputValue: 30
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 22
+          mostRecentInputValue: 22
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY_TEXT
+          mostRecentInputValue:
+            themeColor: PRIMARY_TEXT
+        iconDataValue:
+          inputValue:
+            codePoint: 61570
+            family: Tabler-Icons
+            matchTextDirection: false
+            name: arrowNarrowLeft
+            isCustom: true
+  responsiveVisibility: {}
+  themeOverrides:
+    - tagPath:
+        - 10
+        - 17
+    - tagPath:
+        - 10
+        - 18
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+themeWidgetInfo:
+  identifier:
+    name: IconBtnArrowLeft
+    key: c6ye52
+  widgetHash: 384849288
+valueKey: {}

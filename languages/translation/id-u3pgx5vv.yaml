@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: u3pgx5vv
+translations:
+  - language:
+      language: en
+    text: Noodles
+  - language:
+      language: es
+    text: Fideos
+  - language:
+      language: fr
+    text: Nouilles
+isFixed: false

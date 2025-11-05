@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: lg9gdklp
+translations:
+  - language:
+      language: en
+    text: Detail
+  - language:
+      language: es
+    text: Reclame el descuento
+  - language:
+      language: fr
+    text: Réclamez la réduction
+isFixed: false

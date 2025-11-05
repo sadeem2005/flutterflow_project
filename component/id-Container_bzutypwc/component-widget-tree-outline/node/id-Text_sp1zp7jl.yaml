@@ -1,0 +1,21 @@
+key: Text_sp1zp7jl
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: 0lvbcm6x
+    selectable: false
+    textValue:
+      inputValue: Close 10.45 PM
+      mostRecentInputValue: Close 10.45 PM
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

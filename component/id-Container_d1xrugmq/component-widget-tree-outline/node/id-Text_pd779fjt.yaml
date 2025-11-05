@@ -1,0 +1,17 @@
+key: Text_pd779fjt
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: akeff4oi
+    selectable: false
+    textValue:
+      inputValue: Mustard
+      mostRecentInputValue: Mustard
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

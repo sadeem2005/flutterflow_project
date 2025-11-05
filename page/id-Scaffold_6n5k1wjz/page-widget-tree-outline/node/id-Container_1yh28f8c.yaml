@@ -1,0 +1,24 @@
+key: Container_1yh28f8c
+type: Container
+props:
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+    rightValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+  alignment: {}
+  expanded: {}
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues:
+  widgetClassNodeKeyRef:
+    key: Container_b315abn4
+valueKey: {}
+componentClassKeyRef:
+  key: Container_b315abn4

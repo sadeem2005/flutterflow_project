@@ -1,0 +1,77 @@
+node:
+  key: Container_pdxkrpvm
+  children:
+    - key: Row_bw3n4lfc
+      children:
+        - key: Column_7mjur8o0
+          children:
+            - key: Stack_940dwqq2
+              children:
+                - key: Container_eskj1vm2
+                  children:
+                    - key: TabBar_t1mb34wm
+                      children:
+                        - key: Tab_6755tc8m
+                        - key: PlaceholderWidget_7hqlh3jd
+                          children:
+                            - key: ListView_xy7t1hee
+                              children:
+                                - key: ListTile_0ix9liw2
+                                - key: ListTile_8tezy8ve
+                                - key: ListTile_wtxir6ih
+                                - key: ListTile_8xx096p8
+                                - key: ListTile_gdg0v3mc
+                                - key: ListTile_7cdl3nkh
+                                - key: ListTile_lik6tk2w
+                                - key: ListTile_653ls4bn
+                                - key: ListTile_kme17md8
+                                - key: ListTile_kxgd3dj6
+                                - key: ListTile_4j40vfhm
+                                - key: ListTile_qljwa6b3
+                                - key: ListTile_fy949dn8
+                                - key: ListTile_qsvhizdd
+                                - key: ListTile_uneo3bf6
+                                - key: ListTile_b4f1im6z
+                                - key: ListTile_iyz9rdkl
+                                - key: ListTile_idpel4hb
+                                - key: ListTile_m7qg0cc4
+                                - key: ListTile_r77cw0qr
+                                - key: ListTile_0ewk1urn
+                                - key: ListTile_ijrgkx22
+                                - key: ListTile_addrcjay
+                                - key: ListTile_0g9kuryj
+                                - key: ListTile_wwvw319d
+                        - key: Tab_5vyucu76
+                        - key: PlaceholderWidget_b0e85b95
+                          children:
+                            - key: ListView_gnjo8hc4
+                              children:
+                                - key: ListTile_67nb6yod
+                                - key: ListTile_6jeesjp0
+                                - key: ListTile_zeazzova
+                                - key: ListTile_hqmfxpsf
+                                - key: ListTile_msvzx8uu
+                                - key: ListTile_4uzbk8io
+                                - key: ListTile_qrojw7dj
+                        - key: Tab_84pknmuc
+                        - key: PlaceholderWidget_qf9deji0
+                          children:
+                            - key: Container_1wm5oa02
+                              children:
+                                - key: Column_re052hjf
+                                  children:
+                                    - key: HtmlView_vrn2kck1
+                        - key: Tab_6jl3k5ie
+                        - key: PlaceholderWidget_ztpoct8g
+                          children:
+                            - key: Column_zuxt33di
+                              children:
+                                - key: HtmlView_ngywwbvh
+                - key: Stack_l3hlz5fa
+                  children:
+                    - key: Container_bip845kc
+                      children:
+                        - key: ToggleIcon_55grk1z8
+                    - key: Container_2ujb7nim
+                      children:
+                        - key: Icon_v5zj7q3c

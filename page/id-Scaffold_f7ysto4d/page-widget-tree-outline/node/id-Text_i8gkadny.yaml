@@ -1,0 +1,22 @@
+key: Text_i8gkadny
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: fggqlhln
+    selectable: false
+    textValue:
+      inputValue: 2hour 60min ago
+      mostRecentInputValue: 2hour 60min ago
+    maxLinesValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

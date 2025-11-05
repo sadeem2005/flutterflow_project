@@ -1,0 +1,24 @@
+key: Column_2xambv61
+type: Column
+props:
+  column:
+    crossAxisAlignment: cross_axis_stretch
+    primary: true
+    listSpacing:
+      spacingValue:
+        inputValue: 10
+        mostRecentInputValue: 10
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 17
+      mostRecentInputValue: 17
+    topValue:
+      inputValue: 17
+      mostRecentInputValue: 17
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

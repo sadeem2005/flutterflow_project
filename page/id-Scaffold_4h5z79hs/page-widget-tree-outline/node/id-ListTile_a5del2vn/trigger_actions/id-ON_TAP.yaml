@@ -1,0 +1,6 @@
+rootAction:
+  key: aztzaku2
+  action:
+    key: 78dzdicx
+trigger:
+  triggerType: ON_TAP

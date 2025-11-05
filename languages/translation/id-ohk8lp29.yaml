@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: ohk8lp29
+translations:
+  - language:
+      language: en
+    text: Notification
+  - language:
+      language: es
+    text: Notificación
+  - language:
+      language: fr
+    text: Notification
+isFixed: false

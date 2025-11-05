@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 22a6bktg
+translations:
+  - language:
+      language: en
+    text: "$30 "
+  - language:
+      language: es
+    text: $30
+  - language:
+      language: fr
+    text: "30\_$"
+isFixed: false

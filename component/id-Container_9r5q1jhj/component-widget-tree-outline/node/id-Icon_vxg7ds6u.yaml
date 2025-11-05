@@ -1,0 +1,25 @@
+key: Icon_vxg7ds6u
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+      mostRecentInputValue:
+        themeColor: PRIMARY
+    iconDataValue:
+      inputValue:
+        codePoint: 61102
+        family: Tabler-Icons
+        matchTextDirection: false
+        name: truck
+        isCustom: true
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

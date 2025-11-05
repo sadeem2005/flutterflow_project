@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: cow5ksut
+translations:
+  - language:
+      language: en
+    text: Preferencess
+  - language:
+      language: es
+    text: Preferencias
+  - language:
+      language: fr
+    text: Préférences
+isFixed: false

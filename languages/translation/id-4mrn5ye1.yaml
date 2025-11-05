@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 4mrn5ye1
+translations:
+  - language:
+      language: en
+    text: Let’s find your unforgettable event. Choose a location below to get started.
+  - language:
+      language: es
+    text: Busquemos tu evento inolvidable. Elija una ubicación a continuación para comenzar.
+  - language:
+      language: fr
+    text: Trouvons votre événement inoubliable. Choisissez un emplacement ci-dessous pour commencer.
+isFixed: false

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 1g1zdnvb
+translations:
+  - language:
+      language: en
+    text: Drinks
+  - language:
+      language: es
+    text: Bebidas
+  - language:
+      language: fr
+    text: Boissons
+isFixed: false

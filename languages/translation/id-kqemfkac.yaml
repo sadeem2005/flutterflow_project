@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: kqemfkac
+translations:
+  - language:
+      language: en
+    text: Hamburgers
+  - language:
+      language: es
+    text: ""
+  - language:
+      language: fr
+    text: ""
+isFixed: false

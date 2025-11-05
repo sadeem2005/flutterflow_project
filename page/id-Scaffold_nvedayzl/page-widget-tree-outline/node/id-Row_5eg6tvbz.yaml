@@ -1,0 +1,16 @@
+key: Row_5eg6tvbz
+type: Row
+props:
+  row:
+    listSpacing: {}
+  expanded:
+    expandedType: EXPANDED
+    flexValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

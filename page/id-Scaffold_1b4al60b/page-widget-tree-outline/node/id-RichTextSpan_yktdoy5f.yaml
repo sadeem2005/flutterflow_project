@@ -1,0 +1,16 @@
+key: RichTextSpan_yktdoy5f
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      themeStyle: LABEL_MEDIUM
+      translationIdentifier:
+        key: 5iqum420
+      textValue:
+        inputValue: "Didn't recceive the code? "
+        mostRecentInputValue: "Didn't recceive the code? "
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,17 @@
+key: Text_0602cchi
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: v9zj1lqj
+    selectable: false
+    textValue:
+      inputValue: Today
+      mostRecentInputValue: Today
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

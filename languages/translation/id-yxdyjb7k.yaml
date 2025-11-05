@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: yxdyjb7k
+translations:
+  - language:
+      language: en
+    text: "**** **** 1234"
+  - language:
+      language: es
+    text: "**** **** 1234"
+  - language:
+      language: fr
+    text: "**** **** 1234"
+isFixed: false

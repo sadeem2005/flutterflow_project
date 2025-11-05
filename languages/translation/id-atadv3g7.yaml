@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: atadv3g7
+translations:
+  - language:
+      language: en
+    text: demo@email.com
+  - language:
+      language: es
+    text: demostración@correo electrónico.com
+  - language:
+      language: fr
+    text: démo@email.com
+isFixed: false

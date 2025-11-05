@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: whwwsqyj
+translations:
+  - language:
+      language: en
+    text: Enter Card Number
+  - language:
+      language: es
+    text: Ingrese el número de tarjeta
+  - language:
+      language: fr
+    text: Entrez le numéro de carte
+isFixed: false

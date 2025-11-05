@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: t8839z31
+translations:
+  - language:
+      language: en
+    text: "$ "
+  - language:
+      language: es
+    text: ps
+  - language:
+      language: fr
+    text: $
+isFixed: false

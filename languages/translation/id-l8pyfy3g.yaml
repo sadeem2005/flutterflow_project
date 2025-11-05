@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: l8pyfy3g
+translations:
+  - language:
+      language: en
+    text: Shipping cost
+  - language:
+      language: es
+    text: Costo de envío
+  - language:
+      language: fr
+    text: Frais de port
+isFixed: false

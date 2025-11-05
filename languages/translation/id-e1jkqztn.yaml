@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: e1jkqztn
+translations:
+  - language:
+      language: en
+    text: Card Holder Name
+  - language:
+      language: es
+    text: Nombre del titular de la tarjeta
+  - language:
+      language: fr
+    text: Nom du titulaire
+isFixed: false

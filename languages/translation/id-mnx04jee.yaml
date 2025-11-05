@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: mnx04jee
+translations:
+  - language:
+      language: en
+    text: Menu Detail
+  - language:
+      language: es
+    text: Detalle del menú
+  - language:
+      language: fr
+    text: Détail du menu
+isFixed: false

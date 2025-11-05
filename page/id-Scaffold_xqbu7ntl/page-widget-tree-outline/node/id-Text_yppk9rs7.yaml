@@ -1,0 +1,23 @@
+key: Text_yppk9rs7
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: u7zay0at
+    selectable: false
+    textValue:
+      inputValue: Support title
+      mostRecentInputValue: Support title
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: m6sm9u15
+translations:
+  - language:
+      language: en
+    text: Dinners
+  - language:
+      language: es
+    text: Cenas
+  - language:
+      language: fr
+    text: Dîners
+isFixed: false

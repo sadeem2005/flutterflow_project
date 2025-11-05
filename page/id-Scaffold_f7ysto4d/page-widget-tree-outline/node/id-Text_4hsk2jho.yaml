@@ -1,0 +1,22 @@
+key: Text_4hsk2jho
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: h1prwlxt
+    selectable: false
+    textValue:
+      inputValue: 5min ago
+      mostRecentInputValue: 5min ago
+    maxLinesValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

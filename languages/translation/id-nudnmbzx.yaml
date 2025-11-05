@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: nudnmbzx
+translations:
+  - language:
+      language: en
+    text: Help
+  - language:
+      language: es
+    text: Ayuda
+  - language:
+      language: fr
+    text: Aide
+isFixed: false

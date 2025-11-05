@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 1fls4zbe
+translations:
+  - language:
+      language: en
+    text: Add New Card
+  - language:
+      language: es
+    text: Agregar nueva tarjeta
+  - language:
+      language: fr
+    text: Ajouter une nouvelle carte
+isFixed: false

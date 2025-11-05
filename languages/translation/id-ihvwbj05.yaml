@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: ihvwbj05
+translations:
+  - language:
+      language: en
+    text: Foodcort Version 1.0.12 Build 24
+  - language:
+      language: es
+    text: Foodcort Versión 1.0.12 Compilación 24
+  - language:
+      language: fr
+    text: Foodcort version 1.0.12 version 24
+isFixed: false

@@ -1,0 +1,17 @@
+key: Text_opzho0jt
+type: Text
+props:
+  text:
+    themeStyle: BODY_SMALL
+    translationIdentifier:
+      key: 8chla7k2
+    selectable: false
+    textValue:
+      inputValue: "4.4"
+      mostRecentInputValue: "4.4"
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

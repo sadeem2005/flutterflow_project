@@ -1,0 +1,21 @@
+key: RichTextSpan_c09mrqe0
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      themeStyle: TITLE_MEDIUM
+      translationIdentifier:
+        key: wpzk0gvf
+      textValue:
+        inputValue: "9.67"
+        mostRecentInputValue: "9.67"
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY_BACKGROUND
+        mostRecentInputValue:
+          themeColor: PRIMARY_BACKGROUND
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

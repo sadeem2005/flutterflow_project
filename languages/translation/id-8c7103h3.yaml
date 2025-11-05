@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 8c7103h3
+translations:
+  - language:
+      language: en
+    text: Account Liked With
+  - language:
+      language: es
+    text: Cuenta que le ha gustado
+  - language:
+      language: fr
+    text: Compte aimé avec
+isFixed: false

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: vf4xbxza
+translations:
+  - language:
+      language: en
+    text: Remember Password
+  - language:
+      language: es
+    text: Recordar contraseña
+  - language:
+      language: fr
+    text: Se souvenir du mot de passe
+isFixed: false

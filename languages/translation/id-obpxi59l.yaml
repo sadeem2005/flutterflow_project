@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: obpxi59l
+translations:
+  - language:
+      language: en
+    text: Checkout
+  - language:
+      language: es
+    text: Verificar
+  - language:
+      language: fr
+    text: Vérifier
+isFixed: false

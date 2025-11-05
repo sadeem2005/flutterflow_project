@@ -1,0 +1,19 @@
+key: Text_myu52rkw
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: y62t4x4v
+    selectable: false
+    textValue:
+      inputValue: Email or Phone Number
+      mostRecentInputValue: Email or Phone Number
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

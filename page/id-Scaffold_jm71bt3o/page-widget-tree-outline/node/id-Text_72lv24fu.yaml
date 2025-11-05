@@ -1,0 +1,19 @@
+key: Text_72lv24fu
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: z7a2vdhr
+    selectable: false
+    textValue:
+      inputValue: Expired
+      mostRecentInputValue: Expired
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

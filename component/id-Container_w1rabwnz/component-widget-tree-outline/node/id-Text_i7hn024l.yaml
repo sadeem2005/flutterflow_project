@@ -1,0 +1,19 @@
+key: Text_i7hn024l
+type: Text
+props:
+  text:
+    themeStyle: DISPLAY_SMALL
+    translationIdentifier:
+      key: 3u9ubti5
+    selectable: false
+    textValue:
+      inputValue: Los Angeles
+      mostRecentInputValue: Los Angeles
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

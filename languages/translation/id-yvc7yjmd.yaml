@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: yvc7yjmd
+translations:
+  - language:
+      language: en
+    text: Find restaurants around you
+  - language:
+      language: es
+    text: Encuentra restaurantes a tu alrededor
+  - language:
+      language: fr
+    text: Trouvez des restaurants autour de vous
+isFixed: false

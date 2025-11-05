@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: wss38bpn
+translations:
+  - language:
+      language: en
+    text: Are you sure you want to activate your location?
+  - language:
+      language: es
+    text: ¿Estás seguro de que quieres activar tu ubicación?
+  - language:
+      language: fr
+    text: "Etes-vous sûr de vouloir activer votre localisation\_?"
+isFixed: false

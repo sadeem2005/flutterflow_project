@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: icfwkxvp
+translations:
+  - language:
+      language: en
+    text: Terms
+  - language:
+      language: es
+    text: Términos
+  - language:
+      language: fr
+    text: Termes
+isFixed: false

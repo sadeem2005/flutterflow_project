@@ -1,0 +1,10 @@
+key: Container_zlteeo1m
+type: Container
+props:
+  alignment: {}
+  expanded: {}
+parameterValues:
+  widgetClassNodeKeyRef:
+    key: Container_wbsi8b11
+componentClassKeyRef:
+  key: Container_wbsi8b11

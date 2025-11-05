@@ -1,0 +1,29 @@
+key: Text_ndraejoy
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: kz1nnsei
+    selectable: false
+    textValue:
+      inputValue: "today we are having a crazy discount, by only buying 2 different products you will get a 40% discount"
+      mostRecentInputValue: "today we are having a crazy discount, by only buying 2 different products you will get a 40% discount"
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_BACKGROUND
+      mostRecentInputValue:
+        themeColor: PRIMARY_BACKGROUND
+  padding:
+    type: FF_PADDING_ONLY
+    rightValue:
+      inputValue: 120
+      mostRecentInputValue: 120
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

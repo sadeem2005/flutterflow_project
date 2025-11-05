@@ -1,0 +1,23 @@
+key: Text_tlpsuh4d
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: f9v2sphq
+    selectable: false
+    textValue:
+      inputValue: Location
+      mostRecentInputValue: Location
+    colorValue:
+      inputValue:
+        themeColor: ACCENT_4
+      mostRecentInputValue:
+        themeColor: ACCENT_4
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

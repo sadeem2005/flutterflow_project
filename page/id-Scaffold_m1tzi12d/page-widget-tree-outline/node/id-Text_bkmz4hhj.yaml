@@ -1,0 +1,17 @@
+key: Text_bkmz4hhj
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: rhp8x8nn
+    selectable: false
+    textValue:
+      inputValue: Touch ID
+      mostRecentInputValue: Touch ID
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

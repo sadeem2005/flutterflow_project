@@ -1,0 +1,78 @@
+key: Button_yc9kqj86
+type: Button
+props:
+  button:
+    text:
+      themeStyle: BODY_MEDIUM
+      translationIdentifier:
+        key: r63ieljx
+      textValue:
+        inputValue: Pizza
+        mostRecentInputValue: Pizza
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      topLeftValue:
+        inputValue: 100
+        mostRecentInputValue: 100
+      topRightValue:
+        inputValue: 100
+        mostRecentInputValue: 100
+      bottomLeftValue:
+        inputValue: 100
+        mostRecentInputValue: 100
+      bottomRightValue:
+        inputValue: 100
+        mostRecentInputValue: 100
+      allValue:
+        inputValue: 100
+        mostRecentInputValue: 100
+    innerPadding:
+      type: FF_PADDING_ONLY
+      leftValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+      rightValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+    dimensions:
+      height:
+        pixelsValue:
+          inputValue: 40
+          mostRecentInputValue: 40
+    elevationValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    fillColorValue:
+      inputValue:
+        themeColor: PRIMARY_BACKGROUND
+      mostRecentInputValue:
+        themeColor: PRIMARY_BACKGROUND
+    borderColorValue:
+      inputValue:
+        paletteColorName: Grey
+      mostRecentInputValue:
+        paletteColorName: Grey
+    borderWidthValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    iconValue:
+      inputValue:
+        colorValue:
+          inputValue:
+            themeColor: SECONDARY
+          mostRecentInputValue:
+            themeColor: SECONDARY
+        iconDataValue:
+          inputValue:
+            codePoint: 60281
+            family: Tabler-Icons
+            matchTextDirection: false
+            name: pizza
+            isCustom: true
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

@@ -1,0 +1,19 @@
+key: Text_6gq0s4oy
+type: Text
+props:
+  text:
+    themeStyle: TITLE_LARGE
+    translationIdentifier:
+      key: ai8qoftl
+    selectable: false
+    textValue:
+      inputValue: Order Successfully
+      mostRecentInputValue: Order Successfully
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

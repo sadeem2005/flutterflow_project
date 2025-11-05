@@ -1,0 +1,100 @@
+key: Button_yrw6w5to
+type: Button
+props:
+  button:
+    text:
+      themeStyle: TITLE_SMALL
+      translationIdentifier:
+        key: cjnow4du
+      textValue:
+        inputValue: Open Location
+        mostRecentInputValue: Open Location
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY_TEXT
+        mostRecentInputValue:
+          themeColor: PRIMARY_TEXT
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      topLeftValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+      topRightValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+      bottomLeftValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+      bottomRightValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+      allValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+    innerPadding:
+      type: FF_PADDING_ONLY
+      leftValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+      topValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+      rightValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+      bottomValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 135
+          mostRecentInputValue: 135
+      height:
+        pixelsValue:
+          inputValue: 34
+          mostRecentInputValue: 34
+    elevationValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    fillColorValue:
+      inputValue:
+        paletteColorName: LightGrey
+      mostRecentInputValue:
+        paletteColorName: LightGrey
+  alignment:
+    xValue:
+      inputValue: 0.787
+      mostRecentInputValue: 0.787
+    yValue:
+      inputValue: 0.756
+      mostRecentInputValue: 0.756
+  responsiveVisibility: {}
+  themeOverrides:
+    - tagPath:
+        - 9
+        - 24
+        - 2
+    - tagPath:
+        - 9
+        - 24
+        - 1
+    - tagPath:
+        - 9
+        - 1
+        - 26
+    - tagPath:
+        - 9
+        - 1
+        - 28
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+themeWidgetInfo:
+  identifier:
+    name: ButtonGray
+    key: dda4ai
+  widgetHash: 242371456
+valueKey: {}

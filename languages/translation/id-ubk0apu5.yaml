@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: ubk0apu5
+translations:
+  - language:
+      language: en
+    text: Policies
+  - language:
+      language: es
+    text: Políticas
+  - language:
+      language: fr
+    text: Stratégies
+isFixed: false

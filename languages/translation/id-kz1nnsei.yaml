@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: kz1nnsei
+translations:
+  - language:
+      language: en
+    text: "today we are having a crazy discount, by only buying 2 different products you will get a 40% discount"
+  - language:
+      language: es
+    text: "hoy tenemos un descuento loco, por solo comprar 2 productos diferentes obtendrás un 40% de descuento"
+  - language:
+      language: fr
+    text: "aujourd'hui nous faisons une remise folle, en n'achetant que 2 produits différents vous obtiendrez une remise de 40%"
+isFixed: false

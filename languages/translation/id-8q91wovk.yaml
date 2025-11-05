@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 8q91wovk
+translations:
+  - language:
+      language: en
+    text: Confirm your new password
+  - language:
+      language: es
+    text: Confirma tu nueva contraseña
+  - language:
+      language: fr
+    text: Confirmez votre nouveau mot de passe
+isFixed: false

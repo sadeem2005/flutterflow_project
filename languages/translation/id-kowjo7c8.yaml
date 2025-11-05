@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: kowjo7c8
+translations:
+  - language:
+      language: en
+    text: Roast beef with black pepper
+  - language:
+      language: es
+    text: Carne asada con pimienta negra
+  - language:
+      language: fr
+    text: Rôti de boeuf au poivre noir
+isFixed: false

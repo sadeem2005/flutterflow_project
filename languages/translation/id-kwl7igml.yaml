@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: kwl7igml
+translations:
+  - language:
+      language: en
+    text: Register Success
+  - language:
+      language: es
+    text: Registro exitoso
+  - language:
+      language: fr
+    text: Inscription réussie
+isFixed: false

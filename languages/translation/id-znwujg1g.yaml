@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: znwujg1g
+translations:
+  - language:
+      language: en
+    text: Order Tracking
+  - language:
+      language: es
+    text: Cancelar
+  - language:
+      language: fr
+    text: Annuler
+isFixed: false

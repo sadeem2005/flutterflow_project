@@ -1,0 +1,102 @@
+key: Button_g6sjkwa1
+type: Button
+props:
+  button:
+    text:
+      themeStyle: LABEL_MEDIUM
+      translationIdentifier:
+        key: p1ci0hje
+      textValue:
+        inputValue: Detail
+        mostRecentInputValue: Detail
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY_TEXT
+        mostRecentInputValue:
+          themeColor: PRIMARY_TEXT
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      topLeftValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+      topRightValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+      bottomLeftValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+      bottomRightValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+      allValue:
+        inputValue: 30
+        mostRecentInputValue: 30
+    innerPadding:
+      type: FF_PADDING_ONLY
+      leftValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+      topValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+      rightValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+      bottomValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+    dimensions:
+      height:
+        pixelsValue:
+          inputValue: 40
+          mostRecentInputValue: 40
+    elevationValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    fillColorValue:
+      inputValue:
+        themeColor: PRIMARY_BACKGROUND
+      mostRecentInputValue:
+        themeColor: PRIMARY_BACKGROUND
+    borderColorValue:
+      inputValue:
+        paletteColorName: Grey2
+      mostRecentInputValue:
+        paletteColorName: Grey2
+    borderWidthValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+  expanded:
+    expandedType: EXPANDED
+  responsiveVisibility: {}
+  themeOverrides:
+    - tagPath:
+        - 15
+    - tagPath:
+        - 9
+        - 26
+    - tagPath:
+        - 9
+        - 27
+    - tagPath:
+        - 9
+        - 24
+        - 2
+    - tagPath:
+        - 9
+        - 1
+        - 26
+    - tagPath:
+        - 9
+        - 1
+        - 28
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+themeWidgetInfo:
+  identifier:
+    name: ButtonNoColor
+    key: zezq9y
+  widgetHash: 454104242

@@ -1,0 +1,17 @@
+key: Text_6zkszqgw
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: j4sf6qol
+    selectable: false
+    textValue:
+      inputValue: Chat
+      mostRecentInputValue: Chat
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,95 @@
+key: PinCode_tqnbxhda
+type: PinCode
+props:
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+    rightValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+  expanded:
+    expandedType: UNEXPANDED
+  responsiveVisibility: {}
+  pinCode:
+    textStyle:
+      themeStyle: HEADLINE_SMALL
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    mainAxisAlignment: main_axis_space_evenly
+    shape: SHAPE_BOX
+    autoFocus: false
+    showCursor: true
+    hintText: false
+    errorTextSpace: 16
+    keyboardType: NUMBER
+    lengthValue:
+      inputValue: 4
+      mostRecentInputValue: 4
+    enableActiveFillValue:
+      inputValue: false
+      mostRecentInputValue: false
+    fieldHeightValue:
+      inputValue: 70
+      mostRecentInputValue: 70
+    fieldWidthValue:
+      inputValue: 60
+      mostRecentInputValue: 60
+    borderWidthValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    activeColorValue:
+      inputValue:
+        themeColor: PRIMARY
+      mostRecentInputValue:
+        themeColor: PRIMARY
+    selectedColorValue:
+      inputValue:
+        paletteColorName: Grey
+      mostRecentInputValue:
+        paletteColorName: Grey
+    inactiveColorValue:
+      inputValue:
+        paletteColorName: Grey2
+      mostRecentInputValue:
+        paletteColorName: Grey2
+    cursorColorValue:
+      inputValue:
+        themeColor: PRIMARY
+      mostRecentInputValue:
+        themeColor: PRIMARY
+    borderRadiusValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    obscureTextValue:
+      inputValue: false
+      mostRecentInputValue: false
+    obscuringCharacterValue:
+      inputValue: "*"
+      mostRecentInputValue: "*"
+    hintCharacterValue:
+      inputValue: ●
+      mostRecentInputValue: ●
+  themeOverrides:
+    - tagPath:
+        - 15
+    - tagPath:
+        - 76
+        - 24
+    - tagPath:
+        - 76
+        - 2
+        - 8
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+themeWidgetInfo:
+  identifier:
+    name: PinCode
+    key: psbvui
+  widgetHash: 62844958
+valueKey: {}

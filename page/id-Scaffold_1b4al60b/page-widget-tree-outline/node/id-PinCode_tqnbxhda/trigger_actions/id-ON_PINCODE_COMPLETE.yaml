@@ -1,0 +1,6 @@
+rootAction:
+  key: 9s8e69gg
+  action:
+    key: 48x2qf9p
+trigger:
+  triggerType: ON_PINCODE_COMPLETE

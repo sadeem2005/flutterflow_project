@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 4ligppz0
+translations:
+  - language:
+      language: en
+    text: Send Code
+  - language:
+      language: es
+    text: Enviar código
+  - language:
+      language: fr
+    text: Envoyer le code
+isFixed: false

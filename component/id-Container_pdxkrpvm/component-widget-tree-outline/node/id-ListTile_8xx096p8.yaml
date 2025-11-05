@@ -1,0 +1,75 @@
+key: ListTile_8xx096p8
+type: ListTile
+props:
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 3
+      mostRecentInputValue: 3
+  listTile:
+    title:
+      themeStyle: TITLE_MEDIUM
+      translationIdentifier:
+        key: i3gyatzv
+      textValue:
+        inputValue: Change Password
+        mostRecentInputValue: Change Password
+      fontSizeValue:
+        inputValue: 14
+        mostRecentInputValue: 14
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY_TEXT
+        mostRecentInputValue:
+          themeColor: PRIMARY_TEXT
+    subtitle:
+      themeStyle: LABEL_SMALL
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+      textAlignValue:
+        inputValue: ALIGN_START
+    slidable: false
+    denseValue:
+      inputValue: true
+      mostRecentInputValue: true
+    leadingValue:
+      inputValue:
+        sizeValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        colorValue:
+          inputValue:
+            themeColor: SECONDARY_TEXT
+          mostRecentInputValue:
+            themeColor: SECONDARY_TEXT
+        iconDataValue:
+          inputValue:
+            codePoint: 63301
+            family: MaterialIcons
+            matchTextDirection: false
+            name: file_copy_rounded
+    trailingValue:
+      inputValue:
+        sizeValue:
+          inputValue: 22
+          mostRecentInputValue: 22
+        colorValue:
+          inputValue:
+            themeColor: SECONDARY_TEXT
+          mostRecentInputValue:
+            themeColor: SECONDARY_TEXT
+        iconDataValue:
+          inputValue:
+            codePoint: 58197
+            family: MaterialIcons
+            matchTextDirection: false
+            name: keyboard_arrow_right
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+name: Blog-p
+parameterValues: {}
+valueKey: {}

@@ -1,0 +1,54 @@
+rootFolders:
+  - key: 0pa5wj9s
+    name: pages
+  - key: 9wim17pb
+    name: Components
+widgetClassKeyToFolderKey:
+  Container_ebie8cec: 9wim17pb
+  Container_jhfnphj7: 9wim17pb
+  Container_keb8n16a: 9wim17pb
+  Container_ilts45kf: 9wim17pb
+  Container_d1xrugmq: 9wim17pb
+  Container_m7mqv9pr: 9wim17pb
+  Container_f9vj2xd9: 9wim17pb
+  Container_6otsu9wm: 9wim17pb
+  Container_9r5q1jhj: 9wim17pb
+  Container_b315abn4: 9wim17pb
+  Container_bzutypwc: 9wim17pb
+  Container_g0kw3qrf: 9wim17pb
+  Container_gt7glqer: 9wim17pb
+  Container_jfdob9ja: 9wim17pb
+  Container_l67f1noa: 9wim17pb
+  Container_nj390plx: 9wim17pb
+  Container_qe1m7lby: 9wim17pb
+  Container_qri4kcp7: 9wim17pb
+  Container_w1rabwnz: 9wim17pb
+  Container_wbsi8b11: 9wim17pb
+  Container_wbt8g0iv: 9wim17pb
+  Container_x4kppwgw: 9wim17pb
+  Container_ykgyhw2w: 9wim17pb
+  Scaffold_1b4al60b: 0pa5wj9s
+  Scaffold_2uo7kb25: 0pa5wj9s
+  Scaffold_52prh850: 0pa5wj9s
+  Scaffold_4h5z79hs: 0pa5wj9s
+  Scaffold_60002fqj: 0pa5wj9s
+  Scaffold_6n5k1wjz: 0pa5wj9s
+  Scaffold_8o9dxqap: 0pa5wj9s
+  Scaffold_99of2xyh: 0pa5wj9s
+  Scaffold_9x67jbfq: 0pa5wj9s
+  Scaffold_b9911l2j: 0pa5wj9s
+  Scaffold_bck1uck0: 0pa5wj9s
+  Scaffold_bjw8omdv: 0pa5wj9s
+  Scaffold_e2m6mjco: 0pa5wj9s
+  Scaffold_f7ysto4d: 0pa5wj9s
+  Scaffold_gqt8ylrd: 0pa5wj9s
+  Scaffold_h6o86jll: 0pa5wj9s
+  Scaffold_jm71bt3o: 0pa5wj9s
+  Scaffold_kbl790go: 0pa5wj9s
+  Scaffold_kbot756g: 0pa5wj9s
+  Scaffold_m1tzi12d: 0pa5wj9s
+  Scaffold_mypw9itn: 0pa5wj9s
+  Scaffold_nvedayzl: 0pa5wj9s
+  Scaffold_ofrl1jem: 0pa5wj9s
+  Scaffold_uzmit8gt: 0pa5wj9s
+  Scaffold_xqbu7ntl: 0pa5wj9s

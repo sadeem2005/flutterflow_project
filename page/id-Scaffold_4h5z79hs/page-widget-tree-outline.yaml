@@ -1,0 +1,65 @@
+node:
+  key: Scaffold_4h5z79hs
+  body:
+    key: Stack_vrapq77w
+    children:
+      - key: Container_sikzy3bd
+        children:
+          - key: Column_6xxxviqt
+            children:
+              - key: Container_8vda77f7
+                children:
+                  - key: Row_knyncpaa
+                    children:
+                      - key: Container_lurto9ew
+                      - key: Text_qyndddjh
+                      - key: IconButton_ooca7yg4
+              - key: Column_lefwt9im
+                children:
+                  - key: Column_0jh2q9vn
+                    children:
+                      - key: Row_t0430rym
+                        children:
+                          - key: Text_0w41ej4z
+                      - key: Column_n2zvw7yu
+                        children:
+                          - key: Container_mn1xmsf5
+                            children:
+                              - key: ListTile_zrkwxdhd
+                          - key: Container_k6lfiy79
+                            children:
+                              - key: ListTile_v7ijymcj
+                          - key: Container_f13y0v57
+                            children:
+                              - key: ListTile_1r8ioi2n
+                          - key: Container_03xqbpeg
+                            children:
+                              - key: ListTile_e889kcg8
+                          - key: Container_kaukyang
+                            children:
+                              - key: ListTile_fu2b0y18
+                          - key: Container_mizowj9m
+                            children:
+                              - key: ListTile_ld46rgd1
+                  - key: Column_0q42u8jn
+                    children:
+                      - key: Row_utv3fd0f
+                        children:
+                          - key: Text_cysvjo18
+                      - key: Column_jwzycn29
+                        children:
+                          - key: Container_9ot9o2t6
+                            children:
+                              - key: ListTile_xtta3c0x
+                          - key: Container_4sdbnycq
+                            children:
+                              - key: ListTile_pp76em4x
+                          - key: Container_ag30i5wv
+                            children:
+                              - key: ListTile_a5del2vn
+                  - key: Column_nphi9won
+                    children:
+                      - key: Row_x488053o
+                        children:
+                          - key: Text_u8o0ls42
+      - key: Container_y56zv27m

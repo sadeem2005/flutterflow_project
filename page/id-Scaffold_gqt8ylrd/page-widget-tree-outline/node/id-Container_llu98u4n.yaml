@@ -1,0 +1,50 @@
+key: Container_llu98u4n
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 32
+          mostRecentInputValue: 32
+      height:
+        pixelsValue:
+          inputValue: 32
+          mostRecentInputValue: 32
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 10
+          mostRecentInputValue: 10
+        topRightValue:
+          inputValue: 10
+          mostRecentInputValue: 10
+        bottomLeftValue:
+          inputValue: 10
+          mostRecentInputValue: 10
+        bottomRightValue:
+          inputValue: 10
+          mostRecentInputValue: 10
+        allValue:
+          inputValue: 10
+          mostRecentInputValue: 10
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+      colorValue:
+        inputValue:
+          paletteColorName: Grey3
+        mostRecentInputValue:
+          paletteColorName: Grey3
+    maxDimensions: {}
+    minDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

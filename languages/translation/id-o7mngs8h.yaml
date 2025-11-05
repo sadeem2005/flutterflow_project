@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: o7mngs8h
+translations:
+  - language:
+      language: en
+    text: History
+  - language:
+      language: es
+    text: Historia
+  - language:
+      language: fr
+    text: Histoire
+isFixed: false

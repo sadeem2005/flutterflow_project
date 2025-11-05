@@ -1,0 +1,12 @@
+key: Container_d1xrugmq
+type: Container
+props:
+  container:
+    boxDecoration:
+      colorValue:
+        inputValue:
+          value: "0"
+        mostRecentInputValue:
+          value: "0"
+name: addToCard_modal
+isDummyRoot: true

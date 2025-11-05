@@ -1,0 +1,16 @@
+key: RichTextSpan_sjc2zoox
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      themeStyle: TITLE_SMALL
+      translationIdentifier:
+        key: rfwc3vsv
+      textValue:
+        inputValue: ", valid for today only"
+        mostRecentInputValue: ", valid for today only"
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 207mlkda
+translations:
+  - language:
+      language: en
+    text: My Cart
+  - language:
+      language: es
+    text: Mi carrito
+  - language:
+      language: fr
+    text: Mon panier
+isFixed: false

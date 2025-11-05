@@ -1,0 +1,24 @@
+key: Icon_hfdjxlni
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    colorValue:
+      inputValue:
+        themeColor: WARNING
+      mostRecentInputValue:
+        themeColor: WARNING
+    iconDataValue:
+      inputValue:
+        codePoint: 983508
+        family: MaterialIcons
+        matchTextDirection: false
+        name: star_rounded
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

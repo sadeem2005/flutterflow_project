@@ -1,0 +1,84 @@
+key: ListTile_xtta3c0x
+type: ListTile
+props:
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  listTile:
+    title:
+      themeStyle: BODY_MEDIUM
+      translationIdentifier:
+        key: ivdshgsr
+      textValue:
+        inputValue: Legal and Policies
+        mostRecentInputValue: Legal and Policies
+      fontWeightValue:
+        inputValue: w500
+    subtitle:
+      themeStyle: LABEL_MEDIUM
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    slidable: false
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_BACKGROUND
+      mostRecentInputValue:
+        themeColor: PRIMARY_BACKGROUND
+    leadingValue:
+      inputValue:
+        sizeValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY_TEXT
+          mostRecentInputValue:
+            themeColor: PRIMARY_TEXT
+        iconDataValue:
+          inputValue:
+            codePoint: 60622
+            family: Tabler-Icons
+            matchTextDirection: false
+            name: shield
+            isCustom: true
+    trailingValue:
+      inputValue:
+        sizeValue:
+          inputValue: 20
+          mostRecentInputValue: 20
+        colorValue:
+          inputValue:
+            paletteColorName: Grey2
+          mostRecentInputValue:
+            paletteColorName: Grey2
+        iconDataValue:
+          inputValue:
+            codePoint: 57500
+            family: MaterialIcons
+            matchTextDirection: true
+            name: arrow_forward_ios
+  responsiveVisibility: {}
+  themeOverrides:
+    - tagPath:
+        - 18
+        - 2
+        - 26
+    - tagPath:
+        - 18
+        - 12
+        - 1
+        - 7
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+themeWidgetInfo:
+  identifier:
+    name: ListTitleItem
+    key: ohd044
+  widgetHash: 242161236
+valueKey: {}

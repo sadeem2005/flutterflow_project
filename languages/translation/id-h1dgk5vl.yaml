@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: h1dgk5vl
+translations:
+  - language:
+      language: en
+    text: Enter voucher code
+  - language:
+      language: es
+    text: Ingrese código de descuento
+  - language:
+      language: fr
+    text: Entrer le code du bon
+isFixed: false

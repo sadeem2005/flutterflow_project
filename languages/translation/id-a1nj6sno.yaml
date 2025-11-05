@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: a1nj6sno
+translations:
+  - language:
+      language: en
+    text: "$ "
+  - language:
+      language: es
+    text: ps
+  - language:
+      language: fr
+    text: $
+isFixed: false

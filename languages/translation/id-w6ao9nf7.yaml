@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: w6ao9nf7
+translations:
+  - language:
+      language: en
+    text: Google connected.
+  - language:
+      language: es
+    text: Google conectado.
+  - language:
+      language: fr
+    text: Google connecté.
+isFixed: false

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: d216tz8f
+translations:
+  - language:
+      language: en
+    text: "By using this application, you agree to comply with and be bound by the following terms and conditions. Please review them carefully. If you do not agree to these terms, you should not use this application. The term \"us\" or \"we\" refers to [Your Company Name], the owner of this application. The term \"you\" refers to the user or viewer of our application.\n\nTerms, you should not use this application. The term \"us\" or \"we\" refers to [Your Company Name], the owner of this application. The term \"you\" refers to the user or viewer of our application."
+  - language:
+      language: es
+    text: "Al utilizar esta aplicación, usted acepta cumplir y estar sujeto a los siguientes términos y condiciones. Por favor revíselos detenidamente. Si no está de acuerdo con estos términos, no debe utilizar esta aplicación. El término \"nosotros\" o \"nosotros\" se refiere a [Nombre de su empresa], el propietario de esta aplicación. El término \"usted\" se refiere al usuario o espectador de nuestra aplicación.\n\nTérminos, no debes utilizar esta aplicación. El término \"nosotros\" o \"nosotros\" se refiere a [Nombre de su empresa], el propietario de esta aplicación. El término \"usted\" se refiere al usuario o espectador de nuestra aplicación."
+  - language:
+      language: fr
+    text: "En utilisant cette application, vous acceptez de respecter et d'être lié par les termes et conditions suivants. Veuillez les examiner attentivement. Si vous n'acceptez pas ces conditions, vous ne devez pas utiliser cette application. Le terme « nous » ou « nous » fait référence à [Nom de votre entreprise], propriétaire de cette application. Le terme « vous » fait référence à l'utilisateur ou au spectateur de notre application.\n\nConditions, vous ne devez pas utiliser cette application. Le terme « nous » ou « nous » fait référence à [Nom de votre entreprise], propriétaire de cette application. Le terme « vous » fait référence à l'utilisateur ou au spectateur de notre application."
+isFixed: false

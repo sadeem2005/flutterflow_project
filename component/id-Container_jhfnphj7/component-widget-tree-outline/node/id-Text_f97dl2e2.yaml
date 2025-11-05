@@ -1,0 +1,19 @@
+key: Text_f97dl2e2
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: t0wp5kyz
+    selectable: false
+    textValue:
+      inputValue: Enter youe mail or phone number
+      mostRecentInputValue: Enter youe mail or phone number
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

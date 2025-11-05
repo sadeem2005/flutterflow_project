@@ -1,0 +1,15 @@
+key: Row_h3509g47
+type: Row
+props:
+  row:
+    mainAxisAlignment: main_axis_space_between
+    listSpacing:
+      spacingValue:
+        inputValue: 10
+        mostRecentInputValue: 10
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,53 @@
+key: ToggleIcon_agp8pmq8
+type: ToggleIcon
+props:
+  toggleIcon:
+    valueValue:
+      variable:
+        source: LOCAL_STATE
+        baseVariable:
+          localState:
+            fieldIdentifier:
+              name: selected
+              key: 2o2zxv1x
+            stateVariableType: APP_STATE
+    iconOnValue:
+      inputValue:
+        sizeValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY_BACKGROUND
+          mostRecentInputValue:
+            themeColor: PRIMARY_BACKGROUND
+        iconDataValue:
+          inputValue:
+            codePoint: 63471
+            family: Tabler-Icons
+            matchTextDirection: false
+            name: heart
+            isCustom: true
+    iconOffValue:
+      inputValue:
+        sizeValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        colorValue:
+          inputValue:
+            themeColor: ERROR
+          mostRecentInputValue:
+            themeColor: ERROR
+        iconDataValue:
+          inputValue:
+            codePoint: 63465
+            family: Tabler-Icons
+            matchTextDirection: false
+            name: heartFilled
+            isCustom: true
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

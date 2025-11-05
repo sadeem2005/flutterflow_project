@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 1z4hfai6
+translations:
+  - language:
+      language: en
+    text: About Template
+  - language:
+      language: es
+    text: Acerca de la plantilla
+  - language:
+      language: fr
+    text: À propos du modèle
+isFixed: false

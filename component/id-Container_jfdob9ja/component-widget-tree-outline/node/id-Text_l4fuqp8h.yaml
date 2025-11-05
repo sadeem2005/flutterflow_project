@@ -1,0 +1,21 @@
+key: Text_l4fuqp8h
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: 7547er0v
+    selectable: false
+    textValue:
+      inputValue: 4827 8472 7424 ****
+      mostRecentInputValue: 4827 8472 7424 ****
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

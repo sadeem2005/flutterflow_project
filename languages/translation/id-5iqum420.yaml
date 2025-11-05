@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 5iqum420
+translations:
+  - language:
+      language: en
+    text: "Didn't recceive the code? "
+  - language:
+      language: es
+    text: ¿No recibiste el código?
+  - language:
+      language: fr
+    text: Vous n'avez pas reçu le code ?
+isFixed: false

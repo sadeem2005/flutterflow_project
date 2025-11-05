@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: iclmvv58
+translations:
+  - language:
+      language: en
+    text: Fastest
+  - language:
+      language: es
+    text: Lo más rápido
+  - language:
+      language: fr
+    text: Le plus rapide
+isFixed: false

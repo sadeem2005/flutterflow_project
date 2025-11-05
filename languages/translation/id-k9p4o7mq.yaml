@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: k9p4o7mq
+translations:
+  - language:
+      language: en
+    text: General
+  - language:
+      language: es
+    text: General
+  - language:
+      language: fr
+    text: Général
+isFixed: false

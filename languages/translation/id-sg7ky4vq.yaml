@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: sg7ky4vq
+translations:
+  - language:
+      language: en
+    text: 35min ago
+  - language:
+      language: es
+    text: Hace 35 minutos
+  - language:
+      language: fr
+    text: il y a 35 minutes
+isFixed: false

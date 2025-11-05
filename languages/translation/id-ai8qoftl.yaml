@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: ai8qoftl
+translations:
+  - language:
+      language: en
+    text: Order Successfully
+  - language:
+      language: es
+    text: Ordene con éxito
+  - language:
+      language: fr
+    text: Commandez avec succès
+isFixed: false

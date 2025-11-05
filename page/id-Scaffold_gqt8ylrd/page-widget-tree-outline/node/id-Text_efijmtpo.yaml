@@ -1,0 +1,24 @@
+key: Text_efijmtpo
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: kowjo7c8
+    selectable: false
+    textValue:
+      inputValue: Roast beef with black pepper
+      mostRecentInputValue: Roast beef with black pepper
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_BACKGROUND
+      mostRecentInputValue:
+        themeColor: PRIMARY_BACKGROUND
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: ahpgbw52
+translations:
+  - language:
+      language: en
+    text: Master Card
+  - language:
+      language: es
+    text: Tarjeta maestra
+  - language:
+      language: fr
+    text: Carte maîtresse
+isFixed: false

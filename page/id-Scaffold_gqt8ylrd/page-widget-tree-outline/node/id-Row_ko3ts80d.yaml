@@ -1,0 +1,21 @@
+key: Row_ko3ts80d
+type: Row
+props:
+  row:
+    scrollable: true
+    listSpacing:
+      spacingValue:
+        inputValue: 20
+        mostRecentInputValue: 20
+      startSpacingValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+      endSpacingValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

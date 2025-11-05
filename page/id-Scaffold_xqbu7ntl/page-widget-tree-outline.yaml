@@ -1,0 +1,101 @@
+node:
+  key: Scaffold_xqbu7ntl
+  body:
+    key: Stack_hoszn384
+    children:
+      - key: Container_5ognumxh
+        children:
+          - key: Column_ik0t56f3
+            children:
+              - key: Container_acovacmp
+                children:
+                  - key: Row_2o7qk75l
+                    children:
+                      - key: IconButton_7lmp4yfb
+                      - key: Text_u18debze
+                      - key: IconButton_w2f6s55g
+              - key: Column_nnmdl8l7
+                children:
+                  - key: Column_l01srfdq
+                    children:
+                      - key: Row_sk8vxzq3
+                        children:
+                          - key: TextField_125iomkf
+                      - key: Column_c2a4oaa7
+                        children:
+                          - key: Container_9zw55tix
+                            children:
+                              - key: Expandable_5dl0gwhp
+                                header:
+                                  key: PlaceholderWidget_1pwz5aou
+                                  children:
+                                    - key: Text_yppk9rs7
+                                collapsed:
+                                  key: PlaceholderWidget_u2i4heqo
+                                expanded:
+                                  key: PlaceholderWidget_04k8cfna
+                                  children:
+                                    - key: Container_8088ktpn
+                                      children:
+                                        - key: Text_qjh92du9
+                          - key: Container_fgwv7ei2
+                            children:
+                              - key: Expandable_ylsgqf5v
+                                header:
+                                  key: PlaceholderWidget_xgqf486r
+                                  children:
+                                    - key: Text_zcay151o
+                                collapsed:
+                                  key: PlaceholderWidget_rymhnin5
+                                expanded:
+                                  key: PlaceholderWidget_yynfou1b
+                                  children:
+                                    - key: Column_8h9dtdwp
+                                      children:
+                                        - key: Text_e5opbxr9
+                          - key: Container_e3mlgukx
+                            children:
+                              - key: Expandable_p167anca
+                                header:
+                                  key: PlaceholderWidget_lece973i
+                                  children:
+                                    - key: Text_jzh5n2rm
+                                collapsed:
+                                  key: PlaceholderWidget_hm5ua5v6
+                                expanded:
+                                  key: PlaceholderWidget_y253bhus
+                                  children:
+                                    - key: Column_cqgbqaak
+                                      children:
+                                        - key: Text_5jym4ocv
+                          - key: Container_3q590f95
+                            children:
+                              - key: Expandable_6leto50e
+                                header:
+                                  key: PlaceholderWidget_hkvaknb8
+                                  children:
+                                    - key: Text_8pe9oxhk
+                                collapsed:
+                                  key: PlaceholderWidget_egcoybrc
+                                expanded:
+                                  key: PlaceholderWidget_q7gt6alz
+                                  children:
+                                    - key: Column_8mm5t0tm
+                                      children:
+                                        - key: Text_xhevgf6r
+                          - key: Container_y1fkfp5o
+                            children:
+                              - key: Expandable_aewv9tw9
+                                header:
+                                  key: PlaceholderWidget_og4elsom
+                                  children:
+                                    - key: Text_4hue8ymg
+                                collapsed:
+                                  key: PlaceholderWidget_6t3cja6h
+                                expanded:
+                                  key: PlaceholderWidget_cnlny95z
+                                  children:
+                                    - key: Column_v9ver03c
+                                      children:
+                                        - key: Text_hm1649zq
+      - key: Container_p7uybwcf

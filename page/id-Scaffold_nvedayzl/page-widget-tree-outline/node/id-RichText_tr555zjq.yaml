@@ -1,0 +1,18 @@
+key: RichText_tr555zjq
+type: RichText
+props:
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  richText:
+    textStyle:
+      themeStyle: BODY_MEDIUM
+      maxLinesValue:
+        inputValue: 2
+        mostRecentInputValue: 2
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

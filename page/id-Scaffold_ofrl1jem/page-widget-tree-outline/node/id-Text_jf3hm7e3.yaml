@@ -1,0 +1,19 @@
+key: Text_jf3hm7e3
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: neg3msns
+    selectable: false
+    textValue:
+      inputValue: 124 Kcal
+      mostRecentInputValue: 124 Kcal
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

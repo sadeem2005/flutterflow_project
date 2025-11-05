@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: zuga39cj
+translations:
+  - language:
+      language: en
+    text: "Yes, Enable"
+  - language:
+      language: es
+    text: "Sí, habilitar"
+  - language:
+      language: fr
+    text: "Oui, activer"
+isFixed: false

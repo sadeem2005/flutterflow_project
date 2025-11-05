@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: disilbb6
+translations:
+  - language:
+      language: en
+    text: 15 min
+  - language:
+      language: es
+    text: 15 minutos
+  - language:
+      language: fr
+    text: 15 min
+isFixed: false

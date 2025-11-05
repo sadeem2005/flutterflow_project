@@ -1,0 +1,24 @@
+key: RichTextSpan_dzf1hlqv
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      themeStyle: TITLE_MEDIUM
+      translationIdentifier:
+        key: 365znznm
+      textValue:
+        inputValue: Get 2
+        mostRecentInputValue: Get 2
+      fontSizeValue:
+        inputValue: 22
+        mostRecentInputValue: 22
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY
+        mostRecentInputValue:
+          themeColor: PRIMARY
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

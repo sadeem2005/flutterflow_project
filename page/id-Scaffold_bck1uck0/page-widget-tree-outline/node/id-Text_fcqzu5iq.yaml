@@ -1,0 +1,32 @@
+key: Text_fcqzu5iq
+type: Text
+props:
+  text:
+    themeStyle: TITLE_LARGE
+    translationIdentifier:
+      key: 2egoby3b
+    selectable: false
+    textValue:
+      inputValue: Find and Get Your Best Food
+      mostRecentInputValue: Find and Get Your Best Food
+    maxLinesValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 40
+      mostRecentInputValue: 40
+    rightValue:
+      inputValue: 40
+      mostRecentInputValue: 40
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

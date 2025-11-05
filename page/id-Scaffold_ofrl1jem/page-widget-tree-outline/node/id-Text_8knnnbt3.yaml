@@ -1,0 +1,19 @@
+key: Text_8knnnbt3
+type: Text
+props:
+  text:
+    themeStyle: TITLE_SMALL
+    translationIdentifier:
+      key: mnx04jee
+    selectable: false
+    textValue:
+      inputValue: Menu Detail
+      mostRecentInputValue: Menu Detail
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

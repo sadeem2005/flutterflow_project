@@ -1,0 +1,15 @@
+key: Tab_6jl3k5ie
+type: Tab
+props:
+  tab:
+    text:
+      translationIdentifier:
+        key: 86o94vt0
+      textValue:
+        inputValue: Builderking
+        mostRecentInputValue: Builderking
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

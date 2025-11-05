@@ -1,0 +1,26 @@
+show: true
+showSelectedLabels: true
+showUnselectedLabels: true
+backgroundColor:
+  themeColor: PRIMARY_BACKGROUND
+unselectedIconColor:
+  paletteColorName: Grey
+navBarType: FLUTTER_NAV_BAR
+googleNavBarSettings: {}
+floatingNavBarSettings:
+  itemBorderRadius: 0
+  itemMargin: {}
+  itemPadding:
+    leftValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    topValue:
+      inputValue: 8
+      mostRecentInputValue: 8
+    rightValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    bottomValue:
+      inputValue: 8
+      mostRecentInputValue: 8
+responsiveVisibility: {}

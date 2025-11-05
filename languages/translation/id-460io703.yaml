@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 460io703
+translations:
+  - language:
+      language: en
+    text: My Orders
+  - language:
+      language: es
+    text: Mis ordenes
+  - language:
+      language: fr
+    text: Mes commandes
+isFixed: false

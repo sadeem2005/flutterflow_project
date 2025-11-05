@@ -1,0 +1,17 @@
+key: Text_r4mz5bif
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: oz87q4rw
+    selectable: false
+    textValue:
+      inputValue: Voucher
+      mostRecentInputValue: Voucher
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

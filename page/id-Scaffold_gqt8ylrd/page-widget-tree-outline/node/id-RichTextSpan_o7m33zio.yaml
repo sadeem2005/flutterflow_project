@@ -1,0 +1,24 @@
+key: RichTextSpan_o7m33zio
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      themeStyle: TITLE_MEDIUM
+      translationIdentifier:
+        key: jbmkdkf2
+      textValue:
+        inputValue: Get 1
+        mostRecentInputValue: Get 1
+      fontSizeValue:
+        inputValue: 22
+        mostRecentInputValue: 22
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY
+        mostRecentInputValue:
+          themeColor: PRIMARY
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

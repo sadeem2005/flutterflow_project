@@ -1,0 +1,15 @@
+key: Tab_84pknmuc
+type: Tab
+props:
+  tab:
+    text:
+      translationIdentifier:
+        key: 1z4hfai6
+      textValue:
+        inputValue: About Template
+        mostRecentInputValue: About Template
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

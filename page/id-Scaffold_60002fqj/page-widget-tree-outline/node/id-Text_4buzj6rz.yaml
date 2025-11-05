@@ -1,0 +1,17 @@
+key: Text_4buzj6rz
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: 0db8up0l
+    selectable: false
+    textValue:
+      inputValue: Price
+      mostRecentInputValue: Price
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

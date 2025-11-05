@@ -1,0 +1,15 @@
+name: Detail
+node:
+  key: Scaffold_ofrl1jem
+classModel:
+  stateFields:
+    - parameter:
+        identifier:
+          name: liked
+          key: 4onek
+        defaultValue: {}
+        dataType:
+          scalarType: Boolean
+          nonNullable: true
+      serializedDefaultValue:
+        - "false"

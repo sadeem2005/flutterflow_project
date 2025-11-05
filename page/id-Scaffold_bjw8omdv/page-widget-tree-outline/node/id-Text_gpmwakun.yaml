@@ -1,0 +1,22 @@
+key: Text_gpmwakun
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: 4mrn5ye1
+    selectable: false
+    textValue:
+      inputValue: Let’s find your unforgettable event. Choose a location below to get started.
+      mostRecentInputValue: Let’s find your unforgettable event. Choose a location below to get started.
+    maxLinesValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

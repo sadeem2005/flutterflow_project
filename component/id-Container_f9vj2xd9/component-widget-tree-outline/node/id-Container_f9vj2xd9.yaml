@@ -1,0 +1,12 @@
+key: Container_f9vj2xd9
+type: Container
+props:
+  container:
+    boxDecoration:
+      colorValue:
+        inputValue:
+          value: "0"
+        mostRecentInputValue:
+          value: "0"
+name: orderSuccess_modal
+isDummyRoot: true

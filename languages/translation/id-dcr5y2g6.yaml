@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: dcr5y2g6
+translations:
+  - language:
+      language: en
+    text: Los Angeles
+  - language:
+      language: es
+    text: los Angeles
+  - language:
+      language: fr
+    text: Los Angeles
+isFixed: false

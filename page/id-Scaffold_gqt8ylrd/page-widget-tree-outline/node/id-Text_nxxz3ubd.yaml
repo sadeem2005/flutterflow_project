@@ -1,0 +1,17 @@
+key: Text_nxxz3ubd
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: nudnmbzx
+    selectable: false
+    textValue:
+      inputValue: Help
+      mostRecentInputValue: Help
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

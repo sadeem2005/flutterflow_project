@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: t0v4dcf1
+translations:
+  - language:
+      language: en
+    text: Calories
+  - language:
+      language: es
+    text: calorías
+  - language:
+      language: fr
+    text: Calories
+isFixed: false

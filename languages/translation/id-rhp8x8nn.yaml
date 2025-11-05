@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: rhp8x8nn
+translations:
+  - language:
+      language: en
+    text: Touch ID
+  - language:
+      language: es
+    text: identifición de toque
+  - language:
+      language: fr
+    text: Toucher l'identification
+isFixed: false

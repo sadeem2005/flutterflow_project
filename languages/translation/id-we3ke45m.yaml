@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: we3ke45m
+translations:
+  - language:
+      language: en
+    text: Location
+  - language:
+      language: es
+    text: Ubicación
+  - language:
+      language: fr
+    text: Emplacement
+isFixed: false

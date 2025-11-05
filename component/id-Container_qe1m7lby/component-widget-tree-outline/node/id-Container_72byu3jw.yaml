@@ -1,0 +1,44 @@
+key: Container_72byu3jw
+type: Container
+props:
+  container:
+    dimensions: {}
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 18
+          mostRecentInputValue: 18
+        topRightValue:
+          inputValue: 18
+          mostRecentInputValue: 18
+        bottomLeftValue:
+          inputValue: 18
+          mostRecentInputValue: 18
+        bottomRightValue:
+          inputValue: 18
+          mostRecentInputValue: 18
+        allValue:
+          inputValue: 18
+          mostRecentInputValue: 18
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY_BACKGROUND
+        mostRecentInputValue:
+          themeColor: PRIMARY_BACKGROUND
+    maxDimensions: {}
+    minDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  expanded:
+    expandedType: EXPANDED
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

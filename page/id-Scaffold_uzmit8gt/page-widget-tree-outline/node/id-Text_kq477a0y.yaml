@@ -1,0 +1,19 @@
+key: Text_kq477a0y
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: qta47nw1
+    selectable: false
+    textValue:
+      inputValue: Change Password
+      mostRecentInputValue: Change Password
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

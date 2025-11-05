@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: epb53p4l
+translations:
+  - language:
+      language: en
+    text: Premium vegetable salad
+  - language:
+      language: es
+    text: Ensalada de verduras premium
+  - language:
+      language: fr
+    text: Salade de légumes haut de gamme
+isFixed: false

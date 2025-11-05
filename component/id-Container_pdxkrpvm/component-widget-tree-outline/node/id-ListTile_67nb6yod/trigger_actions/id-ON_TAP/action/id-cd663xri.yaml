@@ -1,0 +1,20 @@
+bottomSheet:
+  passedParameters:
+    parameterPasses: {}
+    widgetClassNodeKeyRef:
+      key: Container_d1xrugmq
+  dimensions:
+    height:
+      pixelsValue:
+        inputValue: Infinity
+        mostRecentInputValue: Infinity
+  isDismiss: false
+  backgroundColor:
+    inputValue:
+      color:
+        value: "0"
+  barrierColor: {}
+  useSafeArea: true
+  componentClassNodeKeyRef:
+    key: Container_d1xrugmq
+key: cd663xri

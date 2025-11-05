@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: zt4sy9vi
+translations:
+  - language:
+      language: en
+    text: Paypall
+  - language:
+      language: es
+    text: pago
+  - language:
+      language: fr
+    text: Paypal
+isFixed: false

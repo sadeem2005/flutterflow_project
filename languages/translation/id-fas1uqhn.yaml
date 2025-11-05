@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: fas1uqhn
+translations:
+  - language:
+      language: en
+    text: Note
+  - language:
+      language: es
+    text: Nota
+  - language:
+      language: fr
+    text: Note
+isFixed: false

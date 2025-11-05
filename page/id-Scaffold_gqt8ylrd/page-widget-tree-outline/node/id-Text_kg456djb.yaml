@@ -1,0 +1,22 @@
+key: Text_kg456djb
+type: Text
+props:
+  text:
+    themeStyle: BODY_SMALL
+    translationIdentifier:
+      key: a4ybqjxs
+    selectable: false
+    textValue:
+      inputValue: See All
+      mostRecentInputValue: See All
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+      mostRecentInputValue:
+        themeColor: PRIMARY
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

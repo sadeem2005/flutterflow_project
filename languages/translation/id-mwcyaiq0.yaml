@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: mwcyaiq0
+translations:
+  - language:
+      language: en
+    text: Cookies
+  - language:
+      language: es
+    text: Galletas
+  - language:
+      language: fr
+    text: Biscuits
+isFixed: false

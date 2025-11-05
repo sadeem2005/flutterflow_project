@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: j0wt8bqq
+translations:
+  - language:
+      language: en
+    text: "We have to sent the code verification 1234, Please enter the code to move forward"
+  - language:
+      language: es
+    text: Tenemos que enviar el código de verificación 1234. Ingrese el código para seguir adelante.
+  - language:
+      language: fr
+    text: "Nous devons envoyer le code de vérification 1234, veuillez entrer le code pour avancer"
+isFixed: false

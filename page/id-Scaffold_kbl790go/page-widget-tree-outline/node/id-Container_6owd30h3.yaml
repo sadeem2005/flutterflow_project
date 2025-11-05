@@ -1,0 +1,30 @@
+key: Container_6owd30h3
+type: Container
+props:
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    rightValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  alignment: {}
+  expanded: {}
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues:
+  parameterPasses:
+    gxrtil:
+      paramIdentifier:
+        name: text
+        key: gxrtil
+      inputValue:
+        serializedValue: Or
+  widgetClassNodeKeyRef:
+    key: Container_l67f1noa
+componentClassKeyRef:
+  key: Container_l67f1noa

@@ -1,0 +1,28 @@
+key: Column_8cic77yu
+type: Column
+props:
+  column:
+    crossAxisAlignment: cross_axis_stretch
+    primary: true
+    listSpacing:
+      spacingValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+      startSpacingValue:
+        inputValue: 32
+        mostRecentInputValue: 32
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 22
+      mostRecentInputValue: 22
+    rightValue:
+      inputValue: 22
+      mostRecentInputValue: 22
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

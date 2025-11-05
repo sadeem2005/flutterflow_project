@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: h6jszv9t
+translations:
+  - language:
+      language: en
+    text: "- Fried CHicken -"
+  - language:
+      language: es
+    text: "- Pollo frito -"
+  - language:
+      language: fr
+    text: "- Poulet frit -"
+isFixed: false

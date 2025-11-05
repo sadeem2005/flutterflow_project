@@ -1,0 +1,20 @@
+localStateUpdate:
+  updates:
+    - fieldIdentifier:
+        name: selected
+        key: 2o2zxv1x
+      setValue:
+        variable:
+          source: WIDGET_CLASS_PARAMETER
+          defaultValue:
+            serializedValue: "false"
+          baseVariable:
+            widgetClass:
+              paramIdentifier:
+                name: select
+                key: 1ovtzw
+          nodeKeyRef:
+            key: Container_x4kppwgw
+  updateType: WIDGET
+  stateVariableType: APP_STATE
+key: bdv0wupn

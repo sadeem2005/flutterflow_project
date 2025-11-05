@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: p19zdwc8
+translations:
+  - language:
+      language: en
+    text: Log Out
+  - language:
+      language: es
+    text: Cerrar sesión
+  - language:
+      language: fr
+    text: Se déconnecter
+isFixed: false

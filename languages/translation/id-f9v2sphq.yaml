@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: f9v2sphq
+translations:
+  - language:
+      language: en
+    text: Location
+  - language:
+      language: es
+    text: Ubicación
+  - language:
+      language: fr
+    text: Emplacement
+isFixed: false

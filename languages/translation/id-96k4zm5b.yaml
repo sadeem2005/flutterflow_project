@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 96k4zm5b
+translations:
+  - language:
+      language: en
+    text: Login
+  - language:
+      language: es
+    text: Acceso
+  - language:
+      language: fr
+    text: Se connecter
+isFixed: false

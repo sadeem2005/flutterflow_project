@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 3arxnrib
+translations:
+  - language:
+      language: en
+    text: Time
+  - language:
+      language: es
+    text: Tiempo
+  - language:
+      language: fr
+    text: Temps
+isFixed: false

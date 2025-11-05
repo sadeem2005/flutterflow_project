@@ -1,0 +1,26 @@
+key: Divider_citwvsic
+type: Divider
+props:
+  divider:
+    heightValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    thicknessValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    colorValue:
+      inputValue:
+        paletteColorName: Grey2
+      mostRecentInputValue:
+        paletteColorName: Grey2
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+themeWidgetInfo:
+  identifier:
+    name: DividerItem
+    key: 7izrx9
+  widgetHash: 495651280

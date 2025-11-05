@@ -1,0 +1,40 @@
+key: IconButton_11t4nc1i
+type: IconButton
+props:
+  iconButton:
+    buttonSize:
+      pixelsValue:
+        inputValue: 40
+        mostRecentInputValue: 40
+    borderRadiusValue:
+      inputValue: 10
+      mostRecentInputValue: 10
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 22
+          mostRecentInputValue: 22
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY_TEXT
+          mostRecentInputValue:
+            themeColor: PRIMARY_TEXT
+        iconDataValue:
+          inputValue:
+            codePoint: 61570
+            family: Tabler-Icons
+            matchTextDirection: false
+            name: arrowNarrowLeft
+            isCustom: true
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+themeWidgetInfo:
+  identifier:
+    name: IconBtnArrowLeft
+    key: c6ye52
+  widgetHash: 384849288
+valueKey: {}

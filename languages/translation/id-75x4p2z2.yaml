@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 75x4p2z2
+translations:
+  - language:
+      language: en
+    text: "40% discount for purchases over "
+  - language:
+      language: es
+    text: 40% de descuento por compras superiores
+  - language:
+      language: fr
+    text: "40\_% de réduction pour les achats supérieurs à"
+isFixed: false

@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: vgc5a2nk
+translations:
+  - language:
+      language: en
+    text: See All
+  - language:
+      language: es
+    text: Ver todo
+  - language:
+      language: fr
+    text: Voir tout
+isFixed: false

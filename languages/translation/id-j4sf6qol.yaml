@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: j4sf6qol
+translations:
+  - language:
+      language: en
+    text: Chat
+  - language:
+      language: es
+    text: Charlar
+  - language:
+      language: fr
+    text: Chat
+isFixed: false

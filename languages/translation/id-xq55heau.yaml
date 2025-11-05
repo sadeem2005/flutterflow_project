@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: xq55heau
+translations:
+  - language:
+      language: en
+    text: Enter your email or phone number
+  - language:
+      language: es
+    text: Introduce tu correo electrónico o número de teléfono
+  - language:
+      language: fr
+    text: Entrez votre email ou votre numéro de téléphone
+isFixed: false

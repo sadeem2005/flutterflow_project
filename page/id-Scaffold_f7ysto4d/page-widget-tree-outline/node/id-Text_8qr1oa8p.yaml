@@ -1,0 +1,17 @@
+key: Text_8qr1oa8p
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: wh324nbh
+    selectable: false
+    textValue:
+      inputValue: Yesterday
+      mostRecentInputValue: Yesterday
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

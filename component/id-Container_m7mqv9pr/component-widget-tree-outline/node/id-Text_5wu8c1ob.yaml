@@ -1,0 +1,21 @@
+key: Text_5wu8c1ob
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    translationIdentifier:
+      key: omu8rwmb
+    selectable: false
+    textValue:
+      inputValue: sask****@mail.com
+      mostRecentInputValue: sask****@mail.com
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

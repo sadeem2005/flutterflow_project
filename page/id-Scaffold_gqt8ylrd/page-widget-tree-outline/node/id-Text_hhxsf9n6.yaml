@@ -1,0 +1,17 @@
+key: Text_hhxsf9n6
+type: Text
+props:
+  text:
+    themeStyle: DISPLAY_SMALL
+    translationIdentifier:
+      key: yivwb9sd
+    selectable: false
+    textValue:
+      inputValue: Magdalena Succrose
+      mostRecentInputValue: Magdalena Succrose
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

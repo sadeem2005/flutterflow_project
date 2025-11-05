@@ -1,0 +1,19 @@
+key: Text_28m61mn6
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: e1jkqztn
+    selectable: false
+    textValue:
+      inputValue: Card Holder Name
+      mostRecentInputValue: Card Holder Name
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

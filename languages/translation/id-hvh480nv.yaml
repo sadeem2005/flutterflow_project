@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: hvh480nv
+translations:
+  - language:
+      language: en
+    text: Home
+  - language:
+      language: es
+    text: Hogar
+  - language:
+      language: fr
+    text: Maison
+isFixed: false

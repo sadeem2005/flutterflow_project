@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 6vf2cznr
+translations:
+  - language:
+      language: en
+    text: Change payment method
+  - language:
+      language: es
+    text: Cambiar método de pago
+  - language:
+      language: fr
+    text: Changer la méthode de paiement
+isFixed: false

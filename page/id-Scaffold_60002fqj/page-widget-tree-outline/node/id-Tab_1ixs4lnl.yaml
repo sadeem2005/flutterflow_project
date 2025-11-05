@@ -1,0 +1,15 @@
+key: Tab_1ixs4lnl
+type: Tab
+props:
+  tab:
+    text:
+      translationIdentifier:
+        key: 42hehwip
+      textValue:
+        inputValue: History
+        mostRecentInputValue: History
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

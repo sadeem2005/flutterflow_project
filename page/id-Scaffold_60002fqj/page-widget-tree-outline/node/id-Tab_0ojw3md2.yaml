@@ -1,0 +1,15 @@
+key: Tab_0ojw3md2
+type: Tab
+props:
+  tab:
+    text:
+      translationIdentifier:
+        key: 5dnqugbt
+      textValue:
+        inputValue: My Order
+        mostRecentInputValue: My Order
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

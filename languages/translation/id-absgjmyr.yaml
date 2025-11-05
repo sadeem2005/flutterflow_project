@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: absgjmyr
+translations:
+  - language:
+      language: en
+    text: Login Account
+  - language:
+      language: es
+    text: Iniciar sesión cuenta
+  - language:
+      language: fr
+    text: Compte de connexion
+isFixed: false

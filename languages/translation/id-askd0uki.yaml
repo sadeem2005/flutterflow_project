@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: askd0uki
+translations:
+  - language:
+      language: en
+    text: Order Success
+  - language:
+      language: es
+    text: Orden exitosa
+  - language:
+      language: fr
+    text: Succès de la commande
+isFixed: false

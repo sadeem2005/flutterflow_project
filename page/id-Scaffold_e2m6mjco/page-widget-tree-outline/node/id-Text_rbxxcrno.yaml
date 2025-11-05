@@ -1,0 +1,19 @@
+key: Text_rbxxcrno
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: pv5ygd8b
+    selectable: false
+    textValue:
+      inputValue: Notifications
+      mostRecentInputValue: Notifications
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

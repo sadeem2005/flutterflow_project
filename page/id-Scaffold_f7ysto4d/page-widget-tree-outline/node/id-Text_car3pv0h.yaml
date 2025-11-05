@@ -1,0 +1,22 @@
+key: Text_car3pv0h
+type: Text
+props:
+  text:
+    themeStyle: LABEL_SMALL
+    translationIdentifier:
+      key: sg7ky4vq
+    selectable: false
+    textValue:
+      inputValue: 35min ago
+      mostRecentInputValue: 35min ago
+    maxLinesValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

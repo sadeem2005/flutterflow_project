@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: f9al2jiq
+translations:
+  - language:
+      language: en
+    text: The experience of buying food quickly
+  - language:
+      language: es
+    text: La experiencia de comprar comida rápidamente
+  - language:
+      language: fr
+    text: L’expérience d’acheter de la nourriture rapidement
+isFixed: false

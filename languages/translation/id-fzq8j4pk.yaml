@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: fzq8j4pk
+translations:
+  - language:
+      language: en
+    text: "$ "
+  - language:
+      language: es
+    text: ps
+  - language:
+      language: fr
+    text: $
+isFixed: false

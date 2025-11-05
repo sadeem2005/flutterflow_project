@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: akeff4oi
+translations:
+  - language:
+      language: en
+    text: Mustard
+  - language:
+      language: es
+    text: Mostaza
+  - language:
+      language: fr
+    text: Moutarde
+isFixed: false

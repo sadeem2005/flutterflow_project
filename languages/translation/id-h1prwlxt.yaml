@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: h1prwlxt
+translations:
+  - language:
+      language: en
+    text: 5min ago
+  - language:
+      language: es
+    text: Hace 5 minutos
+  - language:
+      language: fr
+    text: il y a 5 minutes
+isFixed: false

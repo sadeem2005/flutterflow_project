@@ -1,0 +1,19 @@
+key: Text_amtd1h18
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: 8dzaf869
+    selectable: false
+    textValue:
+      inputValue: Confirm Password
+      mostRecentInputValue: Confirm Password
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

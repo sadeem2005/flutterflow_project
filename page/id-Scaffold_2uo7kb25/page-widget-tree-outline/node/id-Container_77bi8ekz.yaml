@@ -1,0 +1,15 @@
+key: Container_77bi8ekz
+type: Container
+props:
+  alignment: {}
+  expanded: {}
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues:
+  widgetClassNodeKeyRef:
+    key: Container_qri4kcp7
+componentClassKeyRef:
+  key: Container_qri4kcp7

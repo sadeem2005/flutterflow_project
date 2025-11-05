@@ -1,0 +1,13 @@
+key: Container_qoioqimw
+type: Container
+props:
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues:
+  widgetClassNodeKeyRef:
+    key: Container_wbsi8b11
+componentClassKeyRef:
+  key: Container_wbsi8b11

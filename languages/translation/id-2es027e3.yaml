@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 2es027e3
+translations:
+  - language:
+      language: en
+    text: Connect device
+  - language:
+      language: es
+    text: Conectar dispositivo
+  - language:
+      language: fr
+    text: Connecter l'appareil
+isFixed: false

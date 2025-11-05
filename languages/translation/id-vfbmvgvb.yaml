@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: vfbmvgvb
+translations:
+  - language:
+      language: en
+    text: Verify
+  - language:
+      language: es
+    text: Verificar
+  - language:
+      language: fr
+    text: Vérifier
+isFixed: false

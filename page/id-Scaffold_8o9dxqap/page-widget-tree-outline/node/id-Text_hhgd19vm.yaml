@@ -1,0 +1,19 @@
+key: Text_hhgd19vm
+type: Text
+props:
+  text:
+    themeStyle: DISPLAY_SMALL
+    translationIdentifier:
+      key: 6x0nymve
+    selectable: false
+    textValue:
+      inputValue: English
+      mostRecentInputValue: English
+  expanded:
+    expandedType: UNEXPANDED
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

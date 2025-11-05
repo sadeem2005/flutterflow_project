@@ -1,0 +1,15 @@
+name: DetailTwo
+node:
+  key: Scaffold_mypw9itn
+classModel:
+  stateFields:
+    - parameter:
+        identifier:
+          name: liked
+          key: yu8k8
+        defaultValue: {}
+        dataType:
+          scalarType: Boolean
+          nonNullable: true
+      serializedDefaultValue:
+        - "false"

@@ -1,0 +1,24 @@
+key: Text_s7k4m979
+type: Text
+props:
+  text:
+    themeStyle: BODY_LARGE
+    translationIdentifier:
+      key: 2to6yrso
+    selectable: false
+    textValue:
+      inputValue: New message from Chris
+      mostRecentInputValue: New message from Chris
+    maxLinesValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+    fontWeightValue:
+      inputValue: w600
+  expanded:
+    expandedType: FLEXIBLE
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

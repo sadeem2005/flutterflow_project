@@ -1,0 +1,17 @@
+key: Text_cysvjo18
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    translationIdentifier:
+      key: cow5ksut
+    selectable: false
+    textValue:
+      inputValue: Preferencess
+      mostRecentInputValue: Preferencess
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

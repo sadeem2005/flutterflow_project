@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: 3wz6lqp1
+translations:
+  - language:
+      language: en
+    text: Verification
+  - language:
+      language: es
+    text: Verificación
+  - language:
+      language: fr
+    text: Vérification
+isFixed: false

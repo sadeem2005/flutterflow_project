@@ -1,0 +1,6 @@
+rootAction:
+  key: ggd810q0
+  action:
+    key: 8becmxri
+trigger:
+  triggerType: ON_TAP

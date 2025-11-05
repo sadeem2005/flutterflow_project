@@ -1,0 +1,25 @@
+key: Icon_oinwqy15
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+      mostRecentInputValue:
+        themeColor: PRIMARY
+    iconDataValue:
+      inputValue:
+        codePoint: 59889
+        family: Tabler-Icons
+        matchTextDirection: false
+        name: mapPin
+        isCustom: true
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

@@ -1,0 +1,19 @@
+key: Text_rxm744vh
+type: Text
+props:
+  text:
+    themeStyle: LABEL_LARGE
+    translationIdentifier:
+      key: ni88nv7q
+    selectable: false
+    textValue:
+      inputValue: 15 min
+      mostRecentInputValue: 15 min
+  expanded:
+    expandedType: UNEXPANDED
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

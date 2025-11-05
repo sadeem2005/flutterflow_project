@@ -1,0 +1,13 @@
+translationIdentifier:
+  key: e9n9xv7z
+translations:
+  - language:
+      language: en
+    text: Home
+  - language:
+      language: es
+    text: Hogar
+  - language:
+      language: fr
+    text: Maison
+isFixed: false

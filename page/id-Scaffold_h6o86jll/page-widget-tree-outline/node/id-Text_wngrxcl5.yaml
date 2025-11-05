@@ -1,0 +1,23 @@
+key: Text_wngrxcl5
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: w6ao9nf7
+    selectable: false
+    textValue:
+      inputValue: Google connected.
+      mostRecentInputValue: Google connected.
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+      mostRecentInputValue:
+        themeColor: SECONDARY_TEXT
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

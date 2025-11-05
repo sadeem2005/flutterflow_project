@@ -1,0 +1,31 @@
+key: Row_ce8nw3jr
+type: Row
+props:
+  row:
+    listSpacing:
+      spacingValue:
+        inputValue: 18
+        mostRecentInputValue: 18
+  padding:
+    type: FF_PADDING_ALL
+    leftValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    topValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    rightValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    bottomValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    allValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
